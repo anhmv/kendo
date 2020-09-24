@@ -195,25 +195,3 @@ Also, as weel as practicing alone with shinai, they can be practiced:
 * Practicing suburi forward abdn backwards up and down the Dojo length on one breath to help breathe control and ashi-sabaki.
 * Using hiraki-ashi or fumi-komi-ashi to learn ashi-sabaki.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
