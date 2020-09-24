@@ -14,7 +14,7 @@ The elements needed for correct suburi are:
 
 **Furu** - to move the shinai, continuously up and down or diagonally right and left.
 
-#### Joge Suburi \(also Joge-buri\)
+### Joge Suburi \(also Joge-buri\)
 
 * Starting from the correct Chudan-no-kamae position: 
 
@@ -53,7 +53,7 @@ Once you have mastered the basic swing and **Okuri-ashi** footwork, moving forwa
 * Immediately swing down shinai and bring back the right foot in front of the left - so it is in place at the same moment the swing finishes at knee level - with shout - normally counting, e.g. "ni"
 * Repeat sequence 10, 30, 50, 100 times as required to learn it.
 
-#### Naname Suburi \(Naname-buri\)
+### Naname Suburi \(Naname-buri\)
 
 Naname suburi is a progression from Joge suburi where the swings are diagonal. Where as Joge suburi leads to Men and Kote striking, Naname-buri is the basis of Sayu Men \(right and left\) and Do; Most of the exercise should be performed as Joge Subutir, with some changes:
 
@@ -72,13 +72,13 @@ Naname suburi is a progression from Joge suburi where the swings are diagonal. W
 * Left hand \(think of left thumb\) must remain in the center body line during entire swing.
 * Once you have mastered the basic swing, add **Okuri-ashi** footwork, moving forward/backward and later **hiraki-ashi** footwork \(moving diagonal sideways\).
 
-#### Kukan Datotsu
+### Kukan Datotsu
 
 This is suburi practice where we imagines cutting a similar sized opponent's target zones of Shomen, Migi, and Hidari men, kote, migi and hidari do and thrust to tsuki.
 
 I will focus on **Shomen** \(straight frontal head cut\) suburi - as this fundamental strike must be mastered before you can properly learn any other cuts.
 
-#### Shomen Suburi
+### Shomen Suburi
 
 * Assume **Chudan-no-kamae** - it is essential that your posture, grip and kamae are correct - otherwise it will affect and destroy your suburi. \(Check Kamae in mirror if needed\)
 
@@ -129,7 +129,7 @@ The right arm is the forward one and normally the strongest, so there is a tende
 * Kensen should not be below level of the hands - maybe sign of incorrect grip or hand position in Kamae.
 * Not completing cut, but pulling it back upwards without completing action - try pausing.
 
-#### Kake-goe \(shouts\)
+### Kake-goe \(shouts\)
 
 **Kake-goe** is a natural vocalization which shows that one is full of spirit and on guard. It can serve to encourage one's self, to intimidate the opponent, and to announce victory.
 
