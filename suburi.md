@@ -181,12 +181,12 @@ Later, do both actions in one continuous motion \(Ik-kyo-do\) - no pause betwen 
 
 The above basics can be expanded to include other suburi, such as:
 
-* Sonkyo suburi - cut when rising, furi-kaburi as sinking back to sonkyo.
-* Matawari suburi - feet in wide stance, and cutting as you squat/sink down.
-* Saya Men suburi - cutting to the left and right men.
-* Kote men suburi - practice renzuku kote and men forwards then back.
-* Katate suburi - using only left hand \(best performed against target.\)
-* Haya suburi - using jumping foot work to cut forward and backwards.
+* **Sonkyo suburi** - cut when rising, furi-kaburi as sinking back to sonkyo.
+* **Matawari suburi** - feet in wide stance, and cutting as you squat/sink down.
+* **Saya Men suburi** - cutting to the left and right men.
+* **Kote men suburi** - practice renzuku kote and men forwards then back.
+* **Katate suburi** - using only left hand \(best performed against target.\)
+* **Haya suburi** - using jumping foot work to cut forward and backwards.
 
 Also, as weel as practicing alone with shinai, they can be practiced:
 
