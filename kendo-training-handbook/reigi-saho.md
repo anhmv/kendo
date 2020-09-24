@@ -110,79 +110,79 @@ All senior students make sure the 道場 floor is safe and tape / make any holes
 
 #### **At the end of practice**:
 
-* **Sei retsu**: line up in correct order
-* **Chakuza**: all sit down in Seiza.
-* **Men o tore**: Take off kote and men
-* **Shisei o tadashite**: straighten back/sit up straight.
-* **Mokuso**: a brief moment for mediation.
-* **Yame**: stop mokuso
-* **Shomen nirei**: bow to the flag \(Kamiza\)
-* **Sensei \(gatta\) ni rei**: bow to the sensei
-* **Otagai ni rei**: bow to each other, and thank them very much; "**Arigatou gozaimashita**"
+* 整列「せいれつ」: line up in correct order
+* 着座「ちゃくざ」: all sit down in 正座.
+* 面を取れ「めんをとれ」: Take off kote and men
+* 姿勢を正して「しせいをただして」: straighten back/sit up straight.
+* 黙想「もくそう」: a brief moment for mediation.
+* やめ: stop
+* 正面に礼「しょうめんにれい」: bow to the flag \(Kamiza\)
+* 先生がったに礼「せんせいがったにれい」: bow to the sensei
+* お互いに礼「おたがいにれい」: bow to each other, and thank them very much; "ありがとうございます"
 
-Acknowledge **Sensei**, **Senpai** and each other with **Rei**; this is to show repsect and appreciation. To someone seinor, bow first and rise last. The each other, bow together simultaneously.
+Acknowledge 先生, 先輩「せんぱい」 and each other with 礼「れい」; this is to show respect and appreciation. To someone seinor, bow first and rise last. The each other, bow together simultaneously.
 
-### Shizen-tai
+### 自然体「しぜんたい」
 
 This natural posture is the basis of all kendo postures and movements.
 
 * The body should not feel strained.
 * The face and eyes should face straight forward.
-* Stretch the neck upward, and pull the chin back with feeling of stretching top of heat to reach the ceiling. \(There should be no gap between neck and Kendo-gi.\)
+* Stretch the neck upward, and pull the chin back with feeling of stretching top of heat to reach the ceiling. \(There should be no gap between neck and 剣道着「けんどうぎ」.\)
 * Shoulders are relaxed, with feeling of being held slightly back.
 * Arms should hand naturally by your side, with fingers together.
 * The hips are help straight, and lower abdomen held taut with feeling of tightening the buttocks.
 * Knees should not be bent, but relaxed, i.e. not completely straight legged.
 * The feet slightly apart, heels drawn in, you should have your weight evenly applied.
 
-### Ritsu-rei
+### 立礼「りつれい」
 
-There are two kinds of standing bow. The one to your opponent \(**moku-rei**\) and secondly, a formal bow, which we use bowing to the Shomen or sensei. The bow can be performed with or without sword \(**shinai**\). The main difference between them is the angle of the bow, and the eye contact.
+There are two kinds of standing bow. The one to your opponent \(僕礼「ぼくれい」) and secondly, a formal bow, which we use bowing to the 正面 or 先生. The bow can be performed with or without sword \(竹刀\). The main difference between them is the angle of the bow, and the eye contact.
 
-When entering or leaving the dojo we perform a formal bow towards the Shomen or senior Sensei.
+When entering or leaving the 道場 we perform a formal bow towards the 正面 or senior 先生.
 
-* Keep their body in **shizen-tai** position. Bend you body from the hip. Do not keep your eyes on them. You have to look down. The angle of your body when you bow is 30 degrees.
+* Keep their body in 自然体「しぜんたい」position. Bend you body from the hip. Do not keep your eyes on them. You have to look down. The angle of your body when you bow is 30 degrees.
 
-When bowing to your opponent perform the standard bow \(**boku-rei**\).
+When bowing to your opponent perform the standard bow \(僕礼「ぼくれい」).
 
-* Keep their body in **shizen-tai** position. Bend your body from the hip while looking at your opponent. Do not keep your face straight towards you opponent. You want to keep your chin in. The angle of your body is about 15 degrees, since you have to keep your eyes on your opponent.
+* Keep their body in 自然体「しぜんたい」 position. Bend your body from the hip while looking at your opponent. Do not keep your face straight towards you opponent. You want to keep your chin in. The angle of your body is about 15 degrees, since you have to keep your eyes on your opponent.
 
-Your fingers should remain together, hand slightly on the front side of leg. if you hold a Shinai, it should be at **sage-to**, i.e. straight armed by your side. When bowing the angle of the shinai should not change.
+Your fingers should remain together, hand slightly on the front side of leg. if you hold a 竹刀, it should be at 提げ刀「さげとう」, i.e. straight armed by your side. When bowing the angle of the 竹刀 should not change.
 
-### Seiza
+### 正座「せいざ」
 
-Seiza is the formal kneel sitting position.
+せいざ is the formal kneel sitting position.
 
-To assume seiza:
+To assume 正座:
 
-1. Stand in **shizen-tai**.
+1. Stand in 自然体「しぜんたい」.
 2. Draw back the left foot.
 3. Kneel down with the left knee next to the right foot.
 4. Withdraw the right leg to a position next to the left leg.
 5. Tuck the toes of both feet under so the tops of the feet are touching the floor and the big toe of the right foot is overlapping the big toe of the left foot.
 6. Lower the hips to a fully seated position. Keep the upper body in correct posture with the hands placed naturally on the thighs.
 
-Standing from seiza is the reverse of sitting:
+Standing from 正座 is the reverse of sitting:
 
 1. First raise your upper body to a kneeling position.
 2. Raise your toes so the balls of the feet are touching the floor.
 3. Step forward with the right foot, placing the foot next to the left knee.
-4. Push the legs straight to a standing position and then bring the left foot together with the right to end in shizen-tai.
+4. Push the legs straight to a standing position and then bring the left foot together with the right to end in 自然体.
 
 **Main points**:
 
 * Keep the upper body in correct, upright throughout the process of sitting or standing.
-* While seated, your eyes should be cast forwards. If listening to Sensei, turn your face towards them, not simply your gaze.
+* While seated, your eyes should be cast forwards. If listening to 先生, turn your face towards them, not simply your gaze.
 * The large toe of the right foot should be overlapping the large toe of the left foot.
 * The knees should be separated by approximately 10cm. \(the with one or two fists.\)
 
-### Moku-so
+### 黙想「もくそう」
 
-Moku-so is the act of composing one's breath, posture mind and spirit while in the seiza position and is performed to start and end the practice sessions. When perform moku-so, the hands are brought together to form an oval in front of the abdomen. The fingers of the left hand overlap the fingers of the right hand, and the tips of the thumbs are brought together with light pressure. The eyes are closed halfway and deep breathing is performed. The tongue should be resting in the top of mouth, touching the back of upper teeth.
+黙想 is the act of composing one's breath, posture mind and spirit while in the 正座 position and is performed to start and end the practice sessions. When perform 黙想, the hands are brought together to form an oval in front of the abdomen. The fingers of the left hand overlap the fingers of the right hand, and the tips of the thumbs are brought together with light pressure. The eyes are closed halfway and deep breathing is performed. The tongue should be resting in the top of mouth, touching the back of upper teeth.
 
 **Main points**:
 
-* The mind should be cleared of thoughts, but kept fully alert. Sensei says we should focus on our Kendo goals for the practice or to clear our minds by concentrating on breathing, counting the timing of the breathing cycle - this will concentrate you thoughts.
+* The mind should be cleared of thoughts, but kept fully alert. 先生 says we should focus on our 剣道 goals for the practice or to clear our minds by concentrating on breathing, counting the timing of the breathing cycle - this will concentrate you thoughts.
 * The eyes should remain slightly open. When the eyes are fully open or closed, the mind tends to remain active, thus making it difficult to correct perform moku-so.
 
 _I quote Zen Master Dogen \(1200-1253\), who stated in the Shobogenzo texts that we must keep our eyes "not so widely open and not so narrowly closed". Therefore, I relax my eyes naturally, focused about 1 metre in front of me._
@@ -196,26 +196,26 @@ _I quote Zen Master Dogen \(1200-1253\), who stated in the Shobogenzo texts that
 
 1. **Breathe in:**
 
-   Breathe in deeply through your nose, filling your lungs in about 3 seconds. As breathing in, the air goes down to a place called **seika-taden** \(about three fingers down from the belly button\). Using our stomach or abdomen instead of our chest to inhale, we can take in a lot more air. Do not let your shoulders or chest raise during breathing. Chest breathing is not good for kendo as it will show your opponent when we are breathing in, which it is good opportunity for our opponent to attach us.
+   Breathe in deeply through your nose, filling your lungs in about 3 seconds. As breathing in, the air goes down to a place called 臍下丹田「せいかたんでん」\(about three fingers down from the belly button\). Using our stomach or abdomen instead of our chest to inhale, we can take in a lot more air. Do not let your shoulders or chest raise during breathing. Chest breathing is not good for kendo as it will show your opponent when we are breathing in, which it is good opportunity for our opponent to attach us.
 
 2. **Hold your breath:**
 
-   We do not breath out the air right after breathing in. We hold the air inside us for a while. It is said that the air should be held in _seika-tanden_, about three fingers down from your belly button. We hold the air in _seika-tanden_ for about 2 seconds.
+   We do not breath out the air right after breathing in. We hold the air inside us for a while. It is said that the air should be held in 臍下丹田「せいかたんでん」, about three fingers down from your belly button. We hold the air in 臍下丹田「せいかたんでん」 for about 2 seconds.
 
 3. **Breathe out:**
 
    We breathe out through our mouth, slowly, not at once. It takes about 10-15 seconds to breath out the air. When we breath out, we have to control the breathing. In order to do so, we have to use our abdominal muscles. \(NB: Also the position of the tongue can help, relax it when exhaling.\) After we breath out, we can breath in. Be focused on breathing out.
 
    * **Do not breath out completely**. Leave a bit of the air inside of you so you will not be out of breath. Try to breathe out for 10 seconds and gradually make it longer.
-   * **Do not think about emptying your thoughts**. By trying not to think about anything, you ảe already thinking. So just relax and concentrate on breathing. You may think about what you are going to improve in or have achieved during training.
+   * **Do not think about emptying your thoughts**. By trying not to think about anything, you are already thinking. So just relax and concentrate on breathing. You may think about what you are going to improve in or have achieved during training.
 
      _This is the basic breathing. Some people may say different duration of each action, but the above mentioned duration of each action \(inhale, hold, and exhale\) seems a common idea. I have also been told that some old schools of swordsmanship taught to count Zen breathing in 7's - 7 second inhale, hold for 7 seconds, exhale over 7 seconds.\)_
 
-### Za-rei
+### 座礼「ざれい」
 
-Za-rei is the bowing from seiza. Like ritsu-rei, za-rei has many levels of formality that are applied to its execution. The following outlines the basics of za-rei.
+座礼 is the bowing from 正座. Like 立礼「りつれい」, 座礼 has many levels of formality that are applied to its execution. The following outlines the basics of 座礼.
 
-1. Sitting in correct seiza, bend the upper body forward at the hips. At the same time, slide the hands forward over the thighs.
+1. Sitting in correct 正座, bend the upper body forward at the hips. At the same time, slide the hands forward over the thighs.
 2. As the bow deepens, merge the hands together, creating a triangle with the index fingers and thumbs.
 3. At the deepest point of the bow, the back is parallel with the floor. The hands are flat on the floor with the triangular opening, between the index fingers and thumbs, directly below the nose.
 4. After holding the bow for a moment, raise the upper body back to the upright posture. At the same time, slide both hands back to their original position.
@@ -223,7 +223,7 @@ Za-rei is the bowing from seiza. Like ritsu-rei, za-rei has many levels of forma
 **Main points:**
 
 * When bowing, the back and neck should remain aligned, keeping correct upper body posture.
-* Allowing the head to bob, especially allowing the chin to come to the chest exposes the nape of the neck to the kamiza and/or shinen. This is very poor form and impolite.
+* Allowing the head to bob, especially allowing the chin to come to the chest exposes the nape of the neck to the 上座 and/or 新田「しんでん」. This is very poor form and impolite.
 * As the upper body bows down, the eyes remain fixed and the gaze follows down to the floor.
 * The hips should not rise when the upper body bows downward.
 * Exhale as the bow is performed.
