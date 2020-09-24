@@ -12,7 +12,7 @@ Where differences appear in teaching idea, I have commented in _Italiques_ to gi
 
 I set the basic elements needed for practice to master basic Kendo, and teach the skills needed to face an opponent, these begin the **Kihon-dosa** as described by the **All Japanese Kendo Federation**.
 
-**Kihon-dousa**
+## **Kihon-dousa**
 
 1. **Shisei**: Posture
 2. **Kamae**: Stance or posture
