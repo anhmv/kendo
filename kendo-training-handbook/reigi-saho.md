@@ -137,7 +137,7 @@ This natural posture is the basis of all kendo postures and movements.
 
 ### 立礼「りつれい」
 
-There are two kinds of standing bow. The one to your opponent \(僕礼「ぼくれい」) and secondly, a formal bow, which we use bowing to the 正面 or 先生. The bow can be performed with or without sword \(竹刀\). The main difference between them is the angle of the bow, and the eye contact.
+There are two kinds of standing bow. The one to your opponent \(目礼「もくれい」) and secondly, a formal bow, which we use bowing to the 正面 or 先生. The bow can be performed with or without sword \(竹刀\). The main difference between them is the angle of the bow, and the eye contact.
 
 When entering or leaving the 道場 we perform a formal bow towards the 正面 or senior 先生.
 
