@@ -8,7 +8,7 @@ The legendary swordsman, Miyamoto Musashi \(1584-1645\) distinguished in his wri
 
 ### 中段の構え「ちゅうだんのかまえ」
 
-Left grip at the end of 柄「つか」\(handle\), in front of the navel, right hand near but not touching the 鍔「つば」\(guard\), "V" between the thumb and index finger of both hands over the top of the 柄「つか」, left grip with last three fingers hold the 竹刀, while right hand with last two fingers lightly support it, 剣先 towards the opponent's throat, 弦「つる」(string\) is up, right foot forward, with of a foot between feet, left heel slightly off the floor, left knee straight but not locked.
+Left grip at the end of 柄「つか」\(handle\), in front of the navel, right hand near but not touching the 鍔「つば」\(guard\), "V" between the thumb and index finger of both hands over the top of the 柄「つか」, left grip with last three fingers hold the 竹刀, while right hand with last two fingers lightly support it, 剣先 towards the opponent's throat, 弦「つる」\(string\) is up, right foot forward, with of a foot between feet, left heel slightly off the floor, left knee straight but not locked.
 
 ![Chudan No Kamae](https://b9bfxa.dm.files.1drv.com/y4mFgAWFE97NCtW8ef2rYprtKTMxAfd5HalnnRmfuHMpl0Xb28X0bg6e6pWoRSzK38DLBAmP6baMRDZGWSobZgU-6b3QNygzo_E_tT9yEiSuyHrIjVhb8zeP8yps0GinsCoHT781ZKazacW4cNl4HWUxfIEA-xucZ5YwxIdFEwtd1dSl5jCcvLL7LWojkrbblxx5HMesyW5fvA0vVBcpeW_hQ?width=842&height=578&cropmode=none)
 
@@ -18,14 +18,14 @@ The anatomy of the hand includes the 虎の口「とらのくち」. The 虎の�
 
 ![Tora no Kuchi](https://b9bexa.dm.files.1drv.com/y4mshaNARUJPK39CmyTIoKza7kReH3ftfDKzMzWonoXCL21fMGGg6DNRvipZnWdMQIKe2H7U4TtQ9xAyFO6kwIaSLs_hkyztlxvgLm5R6JOIpP4yA95dlaan-mVI27d3Vhf4Lt1EfUPsiA2S_atTB7wOcF-zgBDV5ia_Gl_p35sY3bwv_0wiAeGGyNsmwXYP-O6JP2iOZGO2XFKs0bEAxaudQ?width=876&height=616&cropmode=none)
 
-The left hand is positioned at the end of the 柄「つか」, clasping the 柄頭「つかがしら」midway into the little finger. \[**NB**: Holding 木刀, the left hand should just reveal the 柄頭「つかがしら」]
+The left hand is positioned at the end of the 柄「つか」, clasping the 柄頭「つかがしら」midway into the little finger. \[**NB**: Holding 木刀, the left hand should just reveal the 柄頭「つかがしら」\]
 
 The forward position of the right hand is generally one-and-a-half fists ahead of the left hand. A common method for establishing the forward position of the right hand is to:
 
 * Bend the right arm at the elbow
 * Place the hilt of the 竹刀 in the joint of the elbow
 * Grasp the 竹刀 with the right hand. Where the hand grasps the 竹刀 is the point of placement for the right hand.
-* The right hand should almost touch the 鍔「つば」 of the 竹刀 \(more than 2cm of 柄「つか」) means it is the wrong length and needs adjusting.
+* The right hand should almost touch the 鍔「つば」 of the 竹刀 \(more than 2cm of 柄「つか」\) means it is the wrong length and needs adjusting.
 
 **Hand grip**
 
@@ -44,7 +44,7 @@ To grip the 竹刀:
 
 1. Throughout the process of strikes and techniques, the hand positioning and grip should never change.
 2. The hands should not grip the 竹刀 squarely. A square grip is usually the result of including the index fingers and thumbs in gripping the 竹刀. Such a grip will restrict the flexibility and movement of the hands.
-3. The hilt of the 竹刀 should be held at the very end. The overlapping of the small finger halfway over the end of the 竹刀 is an acceptable practice. However, never is the 竹刀 to be held with the hilt protruding from the heel of the left hand. \[**NB**: Holding a 木刀, the left hand should just reveal the 柄頭「つかがしら」]
+3. The hilt of the 竹刀 should be held at the very end. The overlapping of the small finger halfway over the end of the 竹刀 is an acceptable practice. However, never is the 竹刀 to be held with the hilt protruding from the heel of the left hand. \[**NB**: Holding a 木刀, the left hand should just reveal the 柄頭「つかがしら」\]
 4. The right hand should not grasp the 竹刀 directly below the 鍔「つば」.
 
 In 中段の構え, the 竹刀 held in the centre-plane of the body with the tip projecting forward to the opponent. Below, details the correct positioning of the hands and 竹刀 in relation to the body and the opponent.
@@ -54,7 +54,7 @@ In 中段の構え, the 竹刀 held in the centre-plane of the body with the tip
 3. The 竹刀 is angled forward, 弦「つる」 \(cord\) upwards, projecting the line of the 竹刀 to the opponent's throat, face or left eye.
 4. The elbows should not stick out, but be relaxed, with a slight between them and the body - they would just touch your **do** lightly. Have the feeling of holding an egg in each armpit.
 
-**NB**: The height of the 剣先 can vary in certain instances, but should not be higher than your opponent's throat or lower than his Kote. It must also remain close to the centre, always pointing within opponent's body/throat area. To quote the **All Japan Kendo Federation Dictionary**: "... the extension of the 剣先 \(tip of the 竹刀) points between the opponent's eyes". However they also add within there "基本方" text "From 一足一刀の間合い「いっそくいっとうのまあい」\(one-step one-strike interval\) the line of the 剣先 should extend to a point on the face between the eyes or towards the left-eye." However in the Fundamental Kendo manual, and Nippon Kendo Kata text they state that the 竹刀 or 木刀 "... is held so that the tip \(鋒「きっさき」) points toward the opponent's throat."
+**NB**: The height of the 剣先 can vary in certain instances, but should not be higher than your opponent's throat or lower than his Kote. It must also remain close to the centre, always pointing within opponent's body/throat area. To quote the **All Japan Kendo Federation Dictionary**: "... the extension of the 剣先 \(tip of the 竹刀\) points between the opponent's eyes". However they also add within there "基本方" text "From 一足一刀の間合い「いっそくいっとうのまあい」\(one-step one-strike interval\) the line of the 剣先 should extend to a point on the face between the eyes or towards the left-eye." However in the Fundamental Kendo manual, and Nippon Kendo Kata text they state that the 竹刀 or 木刀 "... is held so that the tip \(鋒「きっさき」\) points toward the opponent's throat."
 
 ![Hand Grip](https://b9aqxa.dm.files.1drv.com/y4m5-5LJo_HpySjzoqc8sEAKymYdbFvrYDQfZCNr2wC1CQMw0Omlv__HvVA1Qg2vMb9heEWWLoEFsw9TG23nwffiA103L2tuHYR6SDQHh0gPjzG_GtSvR2ukDHYpDLo5DHnIyTdi-tkB-HRb7zz5Hx_xsfmBQA0b_Z-ifnbx6VYRkSqLRlWmfdTNap0DlCc3xu7moJ7DfCbHp9UVcNQoXORGQ?width=696&height=308&cropmode=none)
 
@@ -101,11 +101,11 @@ Hip should be kept square to the front, with the buttocks tucked in. This allows
 These ideas are all very deep, and require study. To begin with:
 
 * Watch the eyes: opponent looking at the target before striking \(don't get tricked\)
-* Watch the 劍先 and wrists \(especially right 小手) to spot initiation of technique.
+* Watch the 劍先 and wrists \(especially right 小手\) to spot initiation of technique.
 * Watch the shoulders. As they breathe out is a good time to attack them.
 * Watch oneself - check your own position for weakness.
 
-### Assuming 構え \(with 竹刀)
+### Assuming 構え \(with 竹刀\)
 
 * Stand in 自然体「しぜんたい」 with the 竹刀 held in 提げ刀「さげとう」.
 
@@ -161,5 +161,5 @@ Replacing the 竹刀 is the reverse sequence
 
 ### Kamae O-toku \(normal instruction "Yasume" in 竹刀 kendo\)
 
-Assume a relaxed or at-ease posture with the 竹刀 drawn. From 中段の構え, turn the 竹刀 downward to point the 鋒「きっさき」 to just outside the opponent's left knee. The 鋒「きっさき」 should be at a level five or six centimeters below the knee. The edge of the 竹刀 \(side opposite the 弦「つる」) should be angled downward and to the inside at approximately 45 degrees.
+Assume a relaxed or at-ease posture with the 竹刀 drawn. From 中段の構え, turn the 竹刀 downward to point the 鋒「きっさき」 to just outside the opponent's left knee. The 鋒「きっさき」 should be at a level five or six centimeters below the knee. The edge of the 竹刀 \(side opposite the 弦「つる」\) should be angled downward and to the inside at approximately 45 degrees.
 
