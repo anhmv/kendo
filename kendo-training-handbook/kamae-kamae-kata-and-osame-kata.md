@@ -6,6 +6,8 @@
 
 The legendary swordsman, Miyamoto Musashi \(1584-1645\) distinguished in his writings five primary guard postures collectively termed 五行の構え「ごぎょうのかまえ」. In modern kendo, the 五行の構え continues to be the principal guard postures. The 五行の構え are 中段の構え、上段の構え、下段の構え 、 八相の構え、 and 脇構え. Of the five, 中段の構え is the first and most versatile of the guard postures. In modern 剣道, 中段の構え is the posture that the other four 構え are instigated from.
 
+![](../.gitbook/assets/shinai.png)
+
 ### 中段の構え「ちゅうだんのかまえ」
 
 Left grip at the end of 柄「つか」\(handle\), in front of the navel, right hand near but not touching the 鍔「つば」\(guard\), "V" between the thumb and index finger of both hands over the top of the 柄「つか」, left grip with last three fingers hold the 竹刀, while right hand with last two fingers lightly support it, 剣先 towards the opponent's throat, 弦「つる」\(string\) is up, right foot forward, with of a foot between feet, left heel slightly off the floor, left knee straight but not locked.
