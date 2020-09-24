@@ -1,47 +1,47 @@
-# Reigi Saho
+# 礼儀作法「れいぎさほう」
 
-The Etiquette, Manners, and Attitudes below should be shown during Kendo training. Remember, in Kendo the 道 \(dou\) refers to the way or path to enlightenment and as such, the attitudes should also be taken with you into everyday life. No matter what your experience or ability in kendo you can always show good reigi.
+The Etiquette, Manners, and Attitudes below should be shown during 剣道「けんどう」 training. Remember, in 剣道 the 道「どう」 refers to the way or path to enlightenment and as such, the attitudes should also be taken with you into everyday life. No matter what your experience or ability in kendo you can always show good 礼儀「れいぎ」.
 
-Reigi is important because it helps to maintain the relationship between the sword and the shinai. By showing such manners you are showing that you respect the fact you are dealing with a real sword and death is a very real possibility. Kendo is a Japanese art, and if we fail to maintain the Japanese identity of kendo, it will lose its meaning.
+礼儀「れいぎ」 is important because it helps to maintain the relationship between the sword and the 竹刀「しない」. By showing such manners you are showing that you respect the fact you are dealing with a real sword and death is a very real possibility. 剣道「けんどう」 is a Japanese art, and if we fail to maintain the Japanese identity of 剣道「けんどう」, it will lose its meaning.
 
 ## Good Etiquette and Manners
 
 * Always ensure your toenails and fingernails are cut short before training.
 * Always air your uniform and your armor after each session: never leave them in the bag between sessions or they will get moldy and smell horribly.
 * Keep your uniform clean and fold it correctly before attending the session.
-* Always check your shinai for splinters before attending the session.
-* Do not wear shoes in the dojo.
+* Always check your 竹刀「しない」 for splinters before attending the session.
+* Do not wear shoes in the 道場「どうじょう」.
 * Remove all jewellery, including rings and watches before training.
-* Turn up early to practice. You shouldn't only just have time to get ready. You should help to prepare the dojo. It is usually the beginners' responsibility to lean the floor before and after every session. With a job or busy lifestyle this can sometimes be hard to achieve but if you make an effort to do this you will eventually understand the benefits. Don't use business or studies for your excuse to miss a session. Management of yourself is still part of your kendo.
+* Turn up early to practice. You shouldn't only just have time to get ready. You should help to prepare the 道場「どうじょう」. It is usually the beginners' responsibility to lean the floor before and after every session. With a job or busy lifestyle this can sometimes be hard to achieve but if you make an effort to do this you will eventually understand the benefits. Don't use business or studies for your excuse to miss a session. Management of yourself is still part of your 剣道「けんどう」.
 * If you are late to practice, enter quietly, warm up and stretch, prepare yourself in seiza and join the from the end of the line.
-* Always bow on entering and leaving the dojo.
-* If you are warming yourself up before a session you MUST sty in the shimoza. The kamiza is for your sensei and the shomen. Never enter it unless you are doing so to prepare the dojo for practice or are carrying sensei's gear for him. Usually the half near to the entrance is the shimoza and the other half is the kamiza.
-* When you bring all your equipment into the dojo take up as little space as possible when you leave it at the side, make sure that it doesn't get in the way of the practice or the doors.
-* Do not smoke, eat, drink or fool around in the dojo.
-* Do not lean on a sword or rest a shinai or bokuto point downwards. Don't leave your shinai or bokuto in a way that means they cal fall over; they represent your swords which would be of great value. The blade and kensen of your shinai and bokuto should point away from the Kamiza. If the dojo is small, they play your swords on the floor close to the wall.
-* Do not step over or kick a shinai on the ground.
+* Always bow on entering and leaving the 道場「どうじょう」.
+* If you are warming yourself up before a session you MUST stay in the 下座「しもざ」. The 上座「かみざ」is for your 先生 and the 正面「しょうめん」. Never enter it unless you are doing so to prepare the 道場「どうじょう」 for practice or are carrying 先生 gear for him. Usually the half near to the entrance is the 下座「しもざ」 and the other half is the 上座「かみざ」.
+* When you bring all your equipment into the 道場「どうじょう」 take up as little space as possible when you leave it at the side, make sure that it doesn't get in the way of the practice or the doors.
+* Do not smoke, eat, drink or fool around in the 道場「どうじょう」.
+* Do not lean on a sword or rest a 竹刀「しない」 or 木刀「ぼくとう」point downwards. Don't leave your 竹刀「しない」 or 木刀「ぼくとう」in a way that means they cal fall over; they represent your swords which would be of great value. The blade and 剣先「けんせん」 of your 竹刀「しない」 and 木刀「ぼくとう」 should point away from the 上座「かみざ」. If the 道場「どうじょう」 is small, they play your swords on the floor close to the wall.
+* Do not step over or kick a 竹刀「しない」 on the ground.
 * When you are asked to line up, this should be done quickly. KNOW YOUR PLACE IN THE LINE. The order in which you line up is the order of your responsibility in the group, not just your rank.
-* Make it a habit to sit in seiza quietly at the beginning and the end of session.
-* When you sit in seiza DON'T move about unnecessarily. You should sit with correct posture even if it starts to hurt. Controlling your posture and maintaining seiza even when it becomes uncomfortable is part of kendo. If you have a serious issue swap to cross-legged position but to not move again.
+* Make it a habit to sit in 正座「せいざ」 quietly at the beginning and the end of session.
+* When you sit in 正座「せいざ」 DON'T move about unnecessarily. You should sit with correct posture even if it starts to hurt. Controlling your posture and maintaining 正座「せいざ」 even when it becomes uncomfortable is part of 剣道. If you have a serious issue swap to cross-legged position but to not move again.
 * If someone is kneeling in armor, you should pass behind them or, if you have to pass in front of them, now and extend your right hand in a vertical plane, palm forward.
-* Follow the Sensei to whether **Tenugui** is laid over the **Men** or folded inside. If laid out, you should be able to read you tenugui before you put it on.
-* When you bow \(shomen-ni, senseigata-ni, or otagai-ni\) always bow longer that your seniors. Also if you are saying 'onegaishimasu' or 'domou arigato gozaimasu' say it correctly.
-* When you put on your equipment \(**Men** when we are in seiza, or **Do** after **Kata** practice\) try to be the quickest. However, it is worse if you have to retie your equipment. Be quick but put gear on properly. If your **Men-himo** are too long, shorten them; if your **Kote** are untied, then tie them.
+* Follow the 先生 to whether 手拭「てぬぐい」 is laid over the 面「めん」 or folded inside. If laid out, you should be able to read you 手拭「てぬぐい」 before you put it on.
+* When you bow \(正面に「しょうめんに」, 先生方に「せんせいがたに」, or お互いに「おたがいに」\) always bow longer that your seniors. Also if you are saying お願いします「おねがいします」 or どうもうありがとうございます say it correctly.
+* When you put on your equipment try to be the quickest. However, it is worse if you have to retie your equipment. Be quick but put gear on properly.
 * During practice always bow correctly; 15 degree maintaining eye contact.
 * During rotation you have to pass quickly around the back of the sensei - DO NOT slow the whole practice down by being slow.
 * Do not interrupt the teacher's instruction, and do not chat to each other during practice. Save questions to when asked or to after final rei.
-* If you need to fix your bogu during a session then first ask your partner, move back out of the way and sit in seiza.
-* If someone falls over in the dojo, unless it directly involves you, you should continue training. Don't stop and crowd around. Sensei will say if you have to stop, and if you are the first aider, be ready.
-* Keep practicing unless you truly can't continue. It is reigi to keep going to get the most out of sensei, they will appreciate that you kept trying despite it causing you pain. Kendo practice means to train you, in other words, to make you feel pain physically and mentally. Don't run away from this.
+* If you need to fix your 戊具「ぼぐ」 during a session then first ask your partner, move back out of the way and sit in 正座「せいざ」.
+* If someone falls over in the 道場, unless it directly involves you, you should continue training. Don't stop and crowd around. 先生 will say if you have to stop, and if you are the first aider, be ready.
+* Keep practicing unless you truly can't continue. It is reigi to keep going to get the most out of 先生, they will appreciate that you kept trying despite it causing you pain. 剣道 practice means to train you, in other words, to make you feel pain physically and mentally. Don't run away from this.
 * Do not lean or lay down: stand, kneel or sit cross-legged when resting.
-* It is reigi to be ready for practice, this means eating and drinking enough that you don't become tired and dehydrated. Drunk enough before sessions so you have the energy to continue, and don't let the sensei, the dojo, and yourself down.
+* It is 礼儀「れいぎ」 to be ready for practice, this means eating and drinking enough that you don't become tired and dehydrated. Drunk enough before sessions so you have the energy to continue, and don't let the 先生, the 道場, and yourself down.
 * If the weather is very hot, pay extra attention to fluid intake. if you are dehydrated and practicing for a long time such in weather, you may get heat stroke.
-* If you vomit or your feet bleed your first responsibility is to clean the dojo floor. After the dojo is cleaned you can take off **Men** and clean it. after which you can tent to yourself.
-* Do not just stop practicing. If you cannot continue tell your partner, excuse yourself to the sensei, take seiza and remove equipment in such a way as to not get in the way of practice.
-* Only break for rest when invited to by sensei. Take that opportunity to drink fluids and check shinai and bogu.
-* Normally drinking will be outside Dojo, or in an assigned area. Bow correctly if leaving the Dojo. Do NOT walk around the Dojo drinking!
-* Take your **Men** off correctly: Pull the homo over your head and untie them there. Then take the **Men** off, holding it in front of your face until you have removed the tenugui.
-* ALWAYS carry the visiting sensei's equipment for them; you should also fold it for them after the session. If you offer to do this but they don't accept don't give up; offer again.
+* If you vomit or your feet bleed your first responsibility is to clean the dojo floor. After the 道場 is cleaned you can take off 面「めん」 and clean it. after which you can tent to yourself.
+* Do not just stop practicing. If you cannot continue tell your partner, excuse yourself to the 先生, take 正座 and remove equipment in such a way as to not get in the way of practice.
+* Only break for rest when invited to by 先生. Take that opportunity to drink fluids and check 竹刀 and 戊具「ぼぐ」.
+* Normally drinking will be outside 道場, or in an assigned area. Bow correctly if leaving the 道場. Do NOT walk around the 道場 drinking!
+* Take your 面 off correctly: Pull the homo over your head and untie them there. Then take the 面 off, holding it in front of your face until you have removed the tenugui.
+* ALWAYS carry the visiting 先生 equipment for them; you should also fold it for them after the session. If you offer to do this but they don't accept don't give up; offer again.
 
 ## Attitudes for Kendo
 
@@ -49,8 +49,8 @@ Reigi is important because it helps to maintain the relationship between the swo
 * Practice repeatedly and many times, practice with someone formidable.
 * Practice with proper attitude.
 * Practice with courtesy and respect.
-* Un-obsessed with winning, practice with desire to study the principles of kendo.
-* Have devotion to Kendo and practice with initiative.
+* Un-obsessed with winning, practice with desire to study the principles of 剣道.
+* Have devotion to 剣道 and practice with initiative.
 * Practice with determination.
 * Value graceful, elegant, dignified Kendo.
 * Be prepared physically and mentally then practice with eagerness.
@@ -65,48 +65,48 @@ Reigi is important because it helps to maintain the relationship between the swo
 * Grasp the value of watching; humbly learn merits of others by observing.
 * Always do warming up and cooling down exercises.
 
-## Dojo
+## 道場「どうじょう」
 
-The term **Dojo** comes from Buddhism meaning "place to study," which originally referred to the platform Buddha mediated on.
+The term 道場 comes from Buddhism meaning "place to study," which originally referred to the platform Buddha mediated on.
 
-Commit yourself to sincere training when entering Dojo, appreciate having a lace to practice and people to practice with, maintain cleanliness, and take care of your own belongings neatly \(e.g, shoes, clothes, Bogu\).
+Commit yourself to sincere training when entering 道場, appreciate having a lace to practice and people to practice with, maintain cleanliness, and take care of your own belongings neatly \(e.g, shoes, clothes, 帆具\).
 
-Know the location of **Kamiza**, the upper seat; this may be a shrine, flag or other symbol. The term **Kamiza** can be written in different Japanese characters which mean "upper seat" or "towards the alter". Beginners line up towards the lower end **Shimoza**.
+Know the location of 上座「かみざ」, the upper seat; this may be a shrine, flag or other symbol. The term 上座 can be written in different Japanese characters which mean "upper seat" or "towards the alter". Beginners line up towards the lower end 下座「しもざ」.
 
-Reigi is not just a quick bow entering the Dojo, but is about Respect. Know how to correctly bow, and when, where and who to in the Dojo. They are not empty rituals but an expression of respect for all the other members of the dojo who are offering you a chance to practice kendo.
+礼儀「れいぎ」 is not just a quick bow entering the 道場, but is about respect. Know how to correctly bow, and when, where and who to in the 道場. They are not empty rituals but an expression of respect for all the other members of the 道場 who are offering you a chance to practice 剣道.
 
 Here is an extract from the Kendo Reader - written some 70+ year ago:
 
-* When entering and leaving the Dojo make a reverend bow.
-* Do not enter the Dojo dressed untidily dressed, if dressed in Japanese style a Hakama should be worn.
+* When entering and leaving the 道場 make a reverend bow.
+* Do not enter the 道場 dressed untidily dressed, if dressed in Japanese style a 袴「はかま」 should be worn.
 * Maintain a respectful attitude and most correct posture.
 * Be quiet and conscientious, do not engage in noise chatter, laughter, clapping or cheering.
 * After eating, allow a suitable amount of time to elapse before training.
-* If you have taken alcohol do not enter the Dojo, let alone engage in training.
-* The swords is ones soul, the bogy ones armor. Handle them with respect according the correct method.
-* The Dojo interior must be cleaned morning and evening and kept tidy.
+* If you have taken alcohol do not enter the 道場, let alone engage in training.
+* The swords is ones soul, the 戊具「ぼぐ」 ones armor. Handle them with respect according the correct method.
+* The 道場 interior must be cleaned morning and evening and kept tidy.
 * Do not comment on other styles of swordsmanship or in each other's technique.
 * For those who are training in swordsmanship take caution against shortness of temper of selfishness, do not be quarrelsome but always remain serene of heart.
 
-All senior students make sure the Dojo floor is safe and tape / make any holes etc, while juniors sweep the floor clean.
+All senior students make sure the 道場 floor is safe and tape / make any holes etc, while juniors sweep the floor clean.
 
-## About Rei
+## About 礼「れい」
 
-**Rei** is a way to pay respect and show acknowledgement. Upon entry to the **Dojo**, enter then **Rei** to the **Kamiza**: this is a way to pay respect to the Dojo and to commit yourself to a sincere practice. Also, when exiting, **Rei** to the **Kamiza**, then exit.
+**礼** is a way to pay respect and show acknowledgement. Upon entry to the 道場, enter then 礼 to the 上座「かみざ」: this is a way to pay respect to the Dojo and to commit yourself to a sincere practice. Also, when exiting, 礼 to the 上座, then exit.
 
 ### Commands during Training
 
 #### **Commands at the start will be**:
 
-* **Sei retsu**: line up in correct order. Sometime, before this command, you will hear: **Shinai o motte** or **Bokuto o motte** - with Shinai or with Bokuto.
-* **Chakuza**: all sit down in Seiza.
-* **Shisei o tadashite**: straighten back/sit up straight.
-* **Mokuso**: a brief moment for mediation.
-* **Yame**: stop mokuso
-* **Shomen nirei**: bow to the flag \(Kamiza\)
-* **Sensei \(gatta\) ni rei**: bow to the sensei
-* **Otagai ni rei**: bow to each other, and ask "please train with me" by saying; "**Onegai shimasu**"
-* **Men o tsuke**: seniors put on men and kote. - when required.
+* 整列「せいれつ」: line up in correct order. Sometime, before this command, you will hear: 竹刀を持って or 木刀を持って - with 竹刀 or 木刀.
+* 着座「ちゃくざ」: all sit down in 正座.
+* 姿勢を正して「しせいをただして」: straighten back/sit up straight.
+* 黙想「もくそう」: a brief moment for mediation.
+* やめ: stop
+* 正面に礼「しょうめんにれい」: bow to the flag \(Kamiza\)
+* 先生がったに礼「せんせいがったにれい」: bow to the sensei
+* お互いに礼「おたがいにれい」: bow to each other, and ask "please train with me" by saying; "お願いします"
+* 面を付け「めんをつけ」: seniors put on 面 and 小手「こて」. - when required.
 
 #### **At the end of practice**:
 

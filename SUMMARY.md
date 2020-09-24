@@ -4,8 +4,8 @@
 
 ## Kendo Training Handbook
 
-* [Introduction](kendo-training-handbook/introduction.md)
-* [Reigi Saho](kendo-training-handbook/reigi-saho.md)
+* [Kendo Training Handbook](kendo-training-handbook/introduction.md)
+* [礼儀作法「れいぎさほう」](kendo-training-handbook/reigi-saho.md)
 * [Kamae, Kamae-kata and Osame-kata](kendo-training-handbook/kamae-kamae-kata-and-osame-kata.md)
 * [Ashi-sabaki](kendo-training-handbook/ashi-sabaki.md)
 * [Suburi](kendo-training-handbook/suburi.md)
