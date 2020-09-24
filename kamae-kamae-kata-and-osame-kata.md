@@ -1,6 +1,6 @@
 # Kamae, Kamae-kata and Osame-kata
 
-### Kamae
+## Kamae
 
 Kamae is the guard, or ready posture employed for attack and defense. However, more than just a physical pose, kamae is also the on-guard posturing of the mind and spirit. These aspects of kamae, the body and mindset, must always be practiced together. Equally important to keep in mind is that kamae begins and ends with proper etiquette. These points are never to be overlooked.
 

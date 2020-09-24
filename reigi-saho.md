@@ -4,7 +4,7 @@ The Etiquette, Manners, and Attitudes below should be shown during Kendo trainin
 
 Reigi is important because it helps to maintain the relationship between the sword and the shinai. By showing such manners you are showing that you respect the fact you are dealing with a real sword and death is a very real possibility. Kendo is a Japanese art, and if we fail to maintain the Japanese identity of kendo, it will lose its meaning.
 
-### Good Etiquette and Manners
+## Good Etiquette and Manners
 
 * Always ensure your toenails and fingernails are cut short before training.
 * Always air your uniform and your armor after each session: never leave them in the bag between sessions or they will get moldy and smell horribly.
@@ -43,7 +43,7 @@ Reigi is important because it helps to maintain the relationship between the swo
 * Take your **Men** off correctly: Pull the homo over your head and untie them there. Then take the **Men** off, holding it in front of your face until you have removed the tenugui.
 * ALWAYS carry the visiting sensei's equipment for them; you should also fold it for them after the session. If you offer to do this but they don't accept don't give up; offer again.
 
-### Attitudes for Kendo
+## Attitudes for Kendo
 
 * Always value the basics.
 * Practice repeatedly and many times, practice with someone formidable.
@@ -65,7 +65,7 @@ Reigi is important because it helps to maintain the relationship between the swo
 * Grasp the value of watching; humbly learn merits of others by observing.
 * Always do warming up and cooling down exercises.
 
-### Dojo
+## Dojo
 
 The term **Dojo** comes from Buddhism meaning "place to study," which originally referred to the platform Buddha mediated on.
 
@@ -90,13 +90,13 @@ Here is an extract from the Kendo Reader - written some 70+ year ago:
 
 All senior students make sure the Dojo floor is safe and tape / make any holes etc, while juniors sweep the floor clean.
 
-### About Rei
+## About Rei
 
 **Rei** is a way to pay respect and show acknowledgement. Upon entry to the **Dojo**, enter then **Rei** to the **Kamiza**: this is a way to pay respect to the Dojo and to commit yourself to a sincere practice. Also, when exiting, **Rei** to the **Kamiza**, then exit.
 
 ### Commands during Training
 
-**Commands at the start will be**:
+#### **Commands at the start will be**:
 
 * **Sei retsu**: line up in correct order. Sometime, before this command, you will hear: **Shinai o motte** or **Bokuto o motte** - with Shinai or with Bokuto.
 * **Chakuza**: all sit down in Seiza.
@@ -108,7 +108,7 @@ All senior students make sure the Dojo floor is safe and tape / make any holes e
 * **Otagai ni rei**: bow to each other, and ask "please train with me" by saying; "**Onegai shimasu**"
 * **Men o tsuke**: seniors put on men and kote. - when required.
 
-**At the end of practice**:
+#### **At the end of practice**:
 
 * **Sei retsu**: line up in correct order
 * **Chakuza**: all sit down in Seiza.
@@ -213,7 +213,7 @@ _I quote Zen Master Dogen \(1200-1253\), who stated in the Shobogenzo texts that
 
 ### Za-rei
 
-Za-rei is the bơing from seiza. Like ritsu-rei, za-rei has many levels of formality that are applied to its execution. The following outlines the basics of za-rei.
+Za-rei is the bowing from seiza. Like ritsu-rei, za-rei has many levels of formality that are applied to its execution. The following outlines the basics of za-rei.
 
 1. Sitting in correct seiza, bend the upper body forward at the hips. At the same time, slide the hands forward over the thighs.
 2. As the bow deepens, merge the hands together, creating a triangle with the index fingers and thumbs.
