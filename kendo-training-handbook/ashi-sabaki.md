@@ -6,25 +6,25 @@ Ashi-sabaki is the collective term for all kendo footwork techniques. Ashi-sabak
 
 Of the four footwork techniques, okuri-ashi is the principal technique, as it allows coordinated body movement in all directions and can be associated with all kendo techniques. The movement is a simple shuffle step with the foot corresponding to the direction of travel initiating the movement.
 
-![Okuri-ashi](.gitbook/assets/screen-shot-2020-09-23-at-11.41.48.png)
+![Okuri-ashi](../.gitbook/assets/screen-shot-2020-09-23-at-11.41.48.png)
 
 ## Hikari-Ashi
 
 Hikira-ashi is a footwork technique applied when a diagonal movement would prove advantageous in avoiding an opponent's attack and open opportunities for a counterattack. Hiraki means "open". As the name implies, this footwork allows a person to step out of the way, opening the path of an advancing opponent, while maintaining correct guard posture of the body and feet.
 
-![Hiraki-ashi](.gitbook/assets/screen-shot-2020-09-23-at-11.43.46.png)
+![Hiraki-ashi](../.gitbook/assets/screen-shot-2020-09-23-at-11.43.46.png)
 
 ## Ayumi-Ashi
 
 Ayumi-ashi is the same as a walking step and is used in situations requiring rapid movement across an extended distance.
 
-![Ayumi-ashi](.gitbook/assets/screen-shot-2020-09-23-at-11.45.28.png)
+![Ayumi-ashi](../.gitbook/assets/screen-shot-2020-09-23-at-11.45.28.png)
 
 ## Tsugi-Ashi
 
 Tsugi-ashi is an advanced footwork technique. It is normally recommend leaving this practice to later in your study \(Shodan +\) as it can lead to bad habits forming in Kihon. Tsugi-ashi is used to move forward quickly across a distance greater than would be possible to cover using okuri-ashi. I was taught \(as older texts describe it\), when practicing tsugi-ashi, it is particularly important to keep in mind the basic rule that the foot corresponding to the direction of movement is advanced first. In other words, the tsugi-ashi technique starts with forward foot advancing first, then followed by the left foot being drawn even with the right to complete the first step of the mvement. Do not move the left foot first - in all circumstances, moving the trail foot first is incorrect and should not be practiced, Fig A. However, I note that some newer texts and more recent instruction have described it as drawing up the left foot parallel with the right, and then immediately steeping forward on the right foot, Fig B. Please discuss this with for coach/sensei before practicing.
 
-![Tsugi-ashi](.gitbook/assets/screen-shot-2020-09-23-at-11.50.10.png)
+![Tsugi-ashi](../.gitbook/assets/screen-shot-2020-09-23-at-11.50.10.png)
 
 ## Suri-ashi \(Sliding step\)
 

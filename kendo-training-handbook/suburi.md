@@ -91,7 +91,7 @@ _Below are some commonly taught Furi-kaburi. Most text books state: "swing up un
 
 _From practice, Fig. 2 swing is an extension of Fig 1 that is the arms continue their swing up to their natural limit. As we cannot see behind use when swinging up, this is the point reached in most cases. So maybe the saying "perform a large upward swing with the feeling of shinai being at 45 degrees behind, and left fist above your forehead, use the natural limit of swing to send arms forward to strike." Later, I will include some scientific proof that this method \(Fig. 2\) is the fastest and most efficient action - see Appendix C._
 
-![](.gitbook/assets/screen-shot-2020-09-24-at-09.43.39.png)
+![](../.gitbook/assets/screen-shot-2020-09-24-at-09.43.39.png)
 
 ### **Furi-Oroshi**
 
