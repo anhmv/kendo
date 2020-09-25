@@ -4,5 +4,5 @@ description: >-
   Mạnh Tài
 ---
 
-# KENDO CHO NGƯỜI MỚI  BẮT ĐẦU
+# Kendo cho người mới bắt đầu
 

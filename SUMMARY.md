@@ -14,6 +14,10 @@
 ## Uncategorized
 
 * [Kendo for English Speakers](uncategorized/kendo-for-english-speakers.md)
-* [KENDO CHO NGƯỜI MỚI  BẮT ĐẦU](uncategorized/kendo-cho-nguoi-moi-bat-dau/README.md)
-  * [KENDO LÀ GÌ?](uncategorized/kendo-cho-nguoi-moi-bat-dau/kendo-la-gi.md)
+* [Kendo cho người mới bắt đầu](uncategorized/kendo-cho-nguoi-moi-bat-dau/README.md)
+  * [Kendo là gì?](uncategorized/kendo-cho-nguoi-moi-bat-dau/kendo-la-gi.md)
+  * [Lịch sử Kendo](uncategorized/kendo-cho-nguoi-moi-bat-dau/lich-su-kendo.md)
+  * [Mục đích của Kendo](uncategorized/kendo-cho-nguoi-moi-bat-dau/muc-dich-cua-kendo.md)
+  * [Lễ nghi trong Kendo](uncategorized/kendo-cho-nguoi-moi-bat-dau/le-nghi-trong-kendo.md)
+  * [Võ phục và Trang bị](uncategorized/kendo-cho-nguoi-moi-bat-dau/vo-phuc-va-trang-bi.md)
 

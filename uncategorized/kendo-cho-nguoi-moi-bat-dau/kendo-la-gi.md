@@ -1,4 +1,4 @@
-# KENDO LÀ GÌ?
+# Kendo là gì?
 
 Dễ dàng hình dung, kendo là nghệ thuật dùng kiếm, phong cách nhật Bản.
 
