@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Kendo Practice Resources](README.md)
-* [Kendo for English Speakers](kendo-for-english-speakers.md)
 
 ## Kendo Training Handbook
 
@@ -11,4 +10,9 @@
 * [足捌き](kendo-training-handbook/ashi-sabaki.md)
 * [素振り](kendo-training-handbook/suburi.md)
 * [間合い、基本の打ち方、付き方、受け方、鍔迫り合い、残心](kendo-training-handbook/ma-ai-kihon-no-uchi-kata-tsuki-kata-uke-kata-tsuba-zerai-and-zanshin.md)
+
+## Uncategorized
+
+* [Kendo for English Speakers](uncategorized/kendo-for-english-speakers.md)
+* [KENDO CHO NGƯỜI MỚI  BẮT ĐẦU](uncategorized/kendo-cho-nguoi-moi-bat-dau.md)
 
