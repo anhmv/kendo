@@ -6,13 +6,13 @@ The legendary swordsman, Miyamoto Musashi \(1584-1645\) distinguished in his wri
 
 ![](../.gitbook/assets/shinai.png)
 
-### 中段の構え「ちゅうだんのかまえ」
+## 中段の構え「ちゅうだんのかまえ」
 
 Left grip at the end of 柄「つか」\(handle\), in front of the navel, right hand near but not touching the 鍔「つば」\(guard\), "V" between the thumb and index finger of both hands over the top of the 柄「つか」, left grip with last three fingers hold the 竹刀, while right hand with last two fingers lightly support it, 剣先 towards the opponent's throat, 弦「つる」\(string\) is up, right foot forward, with of a foot between feet, left heel slightly off the floor, left knee straight but not locked.
 
 ![Chudan No Kamae](https://b9bfxa.dm.files.1drv.com/y4mFgAWFE97NCtW8ef2rYprtKTMxAfd5HalnnRmfuHMpl0Xb28X0bg6e6pWoRSzK38DLBAmP6baMRDZGWSobZgU-6b3QNygzo_E_tT9yEiSuyHrIjVhb8zeP8yps0GinsCoHT781ZKazacW4cNl4HWUxfIEA-xucZ5YwxIdFEwtd1dSl5jCcvLL7LWojkrbblxx5HMesyW5fvA0vVBcpeW_hQ?width=842&height=578&cropmode=none)
 
-### Hand position
+## Hand position
 
 The anatomy of the hand includes the 虎の口「とらのくち」. The 虎の口 is the angle at the base of the index finger and thumb. The 虎の口 and the 弦「つる」 or the seams of the 柄側「つかがわ」\[leather handle covering\] are the keys to positioning the hands in relation to the 竹刀 circumference. The 弦「つる」 indicates the upright side of the 竹刀 in its drawn attitude. In its correct configuration, the 弦「つる」 also marks the top center line of the 竹刀. The hands should be positioned on the 竹刀 in such a manner that the top center line of the 竹刀 runs through the apex of the 虎の口 of both hands.
 
@@ -64,7 +64,7 @@ _If the 劍先 drops to low, the 竹刀 becomes vulnerable to being struck down,
 
 _Keeping the 劍先 at a level where the opponent can only see its tip seems to about the correct level. This provides a threat to opponent, requiring the displacement of the 劍先 to make an opportunity. From this position, pushing hands or body forwards, the 竹刀 tip should strike the 喉\(throat\), as in 付 attack._
 
-### Foot position
+## Foot position
 
 As noted in the coming section, 足捌き「あしさばき」, footwork is the most important aspect in 剣道 practice. Good footwork begins with correct foot positioning.
 
@@ -92,7 +92,7 @@ By taking a natural step forward and halting mid-step \(so right heel in line wi
 
 Hip should be kept square to the front, with the buttocks tucked in. This allows the left leg/foot to be positioned correctly. When pushing or lunging forwards, your body will then keep straight. This also helps the left foot to quickly return to its position behind the right foot. It is essential to provide a stable and balanced platform to allow correct striking.
 
-### 目付「めつけ」
+## 目付「めつけ」
 
 * 目付 is the positioning of one's eyes. It is the act of observing the opponents whole, while looking into his eyes. Some 剣道 sayings used to try explain the feeling are:
 * 遠山の目付「えんざんのめつけ」 means that you look at your opponent as if you are looking at a far away mountain. That is too look at the opponent as a whole, rather than focusing on one point.
@@ -105,7 +105,7 @@ These ideas are all very deep, and require study. To begin with:
 * Watch the shoulders. As they breathe out is a good time to attack them.
 * Watch oneself - check your own position for weakness.
 
-### Assuming 構え \(with 竹刀\)
+## Assuming 構え \(with 竹刀\)
 
 * Stand in 自然体「しぜんたい」 with the 竹刀 held in 提げ刀「さげとう」.
 
@@ -132,7 +132,7 @@ When you stop here, you are ready to go in the 中段 position.
 
 * Stand and take a step forward with the right foot to bright the feet into proper guard position.
 
-### 構え方「かまえかた」: Assuming 構え with partner \(竹刀 practice\)
+## 構え方「かまえかた」: Assuming 構え with partner \(竹刀 practice\)
 
 1. Face each other in the 提げ刀「さげとう」 posture at a separation of nine steps.
 2. Execute 立礼「りつれい」.
@@ -141,7 +141,7 @@ When you stop here, you are ready to go in the 中段 position.
 5. Draw the 竹刀, "抜け刀「ぬけとう」", on the third step and assume the そんきょ position.
 6. Stand and take a step forward with the right foot to bright the feet into proper guard position.
 
-### 納め方「おさめかた」 - Withdrawing from 構え
+## 納め方「おさめかた」 - Withdrawing from 構え
 
 Replacing the 竹刀 is the reverse sequence
 
@@ -159,7 +159,7 @@ Replacing the 竹刀 is the reverse sequence
 * When taking そんきょ with a partner, careful consideration should be given to the distance to the center starting point - upon taking three steps and drawing the 竹刀, the 竹刀 tip should be with in the center area of the court or training floor.
 * When in the そんきょ position with a partner, the tips of the 竹刀 should be separated by two to ten centimeters.
 
-### 構えお得「かまえおとく」\(normal instruction "Yasume" in 竹刀 kendo\)
+## 構えお得「かまえおとく」\(normal instruction "Yasume" in 竹刀 kendo\)
 
 Assume a relaxed or at-ease posture with the 竹刀 drawn. From 中段の構え, turn the 竹刀 downward to point the 鋒「きっさき」 to just outside the opponent's left knee. The 鋒「きっさき」 should be at a level five or six centimeters below the knee. The edge of the 竹刀 \(side opposite the 弦「つる」\) should be angled downward and to the inside at approximately 45 degrees.
 
