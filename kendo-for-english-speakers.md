@@ -109,18 +109,31 @@ _**Cultural note**: the relationship between senior and junior is one aspect of 
 
 ## Practice Terms
 
-| 漢字       | ひらがな           | ROMAJI           | Definitions                                            |
-| ---------- | ------------------ | ---------------- | ------------------------------------------------------ |
-| 試合       | しあい             | shiai            | competition                                            |
-| 業         | わざ               | waza             | technique                                              |
-| 基本業     | きほんわざ         | kihon waza       | basic technique                                        |
-| 帯刀       | たいとう           | taitou           | sword position at the level of the belt                |
-| 蹲据       | そんきょ           | sonkyo           | formal crouch at the beginning/ending of a kendo match |
-| 下げ刀     | さげとう           | sagetou          | lowered sword position before and after taitou         |
-| 構え       | かまえ             | kamae            | on guard                                               |
-| 上段の構え | じょうだんのかまえ | joudan no kamae  | high guard                                             |
-| 中段の構え | ちゅうだんのかまえ | chuudan no kamae | mid guard                                              |
-| 下段の構え | げだんのかまえ     | gedan no kamae   | low guard                                              |
-| 八相の構え | はっそうのかまえ   | hassou no kamae  |                                                        |
-| 脇構え     | わきかまえ         | waki kamae       |                                                        |
-
+| 漢字           | ひらがな           | ROMAJI            | Definitions                                      |
+| -------------- | ------------------ | ----------------- | ------------------------------------------------ |
+| 試合           | しあい             | shiai             | competition                                      |
+| 業             | わざ               | waza              | technique                                        |
+| 基本業         | きほんわざ         | kihon waza        | basic technique                                  |
+| 帯刀           | たいとう           | taitou            | sword position at the level of the belt          |
+| 蹲据           | そんきょ           | sonkyo            | formal crouch at the beginning/ending of a match |
+| 下げ刀         | さげとう           | sagetou           | lowered sword position before and after taitou   |
+| 構え           | かまえ             | kamae             | on guard                                         |
+| 上段の構え     | じょうだんのかまえ | joudan no kamae   | high guard                                       |
+| 中段の構え     | ちゅうだんのかまえ | chuudan no kamae  | mid guard                                        |
+| 下段の構え     | げだんのかまえ     | gedan no kamae    | low guard                                        |
+| 八相の構え     | はっそうのかまえ   | hassou no kamae   |                                                  |
+| 脇構え         | わきかまえ         | waki kamae        |                                                  |
+| 稽古           | げいこ             | geiko             | practice                                         |
+| 見取稽古       | みとりげいこ       | mitori geiko      | practice of learning by watching others          |
+| 打ち込み稽古   | うちこみげいこ     | uchikomi geiko    | practice involving the repetition of one strike  |
+| 掛かり稽古     | かかりげいこ       | kakari geiko      | attacking practice, only when the receiver opens |
+| 愛掛かり稽古   | あいかかりげいこ   | aikakari geiko    | simultaneously attacking practice                |
+| 地稽古         | じげいこ           | ji geiko          | open sparring                                    |
+| 引き立て地稽古 | ひきたてじげいこ   | hikitate ji geiko | open sparring between two of differing rank      |
+| 互角地稽古     | ごかくじげいこ     | gokakuji geiko    | open sparing between similar rank                |
+| 試合地稽古     | しあいじげいこ     | shiai ji geiko    | competition sparing                              |
+| 一本勝負       | いっぽんしょうぶ   | ippon shoubu      | 1-point match                                    |
+| 間合い         | まあい             | ma ai             | the ideal maximum distance between opponents     |
+| 遠間           | とおま             | too ma            | distant interval                                 |
+| 近間           | ちかま             | chikama           | close interval                                   |
+| 鍔迫り合い     | つばぜりあい       | tsubazeriai       |                                                  |

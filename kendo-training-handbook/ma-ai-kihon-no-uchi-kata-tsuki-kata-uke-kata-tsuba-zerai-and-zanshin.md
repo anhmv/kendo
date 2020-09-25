@@ -48,8 +48,8 @@ First one must master 礼儀 - 構え- 足捌き and 素振り. Then you must le
 ### Steps to 基本業
 
 1. Focus on large proper 振り被り「ふりかぶり」, 気合い, and _\*\*_手の内 from a stationary position where 打突部位「だとつぶい」 \(striking zones\) can be reached without moving.
-2. From 一束一刀の間合い「いっそくいっとうのまあい」, step one step in using 摺足「すりあし」 to strike to add 足捌き「あしさばき」 and 気ー剣ー体の一「きーけんーたいーのいち」 practice.
-3. From 一束一刀の間合い「いっそくいっとうのまあい」, build up pressure, and then step one step in and strike using 踏み込み足「ふみこみあし」 and 気ー剣ー体の一「きーけんーたいーのいち」. Here one learns and improves their 打ちま「うちま」 \(optimism distance and opportunity for cutting\)
+2. From 一束一刀の間合い「いっそくいっとうのまあい」, step one step in using 摺足「すりあし」 to strike to add 足捌き「あしさばき」 and 気剣体一致「きてんたいいっち」 practice.
+3. From 一束一刀の間合い「いっそくいっとうのまあい」, build up pressure, and then step one step in and strike using 踏み込み足「ふみこみあし」 and 気剣体一致「きてんたいいっち」. Here one learns and improves their 打ちま「うちま」 \(optimism distance and opportunity for cutting\)
 4. From a far distance \(遠間「とおま」\), step into 一束一刀の間合い「いっそくいっとうのまあい」 with 摺足「すりあし」, then use sharp 踏み込み「ふみこみ」 to strike and follow through with 残心「ざんしん」.
 
 #### Step 1: Stationary 正面打ち
@@ -65,7 +65,7 @@ First one must master 礼儀 - 構え- 足捌き and 素振り. Then you must le
 * One step forward from right with 摺足「すりあし」 as 竹刀 swing up 振り被り「ふりかぶり」 above head as in above practice, and immediately.
 * 切りつけ - 面打ち strike as you bright left foot up to proper position behind the right.
 * At the moment of striking, express 気合い - "MEN!" or "ICHI!"
-* 気合い, 引きつけ \(pulling up left foot\) and strike must be simultaneous - 気ー剣ー体の一「きーけんーたいーのいち」.
+* 気合い, 引きつけ \(pulling up left foot\) and strike must be simultaneous - 気剣体一致「きてんたいいっち」.
 * Retreat from left foot in one small 送り足 step to show 残心「ざんしん」 in 中段の構え.
 * Retreat from left foot, in another small 送り足 steep, to original distance/position, maintaining 中段の構え.
 
@@ -74,7 +74,7 @@ First one must master 礼儀 - 構え- 足捌き and 素振り. Then you must le
 * From 中段の構え at a distance of 一束一刀の間合い「いっそくいっとうのまあい」 \(where one step required to reach the target - start at easy distance, then try to increase it maintain posture.\)
 * When 元立ち \(opponent\) opens their 竹刀 to their right
 * 振り被り「ふりかぶり」 swing up 竹刀 above head as in above practice, and immediately.
-* Step forward and 切りつけ - 面打ち. Strike Men while stepping decisively forward with the right foot, and expressing 気合い - "MEN!" the step should be large enough to reach the opponent at 一束一刀の間合い「いっそくいっとうのまあい」. When striking, 気合い, stamping 踏み込み足「ふみこみあし」, and strike must be simultaneous - 気ー剣ー体の一「きーけんーたいーのいち」.
+* Step forward and 切りつけ - 面打ち. Strike Men while stepping decisively forward with the right foot, and expressing 気合い - "MEN!" the step should be large enough to reach the opponent at 一束一刀の間合い「いっそくいっとうのまあい」. When striking, 気合い, stamping 踏み込み足「ふみこみあし」, and strike must be simultaneous - 気剣体一致「きてんたいいっち」.
 * Immediately bright the left foot to proper position \(引きつけ\); use quick 送り足 \(摺足「すりあし」\) to protect straight forward; relax hands; keep the arms extended until ready to return to 中段の構え.
 
 _**NB**: Several ways of continuing after cutting which are useful to practice are:_
@@ -88,7 +88,7 @@ _**NB**: Several ways of continuing after cutting which are useful to practice a
 * Take on step into 一束一刀の間合い「いっそくいっとうのまあい」 with 摺足「すりあし」
 * Advance right foot/knee/body slightly while maintaining 剣先「けんせん」 position to apply pressure \(攻め足「せめあし」\)
 * When 元立ち「もとだち」 \(opponent\) opens their 竹刀 to their right
-* Immediately, \(一挙度「いっきょど」 in one motion\) 振り被り「ふりかぶり」 swing up 竹刀 above head as in above practice, 切りつけ - 面打ち strike 面 while stepping decisively forward with the right foot, and expressing 気合い - "Men!" the step should be large enough to reach the opponent at 一束一刀の間合い. When striking, 気合い, stamping 踏み込み足, and strike must be simultaneous - 気ー剣ー体の一「きーけんーたいーのいち」.
+* Immediately, \(一挙度「いっきょど」 in one motion\) 振り被り「ふりかぶり」 swing up 竹刀 above head as in above practice, 切りつけ - 面打ち strike 面 while stepping decisively forward with the right foot, and expressing 気合い - "Men!" the step should be large enough to reach the opponent at 一束一刀の間合い. When striking, 気合い, stamping 踏み込み足, and strike must be simultaneous - 気剣体一致「きてんたいいっち」.
 * Immediately bring the left foot to proper position; use quick successive 送り足「おくりあし」 \(摺足「すりあし」\) to proceed straight forward 3 to 4 fast steps; relax hands; keep the arms extended until ready to turn shortest way towards opponent - steps slow slightly to turn with good posture, with eye contact and return to 中段の構え, at 遠間「とおま」 or 一束一刀の間合い「いっそくいっとうのまあい」 fully ready to attack again.
 
 _**NB**: Several different ways of 元立ち「もとだち」 offering target can be practiced:_
