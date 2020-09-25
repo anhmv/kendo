@@ -2,7 +2,7 @@
 
 素振り「すぶり」 is the act of swinging the 竹刀 or 木刀 up and down vertically or diagonally. The purpose of 素振り「すぶり」 is to learn how to handle the 竹刀 or 木刀, the correct direction of its movement \(刃筋\), the proper grip for striking, and the basic striking movements related to 足捌き and 体捌き「たいさばき」.
 
-Basic 素振り「すぶり」 are 上下素振り「じょうげすぶり」\(vertical swing\) and 斜め素振り「ななめすぶり」\(diagonal swing\). 区間打突「くかんだとつ」is 素振り「すぶり」 where one practices strike the targets of 面「めん」, 小手「こて」, **do**, and **tsuki** to an imaginary opponent.
+Basic 素振り「すぶり」 are 上下素振り「じょうげすぶり」\(vertical swing\) and 斜め素振り「ななめすぶり」\(diagonal swing\). 区間打突「くかんだとつ」is 素振り「すぶり」 where one practices strike the targets of 面「めん」, 小手「こて」, 胴「どう」, and 付「つき」 to an imaginary opponent.
 
 In the 構え chapter we discussed the correct posture, grip and stance for 中段の構え. To master 素振り「すぶり」, it is essential all these elements are followed correctly. A solit platform is required for correct cutting.
 
@@ -72,7 +72,7 @@ Once you have mastered the basic swing and 送り足「おくりあし」footwor
 * Left hand \(think of left thumb\) must remain in the center body line during entire swing.
 * Once you have mastered the basic swing, add 送り足「おくりあし」footwork, moving forward/backward and later 開き足「ひらきあし」 footwork \(moving diagonal sideways\).
 
-## Kukan Datotsu
+## 区間打突「くかんだとつ」
 
 This is 素振り「すぶり」 practice where we imagines cutting a similar sized opponent's target zones of 正面, 右, and 左面, 小手, 右 and 左 do and thrust to tsuki.
 
@@ -133,25 +133,25 @@ The right arm is the forward one and normally the strongest, so there is a tende
 
 掛け声「かけごえ」 is a natural vocalization which shows that one is full of spirit and on guard. It can serve to encourage one's self, to intimidate the opponent, and to announce victory.
 
-The shout is often called 気愛「きあい」, as the shout shows that one's spirit is fully focused on attacking.
+The shout is often called 気合い「きあい」, as the shout shows that one's spirit is fully focused on attacking.
 
 Before attacking from toma \(long distance\), use shouts of "Yah" or "Ei" are often used to increases one's own spirit and to unsettle the opponent.
 
-When attacking we shout the name of the target, "MEN!", showing that you meant to hit where you did, but that you are throwing all of your 気 into the strike. Continue this 気愛「きあい」 until 残心「ざんしん」 is complete. During 素振り「すぶり」 make 気愛「きあい」short and sharp. If counting, shout the numbers.
+When attacking we shout the name of the target, "MEN!", showing that you meant to hit where you did, but that you are throwing all of your 気 into the strike. Continue this 気合い「きあい」 until 残心「ざんしん」 is complete. During 素振り「すぶり」 make 気合い「きあい」short and sharp. If counting, shout the numbers.
 
 The shout must be loud and strong - not from your mouth/vocal cords, but from yours abdomen/belly. Close your mouth after you shout.
 
 ### **1. Stationary 正面打ち** 
 
 * 振り被り「ふりかぶり」: large swing up until left fist is above forehead.
-* 切りつけ：正面打ち: left fist is front of chest; right arm extended and almost parallel to floor, both hands \(手の内) snap and squeeze slightly inward in \(茶巾絞り「ちゃきんしぼり」), express sharp loud 気愛「きあい」- "MEN!"
+* 切りつけ：正面打ち: left fist is front of chest; right arm extended and almost parallel to floor, both hands \(手の内) snap and squeeze slightly inward in \(茶巾絞り「ちゃきんしぼり」), express sharp loud 気合い「きあい」- "MEN!"
 * After this, add 送り足「おくりあし」
 
 ### **2. 送り足ー正面打ち**
 
 * One step forward from right with 摺足「すりあし」as 竹刀 swing up 振り被り「ふりかぶり」 above head as in above practice - "Ichi"
 * 切りつけ：面打ち as you bright left foot up to proper position behind the right \(引き付「ひきつき」)
-* At the moment of striking, express 気愛「きあい」 - "MEN!" or "NI!"
+* At the moment of striking, express 気合い「きあい」 - "MEN!" or "NI!"
 * Retreat from the left foot in one 送り足「おくりあし」 step to original position; assume 中段の構え - "San!"
 
 _NB: The first steps may be altered in order to aid learning principles_
@@ -165,19 +165,19 @@ Later, do both actions in one continuous motion \(一級度\) - no pause between
 
 * One step forward from right with 摺足「すりあし」and 竹刀 swing up 振り被り「ふりかぶり」 above head as in above practice, and immediately.
 * 切りつけ - 面打ち as you bright left foot up to proper position behind the right.
-* At the moment of striking, express 気愛「きあい」- "MEN!" or "ICHI!" etc.
+* At the moment of striking, express 気合い「きあい」- "MEN!" or "ICHI!" etc.
 * Retreat from left foot in one 送り足「おくりあし」 step to original position; assume 中段の構え - "NI"
 
 ### **4. 連続正面打ち「ぜんぞくしょうめんうち」**
 
 * One step forward from right with 摺足「すりあし」as 竹刀 swing up 振り被り「ふりかぶり」 above head as in above practice, and immediately.
 * 切りつけ - 面打ち - as you bright left foot up to proper position behind the right, later motion should be in 一級度 \(one moment, no pause.\)
-* At the moment of striking, express 気愛「きあい」- "Men!" or "Ichi!"
+* At the moment of striking, express 気合い「きあい」- "Men!" or "Ichi!"
 * Retreat from left foot 送り足「おくりあし」 step swinging the 竹刀 up with 振り被り「ふりかぶり」.
 * 切りつけ - 面打ち as your bright right foot back to the proper position in front of the left, the later motion should be in 一級度 \(one motion, no pause\)
-* At the moment of striking, express 気愛「きあい」- "Men!" or "Ni!"
+* At the moment of striking, express 気合い「きあい」- "Men!" or "Ni!"
 
-**NB**: Each cut must be with 気愛「きあい」天体一「てんたいいち」- the harmonization of Spirit - Sword - Body when cutting. Coordinate the strike - withdraw of trailing foot - 気愛 together.
+**NB**: Each cut must be with 気合い「きあい」天体一「てんたいいち」- the harmonization of Spirit - Sword - Body when cutting. Coordinate the strike - withdraw of trailing foot - 気合い together.
 
 The above basics can be expanded to include other 素振り「すぶり」, such as:
 

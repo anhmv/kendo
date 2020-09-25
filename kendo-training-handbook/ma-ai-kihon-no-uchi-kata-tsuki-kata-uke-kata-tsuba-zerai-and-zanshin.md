@@ -1,102 +1,101 @@
-# Ma-ai, Kihon-no-uchi-kata, Tsuki-kata, Uke-kata, Tsuba-zerai and Zanshin
+# 間合い、基本の打ち方、付き方、受け方、鍔迫り合い、残心
 
-## Ma-ai
+## 間合い「まあい」
 
-**Ma-ai** is the spatial distance between you and your opponent. The establishment of **ma-ai** through relationship with the opponent is a subtle and important matter.
+間合い「まあい」 is the spatial distance between you and your opponent. The establishment of 間合い「まあい」 through relationship with the opponent is a subtle and important matter.
 
-1. **Chika-ma \(Chika ma-ai\)**: closer distance, when you get in further from issoku itto no ma, you are in chika-ma. You can easily reach your opponent but your opponent also can reach you easily.
-2. **Issoku itto no ma-ai \(Issoku itto no ma\)**: this distance is a distance where you can reach you ropponent with one step forwards and you can avoid your opponent's cut with one step backwards. The fundamental spatial distance in Kendo.
-3. **To-ma \(To ma-ai\)**: distance beyond **issoku itto no ma**. You cannot reach your opponent and your opponent cannot reach you. Basiclaly your shinai and your opponent's shinai are not touching \(or barely touching\).
-4. **Uchi ma \(Uchi ma-ai\)**: the distance for you to strike. One's optimum distance and opportunity for striking. When learning, start close to make keeping posture easy, then increase distance - try to be able to strike from as far as possible.
+1. 近間「ちかま」: closer distance, when you get in further from 一束一刀の間合い, you are in 近間「ちかま」. You can easily reach your opponent but your opponent also can reach you easily.
+2. 一束一刀の間合い「いっそくいっとうのまあい」: this distance is a distance where you can reach you ropponent with one step forwards and you can avoid your opponent's cut with one step backwards. The fundamental spatial distance in Kendo.
+3. 遠間「とおま」: distance beyond 一束一刀の間合い. You cannot reach your opponent and your opponent cannot reach you. Basically your 竹刀 and your opponent's 竹刀 are not touching \(or barely touching\).
+4. 打ちま: the distance for you to strike. One's optimum distance and opportunity for striking. When learning, start close to make keeping posture easy, then increase distance - try to be able to strike from as far as possible.
 
-It is easy to strike from **Chika-ma**; beginners should focus on practicing **Keiko** from **To-ma** to encourage fast ashi-sabaki and large fluid striking.
+It is easy to strike from 近間; beginners should focus on practicing 稽古「けいこ」 from 遠間「とおま」 to encourage fast 足捌き「あしさばき」 and large fluid striking.
 
-Closing from to-ma is when one must be fully prepared to attack or be attacked - there is no chance to relax.
+Closing from 遠間「とおま」 is when one must be fully prepared to attack or be attacked - there is no chance to relax.
 
 ## Kihon-no-uchi-kata - The basic way of striking and Tsuki-kata - Thrusting
 
-We can learn, practice and improve our cutting with Suburi, but we need an opponent to learn about distance and striking effectively.
+We can learn, practice and improve our cutting with 素振り, but we need an opponent to learn about distance and striking effectively.
 
-We should practice striking with Bokuto to just above the target, and striking the target with Shinai - either to the Bogu or shinai held close to actual target position, so not to effect cutting distances.
+We should practice striking with 木刀 to just above the target, and striking the target with 竹刀 - either to the Bogu or 竹刀 held close to actual target position, so not to effect cutting distances.
 
-Praciticing in pairs, the term **Kakarite** is used for the one striking \(practicing technique\) and **Motodachi** used for the receiver of the strike or technique. Both must maintain alertness during practice as both roles are vital.
+Praciticing in pairs, the term かかりて is used for the one striking \(practicing technique\) and 元立ち「もとだち」 used for the receiver of the strike or technique. Both must maintain alertness during practice as both roles are vital.
 
-**Kakarite** must always maintain posture and pressure to be ready to cut immediately any opportunity to strike. The height of the **kensen** in **kamae** will vary with the size of one's opponent, as will your **uchi-ma**. When in **kamae** adjust the **kensen** level by moving the left fist position rather than bending the wrist. When cutting your right hand should finish around your opponents shoulder level.
+かかりて must always maintain posture and pressure to be ready to cut immediately any opportunity to strike. The height of the 剣先「けんせん」 in 構えwill vary with the size of one's opponent, as will your 打ちま「うちま」. When in 構え adjust the 剣先「けんせん」 level by moving the left fist position rather than bending the wrist. When cutting your right hand should finish around your opponents shoulder level.
 
-**Motodachi** must help maintain correct Ma-ai and provide correct opportunities to be struck.
+元立ち「もとだち」 must help maintain correct 間合い「まあい」 and provide correct opportunities to be struck.
 
-* Open for **Men** by moving **Kensen** to your right, or lowering it to the right.
-* Open for **Kote** by raising the **kensen** to the left - at first, exaggerate movement to make **kote** easy to strike.
-* Open for **Do** by raising arms to reveal target,a nd sometimes turn body to the right to offer larger target.
-* Open for **Tsuki** by lowering **kensen** down to the right - keep chin pulled in to receive.
+* Open for 面 by moving 剣先「けんせん」 to your right, or lowering it to the right.
+* Open for 小手 by raising the 剣先「けんせん」 to the left - at first, exaggerate movement to make 小手 easy to strike.
+* Open for 胴「どう」 by raising arms to reveal target, and sometimes turn body to the right to offer larger target.
+* Open for 付「つき」 by lowering 剣先「けんせん」 down to the right - keep chin pulled in to receive.
 
-If not wearing Bogu then use the shinai to receive strikes. Do not hold it arms stretched out as mentioned in the Suburi section as this will effect  **Ma-ai** - instead hold close to where actual target would be, in such a way you are still protected.
+If not wearing Bogu then use the 竹刀 to receive strikes. Do not hold it arms stretched out as mentioned in the 素振り section as this will effect  間合い「まあい」 - instead hold close to where actual target would be, in such a way you are still protected.
 
-* **Men** - hold shinai in both hands just in front and above the head, or with hands in that position, shinai out to your side.
-* **Kote** - hold shinai in stretched out hands at position **Kote** would normally be, or with hands in that position, shinai out to your side.
-* **Do** - hold shinai in both hands, right hand low down close to your right hip and left ahnd by right shoulder. The vertical shinai is then in similar position to the **Do**.
-* **Tsuki** - not normally practiced by beginners except in style of bokuto ni yoru kendo kihon waza keiko ho.
+* 面 - hold 竹刀 in both hands just in front and above the head, or with hands in that position, 竹刀 out to your side.
+* 小手 - hold 竹刀 in stretched out hands at position 小手 would normally be, or with hands in that position, 竹刀 out to your side.
+* 胴「どう」hold 竹刀 in both hands, right hand low down close to your right hip and left hand by right shoulder. The vertical 竹刀 is then in similar position to the 胴「どう」.
+* 付「つき」 - not normally practiced by beginners except in style of 木刀二夜剣道基本技稽古保「ぼくとうによるけんどうきほんわざけいこ保」.
 
-First one must master **Reigi - Kamae - Ashi sabaki**  and **Suburi**. Then you must learn and develop effective **Kihon**. Keep in mind some important ideas:
+First one must master 礼儀 - 構え- 足捌き  and 素振り. Then you must learn and develop effective 基本. Keep in mind some important ideas:
 
-* Strike must be with sufficient force to cut with a real sword. Not to soft or too hard - **Men** and **Do** are struck more firmly than the **Kote**
-* You must always keep contol of posture and kamae.
-* Strikes are not made by force of strngth, but bu the correct action of arms and wrists.
+* Strike must be with sufficient force to cut with a real sword. Not to soft or too hard - 面 and 胴「どう」 are struck more firmly than the 小手
+* You must always keep contol of posture and 構え.
+* Strikes are not made by force of strength, but bu the correct action of arms and wrists.
 * Do not think of striking with the right hand, strike with the left. Do not think of striking with the left ahnd, but strike with the hips, legs, and feet - use all your body.
-* Do not put strength into lifting the shinai, relax arms, and strike quickly.
+* Do not put strength into lifting the 竹刀, relax arms, and strike quickly.
 
-### Steps to Kihon Waza
+### Steps to 基本業
 
-1. Focus on large proper **Furi-kaburi, Ki-ai**, and **Te-no-uchi** from a stationary position where **Datotsu-bui** \(striking zones\) can be reached without moving.
-2. From **Issoku-itto-no-ma-ai**, step one step in using **Suri-ashi** to strike to add **Ashi-sabaki** and **Ki-ten-tai-no-itchi** practice.
-3. From **Issoku-itto-no-ma-ai**, build up pressure, and then step one step in and strike using **Fumi-komi-ashi** and **Ki-ten-tai-itchi**. Here one learns and improves their **Uchi-ma** \(ptimim distance and opportunity for cutting\)
-4. From a far distance \(**Toma**\), step into **Issoku-itto-no-ma-ai** with **Suri-ashi**, then use sharp **Fumi-komi** to strike and follow through with **Zanshin**.
+1. Focus on large proper 振り被り「ふりかぶり」, 気合い, and ****手の内 from a stationary position where 打突部位「だとつぶい」 \(striking zones\) can be reached without moving.
+2. From 一束一刀の間合い「いっそくいっとうのまあい」, step one step in using 摺足「すりあし」 to strike to add 足捌き「あしさばき」 and 気ー剣ー体の一「きーけんーたいーのいち」 practice.
+3. From 一束一刀の間合い「いっそくいっとうのまあい」, build up pressure, and then step one step in and strike using 踏み込み足「ふみこみあし」 and 気ー剣ー体の一「きーけんーたいーのいち」. Here one learns and improves their 打ちま「うちま」 \(ptimim distance and opportunity for cutting\)
+4. From a far distance \(遠間「とおま」\), step into 一束一刀の間合い「いっそくいっとうのまあい」 with 摺足「すりあし」, then use sharp 踏み込み「ふみこみ」 to strike and follow through with 残心「ざんしん」.
 
-#### Step 1: Statinary Shomen Uchi
+#### Step 1: Statinary 正面打ち
 
-* From **Chudan-no-kamae** at a distance where Datotsu-bu can be reached without step.
-* **Furi-kaburi** large swing up until left fist is above forehead.
-* **Kiritsuke: Shomen Uchi**: cut Men with left fist in front of chest; right arm extended and almost parallel to floor, both hands squeeze slightly inward in \(**Chakin-shibori**\)
-* and \(**Te-no-uchi**\) wrist snap, express sharp loud **Ki-ai**: "MEN!"
-* Do both actions in one continuous motion \(**Ik-kyo-do**\) - no pause between **Furi-kaburi** and **Kiritsuke Men**-**uchi**.
+* From 中段の構え at a distance where 打突部位「だとつぶい」 can be reached without step.
+* 振り被り「ふりかぶり」 large swing up until left fist is above forehead.
+* 切りつけ: 正面打ち: cut Men with left fist in front of chest; right arm extended and almost parallel to floor, both hands squeeze slightly inward in \(茶巾絞り「ちゃきんしぼり」\) and \(手の内\) wrist snap, express sharp loud 気合い: "MEN!"
+* Do both actions in one continuous motion \(一挙度「いっきょど」\) - no pause between 振り被り「ふりかぶり」 and 切りつけ：面打ち.
 
-#### Step 2: Okuri Ashi Shomen Uchi
+#### Step 2: 送り足正面打ち
 
-* From **chudan-no-kamae** at a distance of **Issoku-itto-no-ma-ai** \(where one step required to reach the target.\)
-* One step forward from right with **Suri-ashi** as **Shinai** swing up **Furi-kaburi** above head as in above practice, and immediately.
-* **Kiritsuke - Men-uchi** strike as you bright left foot up to proper position behind the right.
-* At the moment of striking, express **Ki-ai** - "MEN!" or "ICHI!"
-* **Ki-ai, Hiki-tsuke** \(pulling up left foot\) and strike must be simultaneous - **Ki-ten-tai-itchi**.
-* Retreat from left foot in one small **Okuri-ashi** step to show **Zanshin** in **Chudan-no-kamae**.
-* Retreat from left foot, in another small **Okuri-ashi** steep, to original distance/position, maintaining **Chudan-no-kamae**.
+* From 中段の構え at a distance of 一束一刀の間合い「いっそくいっとうのまあい」 \(where one step required to reach the target.\)
+* One step forward from right with 摺足「すりあし」 as 竹刀 swing up 振り被り「ふりかぶり」 above head as in above practice, and immediately.
+* 切りつけ - 面打ち strike as you bright left foot up to proper position behind the right.
+* At the moment of striking, express 気合い - "MEN!" or "ICHI!"
+* 気合い, 引きつけ \(pulling up left foot\) and strike must be simultaneous - 気ー剣ー体の一「きーけんーたいーのいち」.
+* Retreat from left foot in one small 送り足 step to show 残心「ざんしん」 in 中段の構え.
+* Retreat from left foot, in another small 送り足 steep, to original distance/position, maintaining 中段の構え.
 
-#### Step 3: Fumikomi ashi shomen uchi - Issoku-itto-no-ma-ai \(One step cut\)
+#### Step 3: Fumikomi ashi 正面打ち - 一束一刀の間合い「いっそくいっとうのまあい」 \(One step cut\)
 
-* From **chudan-no-kamae** at a distance of **Issoku-itto-no-ma-ai** \(where one step required to reach the target - start at easy distance, then try to increase it maintain posture.\)
-* When **Moto-dachi** \(opponent\) opens their shinai to their right
-* **Furi-kaburi** swing up shinai above head as in above practice, and immediately.
-* Step forward and **Kiritsuke** **- Men-uchi**. Strike Men while stepping decisively forward with the right foot, and expressing **Ki-ai** - "MEN!" the stepshould be large enough to reach the opponent at **Issoko-itto-no-ma-ai**. When striking, **Ki-ai**, stamping **Fumi-komi-ashi**, and strike must be simultaneous - **Ki-ten-tai-itchi**.
-* Immediately bright the left foot to proper position \(**hiki-tsuke**\); use quick **Okuri-ashi** \(suri-ashi\) to protect straight forward; relax hands; keep the arms extended until ready to return to **Chudan-no-kamae**.
+* From 中段の構え at a distance of 一束一刀の間合い「いっそくいっとうのまあい」 \(where one step required to reach the target - start at easy distance, then try to increase it maintain posture.\)
+* When 元立ち \(opponent\) opens their 竹刀 to their right
+* 振り被り「ふりかぶり」 swing up 竹刀 above head as in above practice, and immediately.
+* Step forward and 切りつけ - 面打ち. Strike Men while stepping decisively forward with the right foot, and expressing 気合い - "MEN!" the stepshould be large enough to reach the opponent at 一束一刀の間合い「いっそくいっとうのまあい」. When striking, 気合い, stamping 踏み込み足「ふみこみあし」, and strike must be simultaneous - 気ー剣ー体の一「きーけんーたいーのいち」.
+* Immediately bright the left foot to proper position \(引きつけ\); use quick 送り足 \(摺足「すりあし」\) to protect straight forward; relax hands; keep the arms extended until ready to return to 中段の構え.
 
 _**NB**: Several ways of continuing after cutting which are useful to practice are:_
 
 1. _Continue just 1 step forward and stop at tsuba-zerai \(see later\) - takes 2 steps back._
-2. _Continue straight forward 3-4 steps while Motodachi retreats - Kakarite keeping shinai close to men target. Assume chudan and reverse roles._
+2. _Continue straight forward 3-4 steps while 元立ち「もとだち」 retreats - かかりて keeping 竹刀 close to men target. Assume chudan and reverse roles._
 
-#### Step 4: Seme - Fumikomi ashi shomen uchi - Toma \(two step action\)
+#### Step 4: Seme - Fumikomi ashi 正面打ち - 遠間「とおま」 \(two step action\)
 
-* From **Chudan-no-kamae** at a distance of **To-ma** \(where one cannot reach the target in one step - Kisaki not touching.\) express **Ki-ai** \(Yaah!, Aeii!, etc\)
-* Take on step into **Issoku-itto-no-ma-ai** with **suri-ashi**
-* Advance right foot/knee/body slightly while maintaining **Kensen** position to apply pressure \(**seme-ashi**\)
-* When **Motodachi** \(opponent\) opens their shinai to their right
-* Immediately, \(**Ik-kyo-do** in one motion\) **Furi-kaburi** swing up shinai above head as in above practice, **kiritsuke - men-uchi** strike **Men** while stepping decisively forward with the right foot, and expressing **Ki-ai** - "Men!" the step should be large enough to reach the opponent at **Issoko-itto-no-ma-ai**. When striking, **Ki-ai**, stamping **Fumi-komi-ashi**, and strike must be simultaneous - **Ki-ten-tai-itchi**.
-* Immediately bring the left foot to proper position; use quick successive **Okuri-ashi \(suri-ashi\)** to proceed straight forward 3 to 4 fast steps; relax hands; keep the arms extended until ready to turn shortest way towards opponent - steps slow slightly to turn with good posture, with eye contact and return to **chudan-no-kamae**, at **to-ma** or **issoku-itto-no-ma-ai** fully ready to attack again.
+* From 中段の構え at a distance of 遠間「とおま」 \(where one cannot reach the target in one step - Kisaki not touching.\) express 気合い \(Yaah!, Aeii!, etc\)
+* Take on step into 一束一刀の間合い「いっそくいっとうのまあい」 with 摺足「すりあし」
+* Advance right foot/knee/body slightly while maintaining 剣先「けんせん」 position to apply pressure \(攻め足「せめあし」\)
+* When 元立ち「もとだち」 \(opponent\) opens their 竹刀 to their right
+* Immediately, \(一挙度「いっきょど」 in one motion\) 振り被り「ふりかぶり」 swing up 竹刀 above head as in above practice, 切りつけ - 面打ち strike 面 while stepping decisively forward with the right foot, and expressing 気合い - "Men!" the step should be large enough to reach the opponent at 一束一刀の間合い. When striking, 気合い, stamping 踏み込み足, and strike must be simultaneous - 気ー剣ー体の一「きーけんーたいーのいち」.
+* Immediately bring the left foot to proper position; use quick successive 送り足「おくりあし」 \(摺足「すりあし」\) to proceed straight forward 3 to 4 fast steps; relax hands; keep the arms extended until ready to turn shortest way towards opponent - steps slow slightly to turn with good posture, with eye contact and return to 中段の構え, at 遠間「とおま」 or 一束一刀の間合い「いっそくいっとうのまあい」 fully ready to attack again.
 
-_**NB**: Several different ways of Motodachi offering target can be practiced:_
+_**NB**: Several different ways of 元立ち「もとだち」 offering target can be practiced:_
 
-1. _Open immediately after kakarite makes pressure \(seme\)_
-2. _Keep relaxed kamae, and kakarite will "drive" in seme to control center line and make opportunity to strike \(kizeme\)_
-3. _Wait 2-3 seconds before opening Kamae - to teach sensing opportunity._
+1. _Open immediately after かかりて makes pressure \(seme\)_
+2. _Keep relaxed 構え, and かかりて will "drive" in seme to control center line and make opportunity to strike \(kizeme\)_
+3. _Wait 2-3 seconds before opening 構え - to teach sensing opportunity._
 
 
 
