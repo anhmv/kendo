@@ -1,10 +1,8 @@
 # 構え、構え方、納め方
 
-## In 中段の構え, the 竹刀 held in the center-plane of the body with the tip projecting forward to the opponent. Below, details the correct positioning of the hands and 竹刀 in relation to the body and the opponent.構え「かまえ」
+構え「かまえ」is the guard, or ready posture employed for attack and defense. However, more than just a physical pose, 構え「かまえ」 is also the on-guard posturing of the mind and spirit. These aspects of 構え「かまえ」, the body and mindset, must always be practiced together. Equally important to keep in mind is that 構え begins and ends with proper etiquette. These points are never to be overlooked.
 
-構え「かまえ」is the guard, or ready posture employed for attack and defense. However, more than just a physical pose, 構え is also the on-guard posturing of the mind and spirit. These aspects of 構え「かまえ」, the body and mindset, must always be practiced together. Equally important to keep in mind is that 構え begins and ends with proper etiquette. These points are never to be overlooked.
-
-The legendary swordsman, Miyamoto Musashi \(1584-1645\) distinguished in his writings five primary guard postures collectively termed 五行の構え「ごぎょうのかまえ」. In modern kendo, the 五行の構え continues to be the principal guard postures. The 五行の構え are 中段の構え、上段の構え、下段の構え 、 八相の構え、 and 脇構え. Of the five, 中段の構え is the first and most versatile of the guard postures. In modern 剣道, 中段の構え is the posture that the other four 構え are instigated from.
+The legendary swordsman, Miyamoto Musashi \(1584-1645\) distinguished in his writings five primary guard postures collectively termed 五行の構え「ごぎょうのかまえ」. In modern 剣道, the 五行の構え continues to be the principal guard postures. The 五行の構え are 中段の構え、上段の構え、下段の構え 、 八相の構え、 and 脇構え. Of the five, 中段の構え is the first and most versatile of the guard postures. In modern 剣道, 中段の構え is the posture that the other four 構え are instigated from.
 
 ![](../.gitbook/assets/shinai.png)
 
@@ -49,7 +47,7 @@ To grip the 竹刀:
 3. The hilt of the 竹刀 should be held at the very end. The overlapping of the small finger halfway over the end of the 竹刀 is an acceptable practice. However, never is the 竹刀 to be held with the hilt protruding from the heel of the left hand. \[**NB**: Holding a 木刀, the left hand should just reveal the 柄頭「つかがしら」\]
 4. The right hand should not grasp the 竹刀 directly below the 鍔「つば」.
 
-
+In 中段の構え, the 竹刀 held in the center place of the body with the tip projecting forward to the opponent. Below, details the correct positioning of the hands and 竹刀 in relation to the body and the opponent.
 
 1. The left hand is extended approximately the with of one fist \(10cm\) forward of the abdomen.
 2. The first joint of the thumb \(at the base of the thumb\) is in a direct line in front of the navel.
@@ -96,7 +94,7 @@ Hip should be kept square to the front, with the buttocks tucked in. This allows
 
 ### 目付「めつけ」
 
-* 目付 is the positioning of one's eyes. It is the act of observing the opponents whole, while looking into his eyes. Some kendo sayings used to try explain the feeling are:
+* 目付 is the positioning of one's eyes. It is the act of observing the opponents whole, while looking into his eyes. Some 剣道 sayings used to try explain the feeling are:
 * 遠山の目付「えんざんのめつけ」 means that you look at your opponent as if you are looking at a far away mountain. That is too look at the opponent as a whole, rather than focusing on one point.
 * 観見の目付「かんけんのめつけ」is the teaching of the importance of having a keen eye which can not only see the opponent's appearance, but can also perceive the opponents abilities, state of mind and intentions. \(Read Gorin no Sho by Miyamoto Musashi for more details.\)
 
@@ -134,7 +132,7 @@ When you stop here, you are ready to go in the 中段 position.
 
 * Stand and take a step forward with the right foot to bright the feet into proper guard position.
 
-### Kamae-kata: Assuming Kamae with partner \(竹刀 practice\)
+### 構え方「かまえかた」: Assuming 構え with partner \(竹刀 practice\)
 
 1. Face each other in the 提げ刀「さげとう」 posture at a separation of nine steps.
 2. Execute 立礼「りつれい」.
@@ -143,7 +141,7 @@ When you stop here, you are ready to go in the 中段 position.
 5. Draw the 竹刀, "抜け刀「ぬけとう」", on the third step and assume the そんきょ position.
 6. Stand and take a step forward with the right foot to bright the feet into proper guard position.
 
-### Osame-kata - Withdrawing from kamae
+### 納め方「おさめかた」 - Withdrawing from 構え
 
 Replacing the 竹刀 is the reverse sequence
 
@@ -161,7 +159,7 @@ Replacing the 竹刀 is the reverse sequence
 * When taking そんきょ with a partner, careful consideration should be given to the distance to the center starting point - upon taking three steps and drawing the 竹刀, the 竹刀 tip should be with in the center area of the court or training floor.
 * When in the そんきょ position with a partner, the tips of the 竹刀 should be separated by two to ten centimeters.
 
-### Kamae O-toku \(normal instruction "Yasume" in 竹刀 kendo\)
+### 構えお得「かまえおとく」\(normal instruction "Yasume" in 竹刀 kendo\)
 
 Assume a relaxed or at-ease posture with the 竹刀 drawn. From 中段の構え, turn the 竹刀 downward to point the 鋒「きっさき」 to just outside the opponent's left knee. The 鋒「きっさき」 should be at a level five or six centimeters below the knee. The edge of the 竹刀 \(side opposite the 弦「つる」\) should be angled downward and to the inside at approximately 45 degrees.
 

@@ -4,7 +4,7 @@
 
 Basic 素振り「すぶり」 are 上下素振り「じょうげすぶり」\(vertical swing\) and 斜め素振り「ななめすぶり」\(diagonal swing\). 区間打突「くかんだとつ」is 素振り「すぶり」 where one practices strike the targets of 面「めん」, 小手「こて」, 胴「どう」, and 付「つき」 to an imaginary opponent.
 
-In the 構え chapter we discussed the correct posture, grip and stance for 中段の構え. To master 素振り「すぶり」, it is essential all these elements are followed correctly. A solit platform is required for correct cutting.
+In the 構え chapter we discussed the correct posture, grip and stance for 中段の構え. To master 素振り「すぶり」, it is essential all these elements are followed correctly. A solid platform is required for correct cutting.
 
 The elements needed for correct 素振り「すぶり」 are:
 
@@ -40,9 +40,9 @@ _**NB**: The manuals state that we should swing the 竹刀 without changing the 
 ### **Important points and common mistakes**
 
 1. The up swing and down swing should be one action, there is no pause or break between the actions \(unless instructed to during certain practice patterns\)
-2. Cutting off center is normally a result of the right arm being to stiff, or using it to swing 竹刀.
+2. Cutting off center is normally a result of the right arm being too stiff, or using it to swing 竹刀.
 3. Keep wrist, elbows and shoulders relaxed - do not hunch shoulders.
-4. Keep correct posture - do not "duck" or nod head during swing, and keep hips square to front.
+4. Keep correct posture - do not "duck" or nod head during swing, and keep hips square in front.
 5. Do not stick out your left elbow - this is result of wrong 構え / grip and no 絞り「しぼり」 action.
 
 Once you have mastered the basic swing and 送り足「おくりあし」footwork, moving forward/backward and 掛け声「かあけごえ」\(shout\) to 素振り「すぶり」.
@@ -108,7 +108,7 @@ Other terms: 切りつけ「きりつけ」is a cut, and 切り下ろし「き�
 When performing 切りつけ（切り下ろし）you must also include:
 
 * 手の内「てのうち」 - this is the overall use of the hands when striking. It includes the way of tightening/loosening of the grip, and the adjusting of the balance between the two hands. 
-* 茶巾絞り「ちゃきんしぼり」- the way to grip the 竹刀 with both hands, in posture, or when striking. The term originates from the fact that the way the 竹刀 is gripped when strking resembles the method used to wring out a towel in the tea ceremony. One grips tightly with the little, ring, and middle fingers and loosely with the thumb and forefinger.
+* 茶巾絞り「ちゃきんしぼり」- the way to grip the 竹刀 with both hands, in posture, or when striking. The term originates from the fact that the way the 竹刀 is gripped when striking resembles the method used to wring out a towel in the tea ceremony. One grips tightly with the little, ring, and middle fingers and loosely with the thumb and forefinger.
 * さえ - when striking, the correct coordination of the right and left hand. with instantaneous 手の内, and sharp "whip like" wrist action give the strike the sharpness known as "さえ".
 
 ### **"Cut with the left hand, not the right"**
