@@ -14,5 +14,6 @@
 ## Uncategorized
 
 * [Kendo for English Speakers](uncategorized/kendo-for-english-speakers.md)
-* [KENDO CHO NGƯỜI MỚI  BẮT ĐẦU](uncategorized/kendo-cho-nguoi-moi-bat-dau.md)
+* [KENDO CHO NGƯỜI MỚI  BẮT ĐẦU](uncategorized/kendo-cho-nguoi-moi-bat-dau/README.md)
+  * [KENDO LÀ GÌ?](uncategorized/kendo-cho-nguoi-moi-bat-dau/kendo-la-gi.md)
 
