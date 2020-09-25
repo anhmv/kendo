@@ -1,4 +1,4 @@
-# 素振り「すぶり」
+# 素振り
 
 素振り「すぶり」 is the act of swinging the 竹刀 or 木刀 up and down vertically or diagonally. The purpose of 素振り「すぶり」 is to learn how to handle the 竹刀 or 木刀, the correct direction of its movement \(刃筋\), the proper grip for striking, and the basic striking movements related to 足捌き and 体捌き「たいさばき」.
 
@@ -18,13 +18,13 @@ The elements needed for correct 素振り「すぶり」 are:
 
 * Starting from the correct 中段の構え position: 
 
-_**NB**: The manuals state that we should swing the 竹刀 without changing the grip. Some sensei suggest moving the right hand close to the lef of gripping with both hands together in the center of the 柄「つか」, to make action easier when learning - others say to keep normal grip - do as Instructor asks, but either way - Do NOT allow hands to slide up and down 柄「つか」 during swing - hand position must remain constant._
+_**NB**: The manuals state that we should swing the 竹刀 without changing the grip. Some sensei suggest moving the right hand close to the left of gripping with both hands together in the center of the 柄「つか」, to make action easier when learning - others say to keep normal grip - do as Instructor asks, but either way - Do NOT allow hands to slide up and down 柄「つか」 during swing - hand position must remain constant._
 
 ### **振り被り「ふりかぶり」**
 
 * Swing the 竹刀 upward in a large movement keeping left and right hands perfectly centered.
 * The feeling should be of pushing the left hand forwards and up over the head, raising the hands and elbows as far as shoulders will allow. \(DO NOT pull it up with the right hand - this arm must remain relaxed.\) Think of lifting elbows up as far as you can.
-* The shoulders are the point the arms and 竹刀 rotate around, the oter joints should not move initially.
+* The shoulders are the point the arms and 竹刀 rotate around, the other joints should not move initially.
 * Keep the shoulders down and relaxed - do not "hunch" them up during swing.
 
 **NB**: The size of the swing varies with different 先生 ideas. Some say that it should only swing back parallel to the floor, as beyond this requires the other joints to bend. Others state that the swing should go all the way back until the 竹刀 tip reaches the center of your buttocks. The later one is best for beginners / children as it checks the swing is perfectly centered and teaches the correct way to relax and open the shoulder. Therefore this is the method normally practiced.
@@ -45,7 +45,7 @@ _**NB**: The manuals state that we should swing the 竹刀 without changing the 
 4. Keep correct posture - do not "duck" or nod head during swing, and keep hips square to front.
 5. Do not stick out your left elbow - this is result of wrong 構え / grip and no 絞り「しぼり」 action.
 
-Once you have mastered the basic swing and 送り足「おくりあし」footwork, moving forward/backward and 掛け声「かあけごえ」(shout\) to 素振り「すぶり」.
+Once you have mastered the basic swing and 送り足「おくりあし」footwork, moving forward/backward and 掛け声「かあけごえ」\(shout\) to 素振り「すぶり」.
 
 * Step forward on the right foot and swing up 竹刀 for 振り被り「ふりかぶり」.
 * Immediately swing down 竹刀 and bring up the left foot behind the right - so it is in place at the same moment the swing finishes at knee level - with shout - normally counting, e.g. "いち"
@@ -53,7 +53,7 @@ Once you have mastered the basic swing and 送り足「おくりあし」footwor
 * Immediately swing down 竹刀 and bring back the right foot in front of the left - so it is in place at the same moment the swing finishes at knee level - with shout - normally counting, e.g. "に"
 * Repeat sequence 10, 30, 50, 100 times as required to learn it.
 
-## 斜め素振り「ななめすぶり」 \(Naname-buri\)
+## 斜め素振り「ななめすぶり」
 
 斜め素振り「ななめすぶり」 is a progression from 上下素振り「じょうげすぶり」 where the swings are diagonal. Where as 上下素振り「じょうげすぶり」 leads to 面 and 小手 striking, 斜め素振り「ななめすぶり」 is the basis of 左右面「さゆうめん」and 胴「どう」; Most of the exercise should be performed as 上下素振り, with some changes:
 
@@ -74,7 +74,7 @@ Once you have mastered the basic swing and 送り足「おくりあし」footwor
 
 ## 区間打突「くかんだとつ」
 
-This is 素振り「すぶり」 practice where we imagines cutting a similar sized opponent's target zones of 正面, 右, and 左面, 小手, 右 and 左 do and thrust to tsuki.
+This is 素振り「すぶり」 practice where we imagines cutting a similar sized opponent's target zones of 正面, 右, and 左面, 小手, 右 and 左 do and thrust to 付き「つき」.
 
 I will focus on 正面「しょうめん」 \(straight frontal head cut\) 素振り「すぶり」 - as this fundamental strike must be mastered before you can properly learn any other cuts.
 
@@ -87,7 +87,7 @@ I will focus on 正面「しょうめん」 \(straight frontal head cut\) 素振
 * Raise the arms up until the left fist is above the forehead \(at about one fists distance\), 竹刀 is at about a 45 degree angle at least pointing up and back, keeping your head still. **NB**: The shoulders should be the center of rotation for the swing - avoid bending wrists and elbows inwards, feeling of throwing hands and elbow forward and up.
 * Instruction: "Raise both elbows as far as they will go" may best describe action.
 
-_Below are some commonly taught 振り被り「ふりかぶり」. Most text books state: "swing up until left fist is above forehead, the 竹刀 at 45-degrees up and back." This would appear to be Fig. 1. Also very common is that seen in figure 3, but I feel this i s more the result of bending elbows or Jodan kamae - as it is clear that right fist above forehead here. I have also been taught to swing back until shoulder resist movement, and can act like a spring. Further to this, to "swing back as if thrusting into a wall behind you." This would appear to be as seen in Fig. 2._
+_Below are some commonly taught 振り被り「ふりかぶり」. Most text books state: "swing up until left fist is above forehead, the 竹刀 at 45-degrees up and back." This would appear to be Fig. 1. Also very common is that seen in figure 3, but I feel this i s more the result of bending elbows or 上段構え - as it is clear that right fist above forehead here. I have also been taught to swing back until shoulder resist movement, and can act like a spring. Further to this, to "swing back as if thrusting into a wall behind you." This would appear to be as seen in Fig. 2._
 
 _From practice, Fig. 2 swing is an extension of Fig 1 that is the arms continue their swing up to their natural limit. As we cannot see behind use when swinging up, this is the point reached in most cases. So maybe the saying "perform a large upward swing with the feeling of 竹刀 being at 45 degrees behind, and left fist above your forehead, use the natural limit of swing to send arms forward to strike." Later, I will include some scientific proof that this method \(Fig. 2\) is the fastest and most efficient action - see Appendix C._
 
@@ -97,7 +97,7 @@ _From practice, Fig. 2 swing is an extension of Fig 1 that is the arms continue 
 
 Other terms: 切りつけ「きりつけ」is a cut, and 切り下ろし「きりおろし」is a downwards cut.
 
-* Swing the 竹刀 down froom an upward position and strike.
+* Swing the 竹刀 down from an upward position and strike.
 * Have the feeling of pulling left fist down and forward. Remember arms must rotate around the shoulders. Keep right arm relaxed.
 * Naturally allow elbows and wrist to stretch forwards.
 * Squeeze both hands slightly in, straightening arms - 絞り「しぼり」
@@ -115,11 +115,11 @@ When performing 切りつけ（切り下ろし）you must also include:
 
 I am sure everyone has heard or been told this. So what does it mean? we hold the sword with two hands, not one, so what is the thought here? After listening to the 先生 I have trained with, I think the following sums up the idea:
 
-The right arm is the forward one and normally the strongest, so there is a tendency to make it do the work. If the right arm is used for pulling up the 竹刀 and cutting, then the action will be incorrect, and will affect your posture. The left hand must pull down and back as the right arms extends forwards to acchieve the correct cutting action. By having the **feeling** of the left arm doing 70% of the work, and the right side 30%, they should work in balance.
+The right arm is the forward one and normally the strongest, so there is a tendency to make it do the work. If the right arm is used for pulling up the 竹刀 and cutting, then the action will be incorrect, and will affect your posture. The left hand must pull down and back as the right arms extends forwards to achieve the correct cutting action. By having the **feeling** of the left arm doing 70% of the work, and the right side 30%, they should work in balance.
 
 ### **Points to watch and avoid**:
 
-* Pause between 振り被り「ふきかぶり」 and 切りつけ (NB: Unless practice like 三級度素振り「さんきゅうどすぶり」)
+* Pause between 振り被り「ふきかぶり」 and 切りつけ \(NB: Unless practice like 三級度素振り「さんきゅうどすぶり」\)
 * Hips are not square to front.
 * Head ducks / nods down - keep correct posture.
 * Left elbow bent and/or striking out after cutting.
@@ -135,22 +135,22 @@ The right arm is the forward one and normally the strongest, so there is a tende
 
 The shout is often called 気合い「きあい」, as the shout shows that one's spirit is fully focused on attacking.
 
-Before attacking from toma \(long distance\), use shouts of "Yah" or "Ei" are often used to increases one's own spirit and to unsettle the opponent.
+Before attacking from 藤間「とうま」\(long distance\), use shouts of "Yah" or "Ei" are often used to increases one's own spirit and to unsettle the opponent.
 
 When attacking we shout the name of the target, "MEN!", showing that you meant to hit where you did, but that you are throwing all of your 気 into the strike. Continue this 気合い「きあい」 until 残心「ざんしん」 is complete. During 素振り「すぶり」 make 気合い「きあい」short and sharp. If counting, shout the numbers.
 
 The shout must be loud and strong - not from your mouth/vocal cords, but from yours abdomen/belly. Close your mouth after you shout.
 
-### **1. Stationary 正面打ち** 
+### **1. Stationary 正面打ち**
 
 * 振り被り「ふりかぶり」: large swing up until left fist is above forehead.
-* 切りつけ：正面打ち: left fist is front of chest; right arm extended and almost parallel to floor, both hands \(手の内) snap and squeeze slightly inward in \(茶巾絞り「ちゃきんしぼり」), express sharp loud 気合い「きあい」- "MEN!"
+* 切りつけ：正面打ち: left fist is front of chest; right arm extended and almost parallel to floor, both hands \(手の内\) snap and squeeze slightly inward in \(茶巾絞り「ちゃきんしぼり」\), express sharp loud 気合い「きあい」- "MEN!"
 * After this, add 送り足「おくりあし」
 
 ### **2. 送り足ー正面打ち**
 
 * One step forward from right with 摺足「すりあし」as 竹刀 swing up 振り被り「ふりかぶり」 above head as in above practice - "Ichi"
-* 切りつけ：面打ち as you bright left foot up to proper position behind the right \(引き付「ひきつき」)
+* 切りつけ：面打ち as you bright left foot up to proper position behind the right \(引き付「ひきつき」\)
 * At the moment of striking, express 気合い「きあい」 - "MEN!" or "NI!"
 * Retreat from the left foot in one 送り足「おくりあし」 step to original position; assume 中段の構え - "San!"
 
@@ -181,7 +181,7 @@ Later, do both actions in one continuous motion \(一級度\) - no pause between
 
 The above basics can be expanded to include other 素振り「すぶり」, such as:
 
-* 蹲踞素振り「そんきょすぶり」 - cut when rising, 振り被り「ふりかぶり」 as sinking back to sonkyo.
+* 蹲踞素振り「そんきょすぶり」 - cut when rising, 振り被り「ふりかぶり」 as sinking back to 蹲踞「そんきょ」.
 * 股割り素振り「またわりすぶり」- feet in wide stance, and cutting as you squat/sink down.
 * 左右面素振り「さゆうめんすぶり」cutting to the left and right men.
 * 小手面素振り「こてめんすぶり」- practice 連続小手「ぜんぞくこて」and men forwards then back.

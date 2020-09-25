@@ -1,6 +1,6 @@
 # 構え、構え方、納め方
 
-## 構え「かまえ」
+## In 中段の構え, the 竹刀 held in the center-plane of the body with the tip projecting forward to the opponent. Below, details the correct positioning of the hands and 竹刀 in relation to the body and the opponent.構え「かまえ」
 
 構え「かまえ」is the guard, or ready posture employed for attack and defense. However, more than just a physical pose, 構え is also the on-guard posturing of the mind and spirit. These aspects of 構え「かまえ」, the body and mindset, must always be practiced together. Equally important to keep in mind is that 構え begins and ends with proper etiquette. These points are never to be overlooked.
 
@@ -49,14 +49,14 @@ To grip the 竹刀:
 3. The hilt of the 竹刀 should be held at the very end. The overlapping of the small finger halfway over the end of the 竹刀 is an acceptable practice. However, never is the 竹刀 to be held with the hilt protruding from the heel of the left hand. \[**NB**: Holding a 木刀, the left hand should just reveal the 柄頭「つかがしら」\]
 4. The right hand should not grasp the 竹刀 directly below the 鍔「つば」.
 
-In 中段の構え, the 竹刀 held in the centre-plane of the body with the tip projecting forward to the opponent. Below, details the correct positioning of the hands and 竹刀 in relation to the body and the opponent.
+
 
 1. The left hand is extended approximately the with of one fist \(10cm\) forward of the abdomen.
 2. The first joint of the thumb \(at the base of the thumb\) is in a direct line in front of the navel.
 3. The 竹刀 is angled forward, 弦「つる」 \(cord\) upwards, projecting the line of the 竹刀 to the opponent's throat, face or left eye.
 4. The elbows should not stick out, but be relaxed, with a slight between them and the body - they would just touch your **do** lightly. Have the feeling of holding an egg in each armpit.
 
-**NB**: The height of the 剣先 can vary in certain instances, but should not be higher than your opponent's throat or lower than his Kote. It must also remain close to the centre, always pointing within opponent's body/throat area. To quote the **All Japan Kendo Federation Dictionary**: "... the extension of the 剣先 \(tip of the 竹刀\) points between the opponent's eyes". However they also add within there "基本方" text "From 一足一刀の間合い「いっそくいっとうのまあい」\(one-step one-strike interval\) the line of the 剣先 should extend to a point on the face between the eyes or towards the left-eye." However in the Fundamental Kendo manual, and Nippon Kendo Kata text they state that the 竹刀 or 木刀 "... is held so that the tip \(鋒「きっさき」\) points toward the opponent's throat."
+**NB**: The height of the 剣先 can vary in certain instances, but should not be higher than your opponent's throat or lower than his Kote. It must also remain close to the center, always pointing within opponent's body/throat area. To quote the **All Japan Kendo Federation Dictionary**: "... the extension of the 剣先 \(tip of the 竹刀\) points between the opponent's eyes". However they also add within there "基本方" text "From 一足一刀の間合い「いっそくいっとうのまあい」\(one-step one-strike interval\) the line of the 剣先 should extend to a point on the face between the eyes or towards the left-eye." However in the Fundamental Kendo manual, and Nippon Kendo Kata text they state that the 竹刀 or 木刀 "... is held so that the tip \(鋒「きっさき」\) points toward the opponent's throat."
 
 ![Hand Grip](https://b9aqxa.dm.files.1drv.com/y4m5-5LJo_HpySjzoqc8sEAKymYdbFvrYDQfZCNr2wC1CQMw0Omlv__HvVA1Qg2vMb9heEWWLoEFsw9TG23nwffiA103L2tuHYR6SDQHh0gPjzG_GtSvR2ukDHYpDLo5DHnIyTdi-tkB-HRb7zz5Hx_xsfmBQA0b_Z-ifnbx6VYRkSqLRlWmfdTNap0DlCc3xu7moJ7DfCbHp9UVcNQoXORGQ?width=696&height=308&cropmode=none)
 
@@ -83,8 +83,8 @@ By taking a natural step forward and halting mid-step \(so right heel in line wi
 
 **Conditions to avoid**:
 
-* The toes should not point outward. Such a stance may seem stable; however, it is unstable when moving backward and **fumikiri** \(push off the rear leg\) is slow and weak. Toes should point forwards towards your opponent.
-* Avoid a stance where the feet are in a line. this is an unstanble stance and movement in any direction is difficult.
+* The toes should not point outward. Such a stance may seem stable; however, it is unstable when moving backward and 踏切「ふみきり」 \(push off the rear leg\) is slow and weak. Toes should point forwards towards your opponent.
+* Avoid a stance where the feet are in a line. this is an unstable stance and movement in any direction is difficult.
 * Do not position the feet closer together than prescribed. This foot position may have some benefit in forward and backward movements, but is unstable. It is also weak when receiving an opponent's 体当たり \( body check\)
 * When the feet are extended too far apart in their forward-back relation, movement in all directions becomes awkward. Additionally, such a stance lowers the body height and allows an opponent to dominate in stature.
 
@@ -111,7 +111,7 @@ These ideas are all very deep, and require study. To begin with:
 
 * Stand in 自然体「しぜんたい」 with the 竹刀 held in 提げ刀「さげとう」.
 
-提げ刀: the holding of the 竹刀 in a relaxed attitude while standing in shizen-tai. The sinai is held naturally at the side with the hilt angled slightly inward. Viewed from the side, the 竹刀 should be held at a 45-degree angle. The tsuru of the 竹刀 is positioned on the downward side.
+提げ刀: the holding of the 竹刀 in a relaxed attitude while standing in 自然体「しぜんたい」. The 竹刀 is held naturally at the side with the hilt angled slightly inward. Viewed from the side, the 竹刀 should be held at a 45-degree angle. The tsuru of the 竹刀 is positioned on the downward side.
 
 * Execute 目礼「もくれい」. Keep the grasp of the 竹刀 relaxed and do not change the position or angle of the 竹刀 as the bow is performed. Ask your partner to please train お願いします.
 * Raise the 竹刀 to the 体刀「たいとう」 position.

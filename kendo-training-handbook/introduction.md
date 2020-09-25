@@ -2,7 +2,7 @@
 description: By Matt Jackson
 ---
 
-# Kendo Training Handbook
+# 剣道トレーニングハンドブック
 
 剣道 is a traditional Japanese martial art, as well as athletic sport. How do you think of and practice it will change and develop over the time to practice the art. This guide is a summary of my understandings, and so, as a disclaimer, I cannot guarantee that these are thoughts of everyone, including myself in future times.ï
 

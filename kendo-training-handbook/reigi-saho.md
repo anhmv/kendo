@@ -1,4 +1,4 @@
-# 礼儀作法「れいぎさほう」
+# 礼儀作法
 
 The Etiquette, Manners, and Attitudes below should be shown during 剣道「けんどう」 training. Remember, in 剣道 the 道「どう」 refers to the way or path to enlightenment and as such, the attitudes should also be taken with you into everyday life. No matter what your experience or ability in kendo you can always show good 礼儀「れいぎ」.
 

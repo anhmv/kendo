@@ -1,4 +1,4 @@
-# 足捌き「あしさばき」
+# 足捌き
 
 足捌き「あしさばき」is the collective term for all 剣道 footwork techniques. 足捌き is the single most important physical aspect of 剣道; it is the foundation of all 剣道 skills. Without good footwork \(without a strong foundation\), it is difficult, if not impossible to build the structures of 剣道 technique. There are four primary footwork techniques: 送り足「おくりあし」, 開き足「ひらきあし」,歩み足「あゆみあし」, and 次足「つぎあし」. \(The first 3 are used most frequently.\)
 
@@ -30,19 +30,19 @@ Of the four footwork techniques, 送り足「おくりあし」 is the principal
 
 * All 足捌き「あしさばき」 should be learnt and practiced with 摺足「すりあし」- sliding step.
 * Slide \(actually glide\) your feet across the floor without pointing toes up.
-* Keeping the heel stlightly raised, and sliding the ball of feet and toes helps slide feet smoothly.
+* Keeping the heel slightly raised, and sliding the ball of feet and toes helps slide feet smoothly.
 * Do not drag feet; try to make 足捌き「あしさばき」 smooth and graceful.
 * This footwork is ideal for wooden smooth surfaces, but will be difficult on treated anti-slip surfaces.
 * If your toes rise, it may be due to the step being to large - try smaller steps.
 
-## 踏切「ふみきり」と 踏み込み足「ふみこみあし」(Lung forward with stamping footwork\)
+## 踏切「ふみきり」と 踏み込み足「ふみこみあし」\(Lung forward with stamping footwork\)
 
 To execute this footwork correctly is difficult to do, and can take several years to do properly. I have broken the sequence of movements down, and later will describe some practice ideas.
 
-* 踏切「ふみきり」: a forceful kick /push off the floor with the leg to begin a "jum" forward.
+* 踏切「ふみきり」: a forceful kick /push off the floor with the leg to begin a "jump" forward.
 * 踏み切り足「ふみきりあし」: the leg/foot which provides force and stability by pushing off the floor, in a forward strike the left leg, in retreat the right leg.
 * 踏み切り動作「ふみきりどうさ」: the motion of pushing off the floor with 踏み切り足「ふみきりあし」.
-* 踏み込み「ふみこみ」: a firm stamping step with the forward to stabilise the body.
+* 踏み込み「ふみこみ」: a firm stamping step with the forward to stabilize the body.
 * 踏み込み足「ふみこみあし」: the foot which stamps on the floor with the entire sole.
 * 踏み込み動作「ふみこみどうさ」: the series of motions from stamping, recovery to a stable position by bringing the left foot in after a rapid lunge and accomplished by the continuous body movement forward with 送り足「おくりあし」.
 
