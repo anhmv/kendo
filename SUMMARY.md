@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Kendo Practice Resources](README.md)
+* [Kendo for English Speakers](kendo-for-english-speakers.md)
 
 ## Kendo Training Handbook
 
