@@ -9,5 +9,5 @@
 * [構え、構え方、納め方](kendo-training-handbook/kamae-kamae-kata-and-osame-kata.md)
 * [足捌き](kendo-training-handbook/ashi-sabaki.md)
 * [素振り](kendo-training-handbook/suburi.md)
-* [Ma-ai, Kihon-no-uchi-kata, Tsuki-kata, Uke-kata, Tsuba-zerai and Zanshin](kendo-training-handbook/ma-ai-kihon-no-uchi-kata-tsuki-kata-uke-kata-tsuba-zerai-and-zanshin.md)
+* [間合い、基本の打ち方、付き方、受け方、鍔迫り合い、残心](kendo-training-handbook/ma-ai-kihon-no-uchi-kata-tsuki-kata-uke-kata-tsuba-zerai-and-zanshin.md)
 
