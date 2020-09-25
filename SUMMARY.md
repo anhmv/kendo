@@ -20,4 +20,9 @@
   * [Mục đích của Kendo](uncategorized/kendo-cho-nguoi-moi-bat-dau/muc-dich-cua-kendo.md)
   * [Lễ nghi trong Kendo](uncategorized/kendo-cho-nguoi-moi-bat-dau/le-nghi-trong-kendo.md)
   * [Võ phục và Trang bị](uncategorized/kendo-cho-nguoi-moi-bat-dau/vo-phuc-va-trang-bi.md)
+  * [Cách mặc Hakama](uncategorized/kendo-cho-nguoi-moi-bat-dau/cach-mac-hakama.md)
+  * [Seiza](uncategorized/kendo-cho-nguoi-moi-bat-dau/seiza.md)
+  * [Zarei](uncategorized/kendo-cho-nguoi-moi-bat-dau/zarei.md)
+  * [Moku-so](uncategorized/kendo-cho-nguoi-moi-bat-dau/moku-so.md)
+  * [Shisei - Tư thế](uncategorized/kendo-cho-nguoi-moi-bat-dau/shisei-tu-the.md)
 
