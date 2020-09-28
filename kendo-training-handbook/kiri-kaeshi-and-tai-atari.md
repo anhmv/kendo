@@ -29,7 +29,7 @@ If 切り返し is not done properly it will not have the desired results. It is
 * Move forward quickly and 体当たり with good posture. \(Breath allowed\)
 * Immediately 振り被り「ふりかぶり」straight up while stepping forward on right foot, and strike continuous 左面 and 右面 - first and last are 左面 \(your right side\).
 * Move forward in 送り足「おくりあし」four steps and retreat above five steps \(see below\)
-* Cutting the 面 \(not the 竹刀) from correct 打ち間合い, give loud 気合い \(面, 面, 面, etc\), follow 元立ち movements.
+* Cutting the 面 \(not the 竹刀\) from correct 打ち間合い, give loud 気合い \(面, 面, 面, etc\), follow 元立ち movements.
 * After last 左 strike, return to to-ma in 中段, then repeat above 切り返し actions.
 * After last 左 strike, return to to-ma in 中段 and
 * From To-ma give loud 気合い, 攻め「せめ」 to body and perform a large 正面 strike
