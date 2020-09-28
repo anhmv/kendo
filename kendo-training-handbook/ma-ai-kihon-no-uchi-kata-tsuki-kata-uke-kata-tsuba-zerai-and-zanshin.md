@@ -45,7 +45,7 @@ First one must master 礼儀 - 構え- 足捌き and 素振り. Then you must le
 * Do not think of striking with the right hand, strike with the left. Do not think of striking with the left hand, but strike with the hips, legs, and feet - use all your body.
 * Do not put strength into lifting the 竹刀, relax arms, and strike quickly.
 
-### Steps to 基本業
+## 基本業
 
 1. Focus on large proper 振り被り「ふりかぶり」, 気合い, and _\*\*_手の内 from a stationary position where 打突部位「だとつぶい」 \(striking zones\) can be reached without moving.
 2. From 一束一刀の間合い「いっそくいっとうのまあい」, step one step in using 摺足「すりあし」 to strike to add 足捌き「あしさばき」 and 気剣体一致「きてんたいいっち」 practice.
@@ -96,4 +96,64 @@ _**NB**: Several different ways of 元立ち「もとだち」 offering target c
 1. _Open immediately after かかりて makes pressure \(攻め\)_
 2. _Keep relaxed 構え, and かかりて will "drive" in 攻め to control center line and make opportunity to strike \(気攻め\)_
 3. _Wait 2-3 seconds before opening 構え - to teach sensing opportunity._
+
+### _Undesirable habits_
+
+#### 振りー被り「ふりかぶり」
+
+* 剣先 pulled back to soon losing control of the center.
+* Eyes looking at target rather the straight ahead into opponents.
+* Hands in front of face at 振り被り.
+* A stiff left elbow or bending the elbows in.
+* Shoulders rise or hunch.
+* Head "ducks" under arms, nodding action.
+* 竹刀 up angled to the right due to excess strength in the right arm or hand.
+* 剣先 drops in the back below hand level during 振り被り.
+
+#### 踏み込み「ふみこみ」、切りつけ、斬新「ざんしん」
+
+* A pause after 振り被り and before 切りつけ.
+* Insufficient 気合い.
+* Not moving straight forward.
+* Hips not square to opponent.
+* Right arm low.
+* Left elbow bent.
+* Left fist too high.
+* 竹刀 swings down in an angle due to excess strength in the right arm or hand.
+* Striking too hard or too softly or without snap.
+* Raising 竹刀 above your head after striking.
+* Dropping hands to make 唾競り合い「つばれりあい」to soon.
+* Turns away from opponent too soon or runs around them.
+* Turns too soon while passing opponent or runs too far from opponent.
+* Turns wrong direction \(away from them\)
+* Turns with hands and shinai still extended forward.
+
+After understanding the fundamentals of 面打ち「めんうち」, progression onto the other strikes and thrusts can be made using the same basic practice method.
+
+## 小手打ち
+
+* As in 面打ち, a straight large 振り被り and 足被り.
+* From 中段の構え the distance where one step required to reach the target is different to 面打ち as the 小手 is held forward of body. Adjust your 打ち間合い and the size of the step appropriately.
+* Looking at the opponent's eyes, strike the 小手 straight with both arms naturally extended. Say "小手！".
+* Keep 剣先　directed to the opponent and bring left foot up behind right immediately \(引きつけ\).
+* Use quick 送り足「おくりあし」to proceed straight forward and stop at 鍔迫り合い「つばぜりあい」.
+
+**NB**: In some exercises, \(such as using 打ち込み「うちこみ」\) run straight pass 元立ち「もとだち」for 残心, and turn to the right at correct 間合い. Most, not all, text books and 先生 teach to always to take 鍔迫り合い「つばぜりあい」after 小手打ち.
+
+_Normally the 元立ち should make a clear opening that is easy to strike. However in some exercise they may keep a passive 構え. In this case it is only possible to strike the 小手 cleanly by either displacing the 剣先 using a push-release technique or 払い業「はらいわざ」or to change ones body center. Adjusting the foot work allows clean striking of the 小手 as soon as 剣先 rises._
+
+* During forward step, position your RIGHT foot in front of opponent's right foot, with hips and body facing them directly.
+
+![](../.gitbook/assets/screen-shot-2020-09-28-at-10.07.16.png)
+
+### Undesirable habits
+
+* 竹刀 swings down in an angle.
+* Eyes look to 小手 before striking.
+* Left fist too high or to the side.
+* Hips bent or twisted.
+* Pulls 剣先 away from the opponent after striking.
+* Arms not exceed - pulling hands inward to correct incorrect distance.
+
+
 
