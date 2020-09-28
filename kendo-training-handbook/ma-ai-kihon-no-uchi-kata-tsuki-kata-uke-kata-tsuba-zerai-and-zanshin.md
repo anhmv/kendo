@@ -1,4 +1,4 @@
-# 間合い、基本の打ち方、付き方、受け方、鍔迫り合い、残心
+# 間合い、基本の打ち方、突き方、受け方、鍔迫り合い、残心
 
 ## 間合い「まあい」
 
@@ -13,7 +13,7 @@ It is easy to strike from 近間; beginners should focus on practicing 稽古「
 
 Closing from 遠間「とおま」 is when one must be fully prepared to attack or be attacked - there is no chance to relax.
 
-## 基本の打ち方 - The basic way of striking and 付き方 - Thrusting
+## 基本の打ち方 - The basic way of striking and 突き方 - Thrusting
 
 We can learn, practice and improve our cutting with 素振り, but we need an opponent to learn about distance and striking effectively.
 
@@ -182,7 +182,7 @@ Later,
 * Arms are crossed.
 * Hips twisted or leaning forward.
 
-## 付き打ち
+## 突き打ち
 
 * From 中段の構え at the required distance.
 * Step in one \(or two from 藤間「とうま」large step from the right without moving or dipping the 剣先）
@@ -196,7 +196,7 @@ Later,
 * 竹刀 is thrust in an angle because of uneven strengths in both arms or hands.
 * Hands too high.
 * Hips are twisted.
-* かかりて strikes the floor with 剣先 after 付き.
+* かかりて strikes the floor with 剣先 after 突き.
 
 ## 受け方「うけかた」\(Basic blocking techniques\)
 
@@ -251,7 +251,7 @@ For blocking attacks to the 左面 and 右面, please return to 切り返し「�
 
 **NB**: This movement is the principle beginnings of 撃ち落とし業「うちおとしわざ」
 
-### 付きの受け方１
+### 突きの受け方１
 
 * Push both fists forward, turning them \(think of using left fist\) slightly left.
 * Take a small step forward, or have feeling of going forwards.
@@ -261,7 +261,7 @@ For blocking attacks to the 左面 and 右面, please return to 切り返し「�
 **NB**: This movement is the principle of beginnings of 擦り上げ「すりあげ」
 
 {% hint style="info" %}
-The above is not the only ways - The idea of cutting down the attack \(as mention for 面 and 胴 can equally be used for 小手 and 付き, leading to 打ち落とし業「うちおとしわざ」
+The above is not the only ways - The idea of cutting down the attack \(as mention for 面 and 胴 can equally be used for 小手 and 突き, leading to 打ち落とし業「うちおとしわざ」
 
 Always have the feeling of going forward when blocking where I have mentioned moving backward, have the feeling of stepping back left foot to where it would be needed for your 打ち間合い, then block with a feeling of pushing forward. Your 構え must be stable and prepared to attack going forwards.
 {% endhint %}
@@ -294,7 +294,7 @@ During 基本 and 稽古「けいこ」, the 元立ち will normally move aside 
 
 You may force them out of your way, but if not, enter to 鍔迫り合い「つばぜりあい」or perform 体当たり「たいあたり」
 
-If you cannot move the proper distance away from your opponent, such as after 付き attack \( and during 方\), show 残心　by keeping 剣先 centered around the throat area to guard against attack. Only then move back to the correct 間合い.
+If you cannot move the proper distance away from your opponent, such as after 突き attack \( and during 方\), show 残心　by keeping 剣先 centered around the throat area to guard against attack. Only then move back to the correct 間合い.
 
 You must show and train this idea of 残心 during all practices. it is a vital part of yuko-datotu \(valid striking\). In shiai, even a perfect strike will be deemed invalid if you do not display 残心 afterwards.
 

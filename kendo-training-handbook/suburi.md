@@ -74,7 +74,7 @@ Once you have mastered the basic swing and 送り足「おくりあし」footwor
 
 ## 区間打突「くかんだとつ」
 
-This is 素振り「すぶり」 practice where we imagines cutting a similar sized opponent's target zones of 正面, 右, and 左面, 小手, 右 and 左 do and thrust to 付き「つき」.
+This is 素振り「すぶり」 practice where we imagines cutting a similar sized opponent's target zones of 正面, 右, and 左面, 小手, 右 and 左 do and thrust to 突き「つき」.
 
 I will focus on 正面「しょうめん」 \(straight frontal head cut\) 素振り「すぶり」 - as this fundamental strike must be mastered before you can properly learn any other cuts.
 
