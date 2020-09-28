@@ -270,7 +270,7 @@ Always have the feeling of going forward when blocking where I have mentioned mo
 
 Above, I mentioned moving into 鍔迫り合い. This is the situation in which the distance between opponents is at its closest. Both are holding 竹刀（木刀）titled slightly right with the 唾「つば」locked together, fighting to spoil opponent's posture and gain initiative to attack.
 
-
+![](../.gitbook/assets/screen-shot-2020-09-28-at-11.47.23.png)
 
 * After striking, move forward quickly with 送り足.
 * Do not pull hands down too quickly, but allow hands to come down naturally as you close in. Have the feeling of keeping 竹刀 contact with 面, forcing hands to lower as you close the distance.
@@ -306,18 +306,5 @@ Some ideas of improving 残心, and instil the actions required are:
 * Try 面ー残心ー面, where, after striking and making distance, かかりて turns and cuts 面 immediately \(元立ち must be in correct place\).
 * During 打ち込み「うちこみ」、掛かり「かかり」、次稽古「じげいこ」- follow up after attacks, and try to strike opponent as they turn - this is one of the key opportunities to attack.
 
-
-
-
-
-
-
-
-
-
-
-
-
-* 
 
 
