@@ -39,7 +39,7 @@ If 切り返し is not done properly it will not have the desired results. It is
 
 * After 攻め「せめ」, open quickly to allow unobstructed 正面 to be received.
 * Receive 体当たり
-* Move backward from the left foot and receive alternate 左面 and 右面 strikes, controlling the ma-ai using 歩み足「あゆみあし」 footwork. \(Normally 4 back and 5 forward.\)
+* Move backward from the left foot and receive alternate 左面 and 右面 strikes, controlling the 間合い using 歩み足「あゆみあし」 footwork. \(Normally 4 back and 5 forward.\)
 * Repeat above sequence.
 * Then on receiving final 正面, move to your right and let 掛かり手「かかりて」 move passed. Turn and check 残心. The pairs then usually reverse the roles and repeat exercise.\)
 
@@ -72,11 +72,11 @@ A good 元立ち is required for correct 切り返し. Always watch 掛かり手
 
 * Improves posture
 * Improves footwork and balance
-* Gain awareness of maai
+* Gain awareness of 間合い
 * Develops 手の内
 * Gain awareness of judging opponents skill.
 
-Always practice 切り返し. Practice it at the start of Keiko to warm up and prepare oneself for practice, and at the end to correct one's posture. use it to condition one's body.
+Always practice 切り返し. Practice it at the start of 稽古「けいこ」 to warm up and prepare oneself for practice, and at the end to correct one's posture. use it to condition one's body.
 
 ### Variations on 切り返し practice.
 

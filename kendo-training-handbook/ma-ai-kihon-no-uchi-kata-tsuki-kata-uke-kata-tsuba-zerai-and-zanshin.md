@@ -164,7 +164,7 @@ _Normally the 元立ち should make a clear opening that is easy to strike. Howe
 * Bring left foot up behind right immediately \(引きつけ）
 * Use quick successive 送り足「おくりあし」to proceed straight forward 3 to 4 fast steps for 残心.
 
-**NB**:　Begin by cutting straight ahead, and passing opponent on your right side. 元立ち can turn to their right to offer large 胴 area, and allow かかりて to pass. 残心 after passing turn right.
+**NB**: Begin by cutting straight ahead, and passing opponent on your right side. 元立ち can turn to their right to offer large 胴 area, and allow かかりて to pass. 残心 after passing turn right.
 
 Later,
 
@@ -294,7 +294,7 @@ During 基本 and 稽古「けいこ」, the 元立ち will normally move aside 
 
 You may force them out of your way, but if not, enter to 鍔迫り合い「つばぜりあい」or perform 体当たり「たいあたり」
 
-If you cannot move the proper distance away from your opponent, such as after 突き attack \( and during 方\), show 残心　by keeping 剣先 centered around the throat area to guard against attack. Only then move back to the correct 間合い.
+If you cannot move the proper distance away from your opponent, such as after 突き attack \( and during 方\), show 残心 by keeping 剣先 centered around the throat area to guard against attack. Only then move back to the correct 間合い.
 
 You must show and train this idea of 残心 during all practices. it is a vital part of yuko-datotu \(valid striking\). In shiai, even a perfect strike will be deemed invalid if you do not display 残心 afterwards.
 
@@ -305,6 +305,4 @@ Some ideas of improving 残心, and instil the actions required are:
 * 元立ち to turn and following かかりて as they past. Check that they look, turn correctly, and 構え is in balance to response and attack.
 * Try 面ー残心ー面, where, after striking and making distance, かかりて turns and cuts 面 immediately \(元立ち must be in correct place\).
 * During 打ち込み「うちこみ」、掛かり「かかり」、次稽古「じげいこ」- follow up after attacks, and try to strike opponent as they turn - this is one of the key opportunities to attack.
-
-
 

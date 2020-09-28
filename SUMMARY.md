@@ -29,5 +29,5 @@
 * [素振り](kendo-training-handbook/suburi.md)
 * [間合い、基本の打ち方、突き方、受け方、鍔迫り合い、残心](kendo-training-handbook/ma-ai-kihon-no-uchi-kata-tsuki-kata-uke-kata-tsuba-zerai-and-zanshin.md)
 * [切り返しと体当たり](kendo-training-handbook/kiri-kaeshi-and-tai-atari.md)
-* [Seme, Sen and Kikai](kendo-training-handbook/seme-sen-and-kikai.md)
+* [攻め、戦と機会](kendo-training-handbook/seme-sen-and-kikai.md)
 
