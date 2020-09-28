@@ -263,7 +263,7 @@ For blocking attacks to the 左面 and 右面, please return to 切り返し「�
 {% hint style="info" %}
 The above is not the only ways - The idea of cutting down the attack \(as mention for 面 and 胴 can equally be used for 小手 and 付き, leading to 打ち落とし業「うちおとしわざ」
 
-Always have the feeling of going forward when blocking where I have mentioned moving backwawrd, have the feeling of stepping back left foot to where it would be needed for your 打ち間合い, then block with a feeling of pushing forward. Your 構え must be stable and prepared to attack going forwards.
+Always have the feeling of going forward when blocking where I have mentioned moving backward, have the feeling of stepping back left foot to where it would be needed for your 打ち間合い, then block with a feeling of pushing forward. Your 構え must be stable and prepared to attack going forwards.
 {% endhint %}
 
 ### 鍔迫り合い「つばぜりあい」

@@ -29,3 +29,7 @@
 * [素振り](kendo-training-handbook/suburi.md)
 * [間合い、基本の打ち方、付き方、受け方、鍔迫り合い、残心](kendo-training-handbook/ma-ai-kihon-no-uchi-kata-tsuki-kata-uke-kata-tsuba-zerai-and-zanshin.md)
 
+---
+
+* [Seme, Sen and Kikai](seme-sen-and-kikai.md)
+
