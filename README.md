@@ -6,3 +6,7 @@ description: By Mac Van Anh
 
 Welcome to my collection of 剣道「Kendo」 resources. I have been creating this collection to use for my training purpose only.
 
+<ruby>
+    茶 <rp>(</rp><rt>ちゃ</rt><rp>)</rp>
+</ruby>
+
