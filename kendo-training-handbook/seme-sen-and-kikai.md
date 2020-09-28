@@ -1,7 +1,5 @@
 # Seme, Sen and Kikai
 
-## Seme, Sen and Kikai
-
 It is the achieving of the perfect strike which is the goal of Kendo. All the previous practices teach our bodies how to move correctly. When we face our opponent in perfect Kamae, we will be in a deadlock. Breaking this deadlock, by pressing and probing for weakness, is known as Seme-ai. While taking the initiative to attack \(sen\), we must also be able to detect or make an opportunity to strike \(kikai\) before we select a technique to make the valid strike. It is said that without the struggle to break the deadlock by taking the initiate, it is not Kendo, but mere "slapping for points".
 
 ## Seme
