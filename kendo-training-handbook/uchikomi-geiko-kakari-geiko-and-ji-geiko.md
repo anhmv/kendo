@@ -1,4 +1,4 @@
-# 打ち込み稽古, 掛かり稽古と 次稽古
+# 打ち込み稽古、掛かり稽古、次稽古
 
 ## 打ち込み八徳「うちこみはっとく」
 
@@ -7,7 +7,7 @@
 3. Strong limbs, more agility
 4. Faster 業
 5. Extend breathing
-6. Observe, see striking distance or opportunity \(打ち間)
+6. Observe, see striking distance or opportunity \(打ち間\)
 7. Powerful strikes, sharper grip \(手の内\)
 8. Remove doubt or fear, unite thoughts, spirit and strength \新規両区の一致「しんきりょうくのいっち」
 
@@ -27,7 +27,7 @@
 
   **NB**: Undesirable habits: inadequate 踏み込み「ふみこみ」 gait, right foot raised too high, left foot does not follow quickly or kicks up, pause between 振り被り「ふりかぶり」 and 打突, improper 送り足, hips bent and body unstable.
 
-* 打突: same as in 基本: equal strength in both hands, release strength from hands immediately after strike, relax shoulders \(especially for 振り被り「ふりかぶり」\) and contain power in the lower abdomen \(成果丹田「せいかたんでん」)
+* 打突: same as in 基本: equal strength in both hands, release strength from hands immediately after strike, relax shoulders \(especially for 振り被り「ふりかぶり」\) and contain power in the lower abdomen \(成果丹田「せいかたんでん」\)
 * Follow through with 送り足 until distance is again at 一底一途の間合い「いっそくいっとのまあい」 or 刀間合い, then come to 中段 and show 残心.
 
   **NB**: Undesirable habits: excess upper body strength after striking, follow through diagonally, breaking 鎌え after each strike, \(i.e. pulling hands down or pushing back over head\), insufficient or excessive follow through without 残心.

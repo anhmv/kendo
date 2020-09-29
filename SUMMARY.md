@@ -31,5 +31,5 @@
 * [切り返しと体当たり](kendo-training-handbook/kiri-kaeshi-and-tai-atari.md)
 * [攻め、戦と機会](kendo-training-handbook/seme-sen-and-kikai.md)
 * [Shikake-waza and Oji-waza](kendo-training-handbook/shikake-waza-and-oji-waza.md)
-* [Uchikomi geiko, Kakari-geiko and Ji-geiko](kendo-training-handbook/uchikomi-geiko-kakari-geiko-and-ji-geiko.md)
+* [打ち込み稽古、掛かり稽古、次稽古](kendo-training-handbook/uchikomi-geiko-kakari-geiko-and-ji-geiko.md)
 
