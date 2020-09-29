@@ -1,7 +1,5 @@
 # Shikake-waza and Oji-waza
 
-## Shikake-waza and Oji-waza
-
 Kendo techniques \(waza\) are usually group into two categories:
 
 1. Shikake-waza: techniques for initiating an attack. These positive attacking techniques are used to challenge and forestall the opponent, gaining the center, and thus an opportunity.
