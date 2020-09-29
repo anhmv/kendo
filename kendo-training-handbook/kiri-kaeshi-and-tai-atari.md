@@ -25,14 +25,14 @@ If 切り返し is not done properly it will not have the desired results. It is
 
 #### 掛かり手「かかりて」
 
-* From to-ma give loud 気合い, 攻め「せめ」 to body and perform a large 正面 strike.
+* From 刀間合い give loud 気合い, 攻め「せめ」 to body and perform a large 正面 strike.
 * Move forward quickly and 体当たり with good posture. \(Breath allowed\)
 * Immediately 振り被り「ふりかぶり」straight up while stepping forward on right foot, and strike continuous 左面 and 右面 - first and last are 左面 \(your right side\).
 * Move forward in 送り足「おくりあし」four steps and retreat above five steps \(see below\)
 * Cutting the 面 \(not the 竹刀\) from correct 打ち間合い, give loud 気合い \(面, 面, 面, etc\), follow 元立ち movements.
-* After last 左 strike, return to to-ma in 中段, then repeat above 切り返し actions.
-* After last 左 strike, return to to-ma in 中段 and
-* From To-ma give loud 気合い, 攻め「せめ」 to body and perform a large 正面 strike
+* After last 左 strike, return to 刀間合い in 中段, then repeat above 切り返し actions.
+* After last 左 strike, return to 刀間合い in 中段 and
+* From 刀間合い give loud 気合い, 攻め「せめ」 to body and perform a large 正面 strike
 * Follow through with the final 正面 3-4 steps and show 残心
 
 #### 元立ち
@@ -85,7 +85,7 @@ Always practice 切り返し. Practice it at the start of 稽古「けいこ」 
 * Practice cutting 左右面 the length or width of the Dojo, Boosting stamina and number of strikes.
 * Strike 左胴 and 右胴 forwards and backwards.
 * Alternate 左右面 and 胴 strikes.
-* 打ち込み「うちこみ」切り返し - perform striking techniques such as 面, 小手-面 etc 3 or 5 times, after which the set of 9 - 左右面 cuts, followed by another set of 打ち込み, and another set of 9 左右面 cuts before finishing on 面 or another 3-5 cuts.
+* 打ち込み「うちこみ」切り返し - perform striking techniques such as 面, 小手面 etc 3 or 5 times, after which the set of 9 - 左右面 cuts, followed by another set of 打ち込み, and another set of 9 左右面 cuts before finishing on 面 or another 3-5 cuts.
 
 The standard format for BKA Grading requires 掛かり手「かかりて」 to execute 体当たり. However, not all senior Sensei say it is necessary. At the start of training, it may be easier for 元立ち just to move backward, as this will not disturb the posture or balance of 掛かり手「かかりて」, and will avoid them pulling hands down after cutting.
 

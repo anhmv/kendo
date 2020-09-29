@@ -18,19 +18,19 @@ There is a say in Kendo "Win then strike; do not strike to win" - it is 攻め w
 2. 剣を殺す「けんをころす」- Killing the sword - spoil the opponents 構え. Control the opponent's 剣先 by restraining or deflecting it. If you direct your 剣先 to the center of your opponent's body, you will exert control over their actions.
 3. 業を殺す「わざをころす」- Killing the technique. - By anticipating opponents attack, you can disrupt it and make it ineffective. As they attack, sweep it aside and counter attack, or be in a position where they are unable to strike.
 
-## 戦 - the initiative
+## 先 - the initiative
 
-Sen can be defined as initiative, advantage, and ambition. When facing an opponent in Kendo, we must constantly strive to seize the initiative. When one has sen \(the initiative\) one defeats the opponent. There are said to be three sen within sen. In relation to the opponent these are before, during, and after sen.
+Sen can be defined as initiative, advantage, and ambition. When facing an opponent in Kendo, we must constantly strive to seize the initiative. When one has 先「せん」 \(the initiative\) one defeats the opponent. There are said to be three sen within sen. In relation to the opponent these are before, during, and after sen.
 
-There a different names and descriptions given to them, such as sen-sen-no-sen, sen-no-sen, go-no-sen or as Musashi used in his book 五輪の賞「ごりんのしょう」, 剣の戦「けんのせん」, 大体の戦「たいたいのせん」. I have used the terms listed by the All Japan Kendo Federation.
+There a different names and descriptions given to them, such as 先々の先、先の先、後の先 or as Musashi used in his book 五輪の賞「ごりんのしょう」, 剣の戦「けんのせん」, 大体の戦「たいたいのせん」. I have used the terms listed by the All Japan Kendo Federation.
 
-### 密の戦「みつのせん」
+### 密の先「みつのせん」
 
 In kendo it is of paramount importance to suppress the opponent's movement at the moment it begins. It may be said that the competition to take sen decides the match. There are said to be three sen:
 
-1. Sen-sen-no-sen - \(The before sen\) when facing an opponent, having keen insight to quickly recognize their start, attack immediately, forestalling opponents move. This act of attacking faster than opponent's sen is the most important in kendo. This is the initiative of the pre-emptive strike 出ばな業.
-2. Sen-no-sen \(sen-zen-no-sen\) - When the opponent starts an attack, win by striking him before their attack is complete.
-3. Go-no-sen \(the after\) - When the opponent see 隙「すき」 \(weakness\) and initiates an attack, win by striking down or parrying attack, and counter attack when opponent is discourage.
+1. 先々の先 when facing an opponent, having keen insight to quickly recognize their start, attack immediately, forestalling opponents move. This act of attacking faster than opponent's sen is the most important in kendo. This is the initiative of the pre-emptive strike 出ばな業.
+2.  先の先 when the opponent starts an attack, win by striking him before their attack is complete.
+3. 後の先 when the opponent see 隙「すき」 \(weakness\) and initiates an attack, win by striking down or parrying attack, and counter attack when opponent is discourage.
 
 ## 機会「きかい」
 
@@ -67,7 +67,7 @@ There are moments that are said to occur unfailingly during the course of combat
 
 This is the idea of taking the initiative \(sen\) by use of 攻め to find the opportunity \(機会「きかい」\) to perform technique \(業\).
 
-## Basic 攻め techniques
+## 基本攻め技術「きほんせめぎじゅつ」
 
 * The saying "win then strike; do not strike to win" emphasizes the importance of gaining superiority over the opponent before striking.
 * 攻め is a way to overcome opponent's strong 気合い and 剣先.
@@ -75,7 +75,7 @@ This is the idea of taking the initiative \(sen\) by use of 攻め to find the o
 * As soon as 攻め defeats the opponent's 剣先, you must strike without hesitation.
 * Basic practice is done with 竹刀 or 木刀; applications are practiced later with 防具「ぼうぐ」.
 
-## Kesen and opportunity
+## 剣先と機会「けんせんときかい」
 
 When is 中段の構え, the 剣先 is directed towards the throat, this exerts pressure on opponents, preventing them attacking. If the 剣先 moves there is a chance to strike.
 
@@ -102,7 +102,7 @@ When performing the above actions you must make sure you follow these rules.
 * Have strong spirit and determination. Make actions powerful and strike at any opening immediately.
 * Do not push hands forward during 攻め - the left fist must maintain its position to allow correct 振り被り「ふりかぶり」, and the right arm must remain relaxed - as mentioned already, use your body. Hold your breath in your 丹田「たんでん」, hold the 気 in place with an unyielding left fist.
 
-## 気-zeme
+## 気-攻め
 
 Senselessly "batting" around your opponent's 竹刀 using your wrist will only induce weakness \(隙「すき」\) in your own position, even if you are moving forward. Even though the above techniques have their place, a strong 構え and power body movement should form the root of all 攻め.
 
@@ -125,7 +125,7 @@ I have used the term "攻め to" for these exercises. This refers to the focus o
 * Opponent retreats: use 追い込み面「おいこみめん」\(chasing up opponent\) or 連続業「ぜんろくわざ」\(such as 小手-men\)
 * Opponent advanced to strike: use 出ばな or 払い業「はらいわざ」
 
-## Ken Tai Ichi - Attack and waiting \(defense\) as one
+## 剣体一致「けんたいいっち」
 
 In this saying, Ken means to attack or strike opponent fiercely to strike the first blow, and Tai means to wait resisting making the first move, while observing opponents movements calmly ready to counter attack.
 
