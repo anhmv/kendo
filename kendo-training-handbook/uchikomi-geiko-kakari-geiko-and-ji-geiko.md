@@ -20,7 +20,7 @@ Procedures:
 
   **NB**: Undesirable habits: insufficient 気合い, improper 間合い.
 
-* If 元立ち feels sufficient pressure \(気合い and 攻め\), move 剣先 slightly away from the centre to allow one of the 基本 strikes \(or thrusts\)
+* If 元立ち feels sufficient pressure \(気合い and 攻め\), move 剣先 slightly away from the center to allow one of the 基本 strikes \(or thrusts\)
   * If 剣先 moves down or to the sides, strike 面 or 突き. 
   * 剣先 moves up, strike 小手.
   * If 元立ち 竹刀 is thrust forward \(and up\), strike Do.
@@ -64,11 +64,11 @@ All members practice together, while rotating partners in a fixed direction, for
 
 ### 引き立て稽古「ひきたてげいこ」
 
-A method of instructional Keiko where the higher ranked 剣道家 lets the lower ranked opponent strike correctly \(without making this obvious\), so the less experience person can gain experience of success, and learn the opportunities. Poorly executed attacks may be countered. The less experienced person should try their best to try to score first, using all they know to make an opening. It has been said that you should exhaust all your energy in such a 5 minute bout. For the senior, try to act maybe a half grade higher than opponent, and handicap yourself to what 業 you can use.
+A method of instructional 稽古 where the higher ranked 剣道家 lets the lower ranked opponent strike correctly \(without making this obvious\), so the less experience person can gain experience of success, and learn the opportunities. Poorly executed attacks may be countered. The less experienced person should try their best to try to score first, using all they know to make an opening. It has been said that you should exhaust all your energy in such a 5 minute bout. For the senior, try to act maybe a half grade higher than opponent, and handicap yourself to what 業 you can use.
 
 ### 互角稽古「ごかくげいこ」
 
-This is Keiko between persons of almost equal skills. In this practice we treat each other as equals, even if there is a difference in ability. You must always try to do your best 剣道. Here you should concentrate on dominating the centre, and try to score the first valid strike.
+This is 稽古 between persons of almost equal skills. In this practice we treat each other as equals, even if there is a difference in ability. You must always try to do your best 剣道. Here you should concentrate on dominating the center, and try to score the first valid strike.
 
 ### 見取稽古「みとりげいこ」
 
@@ -78,7 +78,7 @@ A method where one observes the practice of another, learning their good points 
 
 In this type of practice, referees rate the match. Both 剣道家 compete as if it is a real match. This way we learn our inadequacies and faults, as well as finding our effective 業, and gaining confidence in our techniques.
 
-When judging our own bouts we must be honest, and call our opponents successful strikes, and not cheating to gain advantage. Do not let this Keiko degenerate into a violent fight. You must maintain the correct mental attitude to do your best 剣道. If you try to attack without the same basic principles you have learnt, 鎌え - 攻め - 機会 - 打突 - 残心, you will not achieve a valid strike. Remember 試合「しあい」 is to challenge yourself and your training. If you cannot succeed there, then you have not learnt correctly.
+When judging our own bouts we must be honest, and call our opponents successful strikes, and not cheating to gain advantage. Do not let this 稽古 degenerate into a violent fight. You must maintain the correct mental attitude to do your best 剣道. If you try to attack without the same basic principles you have learnt, 鎌え - 攻め - 機会 - 打突 - 残心, you will not achieve a valid strike. Remember 試合「しあい」 is to challenge yourself and your training. If you cannot succeed there, then you have not learnt correctly.
 
 ## 試合「しあい」
 

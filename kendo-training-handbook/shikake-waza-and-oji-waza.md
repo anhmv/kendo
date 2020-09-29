@@ -7,7 +7,7 @@ Kendo techniques \(waza\) are usually group into two categories:
 
 The situation is not however so clear cut. Rather like the idea of ying and yang, these ideas have to be balance, and merge into one another. What may start as shikake-waza may end as oji-waza. An example here is to initiate the attack with harai-waza but you are countered by debana-waza - you then counter and strike with the same action, but this is now suriage-waza. Only by constant training can we hope to react correctly.
 
-You should be able to move and strike correctly as disccued in previous section. All the following assumes these previous kihon have learnt, and that seme is used. These waza are then used according to opponent's response \(see Kikai - chapter 8\).
+You should be able to move and strike correctly as discussed in previous section. All the following assumes these previous kihon have learnt, and that seme is used. These waza are then used according to opponent's response \(see Kikai - chapter 8\).
 
 These two categories are further divided into sub groups of similar techniques. I have only listed a few. I have made my choices based on what senior sensei most commonly teach us. and on the ideas and goals of the Bokuto ni yoru kendo kihon waza keiko ho.
 
