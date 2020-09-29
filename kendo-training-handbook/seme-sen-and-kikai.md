@@ -28,8 +28,8 @@ There a different names and descriptions given to them, such as 先々の先、�
 
 In kendo it is of paramount importance to suppress the opponent's movement at the moment it begins. It may be said that the competition to take sen decides the match. There are said to be three sen:
 
-1. 先々の先 when facing an opponent, having keen insight to quickly recognize their start, attack immediately, forestalling opponents move. This act of attacking faster than opponent's sen is the most important in kendo. This is the initiative of the pre-emptive strike 出ばな業.
-2.  先の先 when the opponent starts an attack, win by striking him before their attack is complete.
+1. 先々の先 when facing an opponent, having keen insight to quickly recognize their start, attack immediately, forestalling opponents move. This act of attacking faster than opponent's sen is the most important in kendo. This is the initiative of the preemptive strike 出ばな業.
+2. 先の先 when the opponent starts an attack, win by striking him before their attack is complete.
 3. 後の先 when the opponent see 隙「すき」 \(weakness\) and initiates an attack, win by striking down or parrying attack, and counter attack when opponent is discourage.
 
 ## 機会「きかい」
@@ -55,7 +55,7 @@ There are moments that are said to occur unfailingly during the course of combat
 3. Strike them when they move to attack.
    * Discern your opponent has decided to attack, as their 気 is about to take form, and strike them first. \(出ばなの業「でばなのわざ」\).
 4. Strike them at the moment of his attack.
-   * Fein weakness, and invite them to attack
+   * Feint weakness, and invite them to attack
    * Strike at the unbalanced part of their attack. \(抜き業「にきわざ」、擦り上げの業「すりあげのわざ」\)
    * Wait until they think of success, then counter and strike. \(擦り上げの業「すりあげのわざ」, 返し技「かえしわざ」\)
 5. Strike them when they are confused.
@@ -133,7 +133,7 @@ In Kendo it is the direct attack that is valued most. We are all taught we shoul
 
 Offense and defense are inseparably combined. You must attack when one should attack, and wait when one should wait. While attacking one also watches and waits. While waiting and watching one is on the verge of attacking.
 
-* Have a posture of Ken with the body. Advance the body ready to strike at any time.
-* Have an attitude of Tai with the sword. Entice the opponent to attack and counter it at the first opportunity.
-* The mind should retain an attitude of Tai, as it is not good to race in. You must be calm and able to discern the correct opportunity to strike.
+* Have a posture of 剣 with the body. Advance the body ready to strike at any time.
+* Have an attitude of 体 with the sword. Entice the opponent to attack and counter it at the first opportunity.
+* The mind should retain an attitude of 体, as it is not good to race in. You must be calm and able to discern the correct opportunity to strike.
 
