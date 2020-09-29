@@ -11,7 +11,9 @@
 7. Powerful strikes, sharper grip \(手の内\)
 8. Remove doubt or fear, unite thoughts, spirit and strength \新規両区の一致「しんきりょうくのいっち」
 
-### 打ち込み Procedures:
+### 打ち込み 
+
+Procedures:
 
 * With 元立ち and 掛かり手「かかりて」 in 中段 at 一底一途の間合い「いっそこいっとのまあい」or a little further - 機先「きさき」 just touching, express 気合い \("Yah!"\).
 * 掛かり手「かかりて」 performs 攻め - step slightly forward from right foot \(攻め足\)
