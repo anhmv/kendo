@@ -1,4 +1,4 @@
-# Shikake-waza and Oji-waza
+# 仕掛け業と応じ業
 
 Kendo techniques \(waza\) are usually group into two categories:
 

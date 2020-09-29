@@ -30,6 +30,6 @@
 * [間合い、基本の打ち方、突き方、受け方、鍔迫り合い、残心](kendo-training-handbook/ma-ai-kihon-no-uchi-kata-tsuki-kata-uke-kata-tsuba-zerai-and-zanshin.md)
 * [切り返しと体当たり](kendo-training-handbook/kiri-kaeshi-and-tai-atari.md)
 * [攻め、戦と機会](kendo-training-handbook/seme-sen-and-kikai.md)
-* [Shikake-waza and Oji-waza](kendo-training-handbook/shikake-waza-and-oji-waza.md)
+* [仕掛け業と応じ業](kendo-training-handbook/shikake-waza-and-oji-waza.md)
 * [打ち込み稽古、掛かり稽古、次稽古](kendo-training-handbook/uchikomi-geiko-kakari-geiko-and-ji-geiko.md)
 
