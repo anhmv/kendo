@@ -11,7 +11,7 @@
 7. Powerful strikes, sharper grip \(手の打ち\)
 8. Remove doubt or fear, unite thoughts, spirit and strength \新規両区の一致「しんきりょうくのいっち」
 
-### 打ち込み 
+### 打ち込み
 
 Procedures:
 

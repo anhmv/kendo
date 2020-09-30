@@ -7,7 +7,7 @@
 
 The situation is not however so clear cut. Rather like the idea of ying and yang, these ideas have to be balance, and merge into one another. What may start as 仕掛け技 may end as 応じ技. An example here is to initiate the attack with 払い技 but you are countered by 出ばな技 - you then counter and strike with the same action, but this is now 擦り上げ技. Only by constant training can we hope to react correctly.
 
-You should be able to move and strike correctly as discussed in previous section. All the following assumes these previous 基本 have learnt, and that 攻め is used. These 技 are then used according to opponent's response \(see Kikai - chapter 8\).
+You should be able to move and strike correctly as discussed in previous section. All the following assumes these previous 基本 have learnt, and that 攻め is used. These 技 are then used according to opponent's response \(see 機会 - chapter 8\).
 
 These two categories are further divided into sub groups of similar techniques. I have only listed a few. I have made my choices based on what senior sensei most commonly teach us. and on the ideas and goals of the 木刀による 剣道 基本 技 稽古方.
 
@@ -15,7 +15,7 @@ I have heard different ideas with regards to the learning and use of the differe
 
 ## 仕掛け技
 
-### 一本 打ち no 技
+### 一本 打ちの技
 
 These attacks are performed as the basic 基本 strikes already discussed. They sometimes go under other names, such as 飛び込み技 and 引きばな技, but these are really ways of describing the 攻め and timing. Some basic ideas and practices are:
 
@@ -24,7 +24,7 @@ These attacks are performed as the basic 基本 strikes already discussed. They 
 * 小手打ち: from 刀間合い, 攻め to 面 or 突き. Opponent raises 剣先 to defend showing a weakness - strike 小手.
 * 胴打ち: from 刀間合い, push in with 攻め to 面 as if about to strike. Opponent raise 竹刀 to block revealing 胴, leap forward and strike.
 
-### 連続技 \(二三段の技)
+### 連続技 \(二三段の技\)
 
 There are two methods of using these techniques.
 
@@ -44,7 +44,7 @@ When practicing, keep the following in mind:
 
 1. Begin with large striking action and body movements, where 元立ち moves back sufficiently to allow correct striking.
 2. Later, use small techniques where 元立ち does not have to move to allow second strike.
-3. The left foot must be drawn up immediately \(引きつけ) to allow correct striking in good posture.
+3. The left foot must be drawn up immediately \(引きつけ\) to allow correct striking in good posture.
 4. Learn to control the size of your steps. You must move body in posture to allow striking with 物打ち.
 5. Each strike must be made in full spirit.
 6. Your 手の打ち must be tightened and relaxed with each strike. Correct 手の打ち is essential.
@@ -95,7 +95,7 @@ The timing and opportunities are also critical:
 
 Again, many other options of the 技 exist, such as 払い突き, 裏「うら」, 表「おもて」」 and 落とし.
 
-#### Hiki-wara
+#### 引き技
 
 There are stepping back techniques, a 技 where you strike while retreating from close quarters. These techniques are usually performed from 鍔迫り合い after a previous attack. You must first break your opponent's guard either by 体当たり or pushing opponent to off balance them and break posture.
 
@@ -113,17 +113,17 @@ There any many ways of breaking the 構え from 鍔迫り合い, I will discuss 
 * Wait for opponent to push back, trying to maintain their 構え
 * Immediately step back from the left leg to 打ち間合い, with the feeling of pulling opponent toward you.
 * Opponent should now be off balance and 剣先 will drop forward \(to your left\) giving an opportunity.
-* Stamp the right foot \(踏み込み足「ふみこみあし」) while striking 面 with 気-ken-tai-ichi, and flick left foot up and back to move back showing 残心.
+* Stamp the right foot \(踏み込み足「ふみこみあし」\) while striking 面 with 気-ken-tai-ichi, and flick left foot up and back to move back showing 残心.
 
 **NB**: 残心 - do not pull arms above the head, when retreating keep hands forward \(may be slightly raised, 剣先 point up\). Retreat about 3 steps and take 中段の構え at appropriate distance.
 
-**Hiki-do**
+**引き胴**
 
 * From 鍔迫り合い, press in and down with 攻め足. Push 竹刀 and hands down.
 * Wait for opponent to resist, push hands back up, trying to maintain their 構え.
 * Immediately step back from the left leg to 打ち間合い, with the feeling of push opponent's hands up as you swing up.
 * Opponent's arm will rise
-* Rotate wrist and strike the 胴 while stamping the right foot \(踏み込み足「ふみこみあし」) and flick left foot up and back to move back showing 残心.
+* Rotate wrist and strike the 胴 while stamping the right foot \(踏み込み足「ふみこみあし」\) and flick left foot up and back to move back showing 残心.
 
 **NB**: 残心 - do not pull arms back when retreating, keep hands forward in striking position \(may be slightly raised, 剣先 point up\). Retreat about 3 steps and take 中段の構え at appropriate distance.
 
@@ -133,7 +133,7 @@ There any many ways of breaking the 構え from 鍔迫り合い, I will discuss 
 * Wait for opponent to push back, trying to maintain their 構え
 * Immediately step diagonally back to the left, starting from the left leg, to 打ち間合い, maybe have feeling of flicking left hand up beneath opponent's hand.
 * Opponent should now be off balance and 剣先 will rise, giving an opportunity.
-* Stamp the right foot \(踏み込み足「ふみこみあし」) while striking a straight 小手 with 気剣体一致, and flick left foot and back to move back showing 残心.
+* Stamp the right foot \(踏み込み足「ふみこみあし」\) while striking a straight 小手 with 気剣体一致, and flick left foot and back to move back showing 残心.
 
 **NB**: 残心 - do not pull arms back when retreating, keep hands forward in striking position \(may be slightly raised, 剣先 point up\). Retreat about 3 steps and take 中段の構え at appropriate distance.
 
@@ -207,7 +207,7 @@ Start by learning large 技 with 摺足「すりあし」, and late 踏み込み
 * The entire sequence must be one continuous action.
 * It is possible to also evade from below by dropping 剣先 and stepping diagonally back.
 
-Many other 抜き技 exist, such as 面-抜き面 \(see 日本剣道方一本目\) and 小手-引き-小手 \(see 日本剣道方一本目)
+Many other 抜き技 exist, such as 面-抜き面 \(see 日本剣道方一本目\) and 小手-引き-小手 \(see 日本剣道方一本目\)
 
 ### 擦り上げ技
 
@@ -247,9 +247,9 @@ Here the strike has begun and we deflect his 竹刀 during the strike.
 * Due to close 間合い, this is a very difficult timing to master - try with feeling of 踏み込み足「ふみこみあし」almost on the spot
 * Try to catch strike early, parrying close to the middle of opponent's 竹刀.
 * Try reverse, 技 on 裏「うら」 side also.
-* Can be executed with back step action \(see 日本剣道方五本目)
+* Can be executed with back step action \(see 日本剣道方五本目\)
 
-Many other 擦り上げ技 exist, such as 突き-擦り上げ面 and 小手-擦り上げ小手 \(日本剣道方 - 六本目)
+Many other 擦り上げ技 exist, such as 突き-擦り上げ面 and 小手-擦り上げ小手 \(日本剣道方 - 六本目\)
 
 ### 返し技
 
