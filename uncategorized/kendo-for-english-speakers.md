@@ -35,7 +35,7 @@ _**Cultural note**: the relationship between senior and junior is one aspect of 
 
 ## Equipment
 
-| 漢字 | ひらがな | ROMAJI | Definitions |
+| 漢字 | ひらがな | Romaji | Definitions |
 | :--- | :--- | :--- | :--- |
 | 稽古着 | けいこぎ | keikogi | kendo uniform \(top\) |
 | 袴 | はかま | hakama | kendo uniform \(bottom\) |
