@@ -4,7 +4,7 @@ Japanese, unlike English, contains many more words which are homonyms, or words 
 
 ## Numbers
 
-| 漢字 | ひらがな | ROMAJI | Definitions |
+| 漢字 | ひらがな | Romaji | Definitions |
 | :--- | :--- | :--- | :--- |
 | 一 | いち | ichi | 1 |
 | 二 | に | ni | 2 |
@@ -56,7 +56,7 @@ _**Cultural note**: the relationship between senior and junior is one aspect of 
 
 ## Directions
 
-| 漢字 | ひらがな | ROMAJI | Definitions |
+| 漢字 | ひらがな | Romaji | Definitions |
 | :--- | :--- | :--- | :--- |
 | 前 | まえ | mae | forward |
 | 後 | あと | ato | backward |
@@ -67,7 +67,7 @@ _**Cultural note**: the relationship between senior and junior is one aspect of 
 
 ## At the start and end of practice
 
-| 漢字 | ひらがな | ROMAJI | Definitions |
+| 漢字 | ひらがな | Romaji | Definitions |
 | :--- | :--- | :--- | :--- |
 | 列 | れい | rei | line, or form a line |
 | 気を付け | きをつけ | ki wo tsuke | attention |
@@ -86,7 +86,7 @@ _**Cultural note**: the relationship between senior and junior is one aspect of 
 
 ## 足捌き - Footwork
 
-| 漢字 | ひらがな | ROMAJI | Definitions |
+| 漢字 | ひらがな | Romaji | Definitions |
 | :--- | :--- | :--- | :--- |
 | 送り足 | おくりあし | okuriashi | sliding step with the right foot forward |
 | 開き足 | ひらきあし | hirakiashi | "opening" side step, used in 左右素振り |
@@ -95,7 +95,7 @@ _**Cultural note**: the relationship between senior and junior is one aspect of 
 
 ## Warn up exercises
 
-| 漢字 | ひらがな | ROMAJI | Definitions |
+| 漢字 | ひらがな | Romaji | Definitions |
 | :--- | :--- | :--- | :--- |
 | 体操 | たいとう | taisou | exercise, warm up exercises |
 | 素振り | すぶり | suburi | a cut or stretching movement |
@@ -107,7 +107,7 @@ _**Cultural note**: the relationship between senior and junior is one aspect of 
 
 ## Practice Terms
 
-| 漢字 | ひらがな | ROMAJI | Definitions |
+| 漢字 | ひらがな | Romaji | Definitions |
 | :--- | :--- | :--- | :--- |
 | 試合 | しあい | shiai | competition |
 | 業 | わざ | waza | technique |
