@@ -2,6 +2,19 @@
 
 * [Kendo Practice Resources](README.md)
 
+## Kendo Training Handbook
+
+* [剣道トレーニングハンドブック](kendo-training-handbook/introduction.md)
+* [礼儀作法](kendo-training-handbook/reigi-saho.md)
+* [構え、構え方、納め方](kendo-training-handbook/kamae-kamae-kata-and-osame-kata.md)
+* [足捌き](kendo-training-handbook/ashi-sabaki.md)
+* [素振り](kendo-training-handbook/suburi.md)
+* [間合い、基本の打ち方、突き方、受け方、鍔迫り合い、残心](kendo-training-handbook/ma-ai-kihon-no-uchi-kata-tsuki-kata-uke-kata-tsuba-zerai-and-zanshin.md)
+* [切り返しと体当たり](kendo-training-handbook/kiri-kaeshi-and-tai-atari.md)
+* [攻め、戦と機会](kendo-training-handbook/seme-sen-and-kikai.md)
+* [仕掛け技と応じ技](kendo-training-handbook/shikake-waza-and-oji-waza.md)
+* [打ち込み稽古、掛かり稽古、次稽古](kendo-training-handbook/uchikomi-geiko-kakari-geiko-and-ji-geiko.md)
+
 ## Uncategorized
 
 * [Kendo for English Speakers](uncategorized/kendo-for-english-speakers.md)
@@ -19,17 +32,4 @@
   * [Thủ thế - Kamae](uncategorized/kendo-cho-nguoi-moi-bat-dau/thu-the-kamae.md)
   * [Ki-ai](uncategorized/kendo-cho-nguoi-moi-bat-dau/ki-ai.md)
   * [Kiri kaeshi](uncategorized/kendo-cho-nguoi-moi-bat-dau/kiri-kaeshi.md)
-
-## Kendo Training Handbook
-
-* [剣道トレーニングハンドブック](kendo-training-handbook/introduction.md)
-* [礼儀作法](kendo-training-handbook/reigi-saho.md)
-* [構え、構え方、納め方](kendo-training-handbook/kamae-kamae-kata-and-osame-kata.md)
-* [足捌き](kendo-training-handbook/ashi-sabaki.md)
-* [素振り](kendo-training-handbook/suburi.md)
-* [間合い、基本の打ち方、突き方、受け方、鍔迫り合い、残心](kendo-training-handbook/ma-ai-kihon-no-uchi-kata-tsuki-kata-uke-kata-tsuba-zerai-and-zanshin.md)
-* [切り返しと体当たり](kendo-training-handbook/kiri-kaeshi-and-tai-atari.md)
-* [攻め、戦と機会](kendo-training-handbook/seme-sen-and-kikai.md)
-* [仕掛け技と応じ技](kendo-training-handbook/shikake-waza-and-oji-waza.md)
-* [打ち込み稽古、掛かり稽古、次稽古](kendo-training-handbook/uchikomi-geiko-kakari-geiko-and-ji-geiko.md)
 
