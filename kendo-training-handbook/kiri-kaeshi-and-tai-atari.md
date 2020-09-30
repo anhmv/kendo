@@ -50,7 +50,7 @@ According to 掛かり手「かかりて」's ability, they must alter the speed
 1. Allow beginners to strike your 面 by either keeping open 構え or by hold 竹刀 vertically close, and in center of your 面.
 2. Block left / right strikes by hold 竹刀 vertically \(or slightly angled inwards\) and moving it to the left and right side, while keeping left wrist at waist level
 3. For more advance practice, keep hands more central and stop strikes by striking down their 竹刀.
-4. Use 手の内 when blocking to stop your own 面 being struck.
+4. Use 手の打ち when blocking to stop your own 面 being struck.
 5. Keeps constant rhythm moving backwards and forwards.
 
 A good 元立ち is required for correct 切り返し. Always watch 掛かり手「かかりて」's movements and be able to point out any mistakes.
@@ -61,7 +61,7 @@ A good 元立ち is required for correct 切り返し. Always watch 掛かり手
 * Improves stamina while learning correct breathing
 * Strikes become stronger and reliable
 * Learn to keep shoulders relaxed and flexible
-* Learn the skill of 手の内
+* Learn the skill of 手の打ち
 * Developers faster striking technique
 * Improves footwork
 * Develops a stable 構え
@@ -73,7 +73,7 @@ A good 元立ち is required for correct 切り返し. Always watch 掛かり手
 * Improves posture
 * Improves footwork and balance
 * Gain awareness of 間合い
-* Develops 手の内
+* Develops 手の打ち
 * Gain awareness of judging opponents skill.
 
 Always practice 切り返し. Practice it at the start of 稽古「けいこ」 to warm up and prepare oneself for practice, and at the end to correct one's posture. use it to condition one's body.
@@ -102,7 +102,7 @@ This is the act of colliding with the opponent with the surplus force of a strik
 
 Breathing is very important. Do not inhale as you make contact. Hold in some of your breath as contact is made, don't expend all your air striking. Feel that you have a strong 原「はら」 \(tension in stomach muscles\).
 
-* As you meet opponent in 鍔迫り合い, have a feeling like 手の内 in the hands - to make arms strong.
+* As you meet opponent in 鍔迫り合い, have a feeling like 手の打ち in the hands - to make arms strong.
 * Use your body and hips to push forward and slightly up while using 踏み込み「ふみこみ」 like footwork. Push forward with arms only so much as they maintain the correct position for swinging up to strike.
 * Use left leg and lower back to drive in. The feeling is of a crashing blow rather than a push.
 * Whether opponent moves backward or is strong and you move backwards, you must be ready and strike immediately.
@@ -110,10 +110,10 @@ Breathing is very important. Do not inhale as you make contact. Hold in some of 
 When receiving 体当たり, step forward right foot and push in the hips. \(Do not step back when receiving\). You must maintain your balance.
 
 * For 切り返し, allow the force to push you back a step, and receive strikes.
-* Otherwise, both should crash into each other. Whoever keeps their posture and arms positioned correctly, can then perform 引き業「ひきわざ」 and strike.
+* Otherwise, both should crash into each other. Whoever keeps their posture and arms positioned correctly, can then perform 引き技「ひきわざ」 and strike.
 
 Therefore 体当たり can be used for to purposes:
 
 1. To force back and unbalance opponent to allow you strike going forwards.
-2. To force arms in and unbalance opponent, to give you opportunity to perform 引き業.
+2. To force arms in and unbalance opponent, to give you opportunity to perform 引き技.
 

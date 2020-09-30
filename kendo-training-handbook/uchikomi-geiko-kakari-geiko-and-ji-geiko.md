@@ -5,10 +5,10 @@
 1. Good posture
 2. Strong physical body, endurance
 3. Strong limbs, more agility
-4. Faster 業
+4. Faster 技
 5. Extend breathing
 6. Observe, see striking distance or opportunity \(打ち間\)
-7. Powerful strikes, sharper grip \(手の内\)
+7. Powerful strikes, sharper grip \(手の打ち\)
 8. Remove doubt or fear, unite thoughts, spirit and strength \新規両区の一致「しんきりょうくのいっち」
 
 ### 打ち込み 
@@ -37,26 +37,26 @@ Procedures:
 ### 打ち込み 稽古「げいこ」 methods:
 
 * Against a 元立ち, practice continuous 踏み込み「ふみこみ」 practice: 正面打ち、小手打ち胴打ち.
-* Add 連続業「ぜんろく」: 小手面, 小手胴, 小手面胴.
-* Combine the 業 in a prearranged order - 約束稽古「やくそくげいこ」. Such as 面, 小手面, 小手胴, 面引き 面, 面引き 小手, 面引き do, 面.
-* Following the ideas of the 木刀に夜剣道基本業稽古方, try: 面, 小手, do, 小手面, 払い面, 面体当たり引き面.
+* Add 連続技「ぜんろく」: 小手面, 小手胴, 小手面胴.
+* Combine the 技 in a prearranged order - 約束稽古「やくそくげいこ」. Such as 面, 小手面, 小手胴, 面引き 面, 面引き 小手, 面引き do, 面.
+* Following the ideas of the 木刀に夜剣道基本技稽古方, try: 面, 小手, do, 小手面, 払い面, 面体当たり引き面.
 
 ## 掛かり稽古「かかりげいこ」
 
 Procedure:
 
 * With strong 気合い shout \("Yah!"\) break 元立ち 鎌え and step forward to striking distance, show 攻め, observe 元立ち‟s response, and immediately strike appropriate point.
-* Follow through quickly, and commence next 業 as soon as 間合い is re-established
-* Use 仕掛け業「しかけわざ」 only, no 応じ技.
+* Follow through quickly, and commence next 技 as soon as 間合い is re-established
+* Use 仕掛け技「しかけわざ」 only, no 応じ技.
 * Continue without pause until told to stop
 
 掛かり稽古「かありげいこ」 may be practiced by the pair simultaneously \(祖語の掛かり稽古「そごのかかりげいこ」.\)
 
 ## 次稽古「じげいこ」
 
-This is the general method of doing 稽古 in which we can practice implementing all the 基本 and 業 we have learnt during the other practices. Here we learn to find opportunity, polish our techniques, and discipline our minds and bodies. We will learn our own strengths and weaknesses, which we can try to overcome.
+This is the general method of doing 稽古 in which we can practice implementing all the 基本 and 技 we have learnt during the other practices. Here we learn to find opportunity, polish our techniques, and discipline our minds and bodies. We will learn our own strengths and weaknesses, which we can try to overcome.
 
-Do not let it become your focus just to beat your opponent, and try to strike him more time than he strikes you. You should aim to practice the 業 you have learnt. Learn to use 攻め and with strong spirit, using fluid actions in good posture, try to learn when and how you can make perfect strikes.
+Do not let it become your focus just to beat your opponent, and try to strike him more time than he strikes you. You should aim to practice the 技 you have learnt. Learn to use 攻め and with strong spirit, using fluid actions in good posture, try to learn when and how you can make perfect strikes.
 
 ### 回稽古「まわりげいこ」
 
@@ -64,7 +64,7 @@ All members practice together, while rotating partners in a fixed direction, for
 
 ### 引き立て稽古「ひきたてげいこ」
 
-A method of instructional 稽古 where the higher ranked 剣道家 lets the lower ranked opponent strike correctly \(without making this obvious\), so the less experience person can gain experience of success, and learn the opportunities. Poorly executed attacks may be countered. The less experienced person should try their best to try to score first, using all they know to make an opening. It has been said that you should exhaust all your energy in such a 5 minute bout. For the senior, try to act maybe a half grade higher than opponent, and handicap yourself to what 業 you can use.
+A method of instructional 稽古 where the higher ranked 剣道家 lets the lower ranked opponent strike correctly \(without making this obvious\), so the less experience person can gain experience of success, and learn the opportunities. Poorly executed attacks may be countered. The less experienced person should try their best to try to score first, using all they know to make an opening. It has been said that you should exhaust all your energy in such a 5 minute bout. For the senior, try to act maybe a half grade higher than opponent, and handicap yourself to what 技 you can use.
 
 ### 互角稽古「ごかくげいこ」
 
@@ -76,7 +76,7 @@ A method where one observes the practice of another, learning their good points 
 
 ## 試合と稽古
 
-In this type of practice, referees rate the match. Both 剣道家 compete as if it is a real match. This way we learn our inadequacies and faults, as well as finding our effective 業, and gaining confidence in our techniques.
+In this type of practice, referees rate the match. Both 剣道家 compete as if it is a real match. This way we learn our inadequacies and faults, as well as finding our effective 技, and gaining confidence in our techniques.
 
 When judging our own bouts we must be honest, and call our opponents successful strikes, and not cheating to gain advantage. Do not let this 稽古 degenerate into a violent fight. You must maintain the correct mental attitude to do your best 剣道. If you try to attack without the same basic principles you have learnt, 鎌え - 攻め - 機会 - 打突 - 残心, you will not achieve a valid strike. Remember 試合「しあい」 is to challenge yourself and your training. If you cannot succeed there, then you have not learnt correctly.
 

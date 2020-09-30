@@ -45,9 +45,9 @@ First one must master 礼儀 - 構え- 足捌き and 素振り. Then you must le
 * Do not think of striking with the right hand, strike with the left. Do not think of striking with the left hand, but strike with the hips, legs, and feet - use all your body.
 * Do not put strength into lifting the 竹刀, relax arms, and strike quickly.
 
-## 基本業
+## 基本技
 
-1. Focus on large proper 振り被り「ふりかぶり」, 気合い, and _\*\*_手の内 from a stationary position where 打突部位「だとつぶい」 \(striking zones\) can be reached without moving.
+1. Focus on large proper 振り被り「ふりかぶり」, 気合い, and 手の打ち from a stationary position where 打突部位「だとつぶい」 \(striking zones\) can be reached without moving.
 2. From 一束一刀の間合い「いっそくいっとうのまあい」, step one step in using 摺足「すりあし」 to strike to add 足捌き「あしさばき」 and 気剣体一致「きてんたいいっち」 practice.
 3. From 一束一刀の間合い「いっそくいっとうのまあい」, build up pressure, and then step one step in and strike using 踏み込み足「ふみこみあし」 and 気剣体一致「きてんたいいっち」. Here one learns and improves their 打ちま「うちま」 \(optimism distance and opportunity for cutting\)
 4. From a far distance \(遠間「とおま」\), step into 一束一刀の間合い「いっそくいっとうのまあい」 with 摺足「すりあし」, then use sharp 踏み込み「ふみこみ」 to strike and follow through with 残心「ざんしん」.
@@ -56,7 +56,7 @@ First one must master 礼儀 - 構え- 足捌き and 素振り. Then you must le
 
 * From 中段の構え at a distance where 打突部位「だとつぶい」 can be reached without step.
 * 振り被り「ふりかぶり」 large swing up until left fist is above forehead.
-* 切りつけ: 正面打ち: cut Men with left fist in front of chest; right arm extended and almost parallel to floor, both hands squeeze slightly inward in \(茶巾絞り「ちゃきんしぼり」\) and \(手の内\) wrist snap, express sharp loud 気合い: "MEN!"
+* 切りつけ: 正面打ち: cut Men with left fist in front of chest; right arm extended and almost parallel to floor, both hands squeeze slightly inward in \(茶巾絞り「ちゃきんしぼり」\) and \(手の打ち\) wrist snap, express sharp loud 気合い: "MEN!"
 * Do both actions in one continuous motion \(一挙度「いっきょど」\) - no pause between 振り被り「ふりかぶり」 and 切りつけ：面打ち.
 
 #### Step 2: 送り足正面打ち
@@ -140,7 +140,7 @@ After understanding the fundamentals of 面打ち「めんうち」, progression
 
 **NB**: In some exercises, \(such as using 打ち込み「うちこみ」\) run straight pass 元立ち「もとだち」for 残心, and turn to the right at correct 間合い. Most, not all, text books and 先生 teach to always to take 鍔迫り合い「つばぜりあい」after 小手打ち.
 
-_Normally the 元立ち should make a clear opening that is easy to strike. However in some exercise they may keep a passive 構え. In this case it is only possible to strike the 小手 cleanly by either displacing the 剣先 using a push-release technique or 払い業「はらいわざ」or to change ones body center. Adjusting the foot work allows clean striking of the 小手 as soon as 剣先 rises._
+_Normally the 元立ち should make a clear opening that is easy to strike. However in some exercise they may keep a passive 構え. In this case it is only possible to strike the 小手 cleanly by either displacing the 剣先 using a push-release technique or 払い技「はらいわざ」or to change ones body center. Adjusting the foot work allows clean striking of the 小手 as soon as 剣先 rises._
 
 * During forward step, position your RIGHT foot in front of opponent's right foot, with hips and body facing them directly.
 
@@ -240,7 +240,7 @@ For blocking attacks to the 左面 and 右面, please return to 切り返し「�
 * Receive opponents strike on the left center side area of your shinai.
 * Immediately return 構え to control the center - being mentally and physically return to attack.
 
-**NB**: This movement is the principle beginnings of 返し業「かえしわざ」
+**NB**: This movement is the principle beginnings of 返し技「かえしわざ」
 
 ### 胴打ちの受け方
 
@@ -249,7 +249,7 @@ For blocking attacks to the 左面 and 右面, please return to 切り返し「�
 * Slap opponent's striking 竹刀 down. \(Feeling of small sharp striking action\)
 * Immediately return 構え to control the center - being mentally and physically return to attack.
 
-**NB**: This movement is the principle beginnings of 撃ち落とし業「うちおとしわざ」
+**NB**: This movement is the principle beginnings of 撃ち落とし技「うちおとしわざ」
 
 ### 突きの受け方１
 
@@ -261,7 +261,7 @@ For blocking attacks to the 左面 and 右面, please return to 切り返し「�
 **NB**: This movement is the principle of beginnings of 擦り上げ「すりあげ」
 
 {% hint style="info" %}
-The above is not the only ways - The idea of cutting down the attack \(as mention for 面 and 胴 can equally be used for 小手 and 突き, leading to 打ち落とし業「うちおとしわざ」
+The above is not the only ways - The idea of cutting down the attack \(as mention for 面 and 胴 can equally be used for 小手 and 突き, leading to 打ち落とし技「うちおとしわざ」
 
 Always have the feeling of going forward when blocking where I have mentioned moving backward, have the feeling of stepping back left foot to where it would be needed for your 打ち間合い, then block with a feeling of pushing forward. Your 構え must be stable and prepared to attack going forwards.
 {% endhint %}
@@ -280,7 +280,7 @@ Above, I mentioned moving into 鍔迫り合い. This is the situation in which t
 
 **NB**: After cutting 小手, when moving in quickly after straight strike, raise 剣先 only when needed to avoid touching opponent, and make sure it come to the correct forward right upward position - this will be impossible if cutting at an angle and pulling tip backward after striking.
 
-From this position, 攻め「せめ」by pushing body / hands in, down, right and left to find opportunity to strike （see 聴き業「ききわざ」）. Do not relax, keep alert and show 残心, being ready to attack at once.
+From this position, 攻め「せめ」by pushing body / hands in, down, right and left to find opportunity to strike （see 聴き技「ききわざ」）. Do not relax, keep alert and show 残心, being ready to attack at once.
 
 ### 残心
 

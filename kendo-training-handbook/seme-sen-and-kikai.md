@@ -16,7 +16,7 @@ There is a say in Kendo "Win then strike; do not strike to win" - it is 攻め w
 
 1. 気を殺す「きをころす」- Killing the spirit \(気\) - use your own spirit and force of will \(気\) to overcome your opponents 気. With strong spirit they may feel fear, doubt or surprise, forestalling their attack and leading to a weakness or opportunity to strike.
 2. 剣を殺す「けんをころす」- Killing the sword - spoil the opponents 構え. Control the opponent's 剣先 by restraining or deflecting it. If you direct your 剣先 to the center of your opponent's body, you will exert control over their actions.
-3. 業を殺す「わざをころす」- Killing the technique. - By anticipating opponents attack, you can disrupt it and make it ineffective. As they attack, sweep it aside and counter attack, or be in a position where they are unable to strike.
+3. 技を殺す「わざをころす」- Killing the technique. - By anticipating opponents attack, you can disrupt it and make it ineffective. As they attack, sweep it aside and counter attack, or be in a position where they are unable to strike.
 
 ## 先 - the initiative
 
@@ -28,7 +28,7 @@ There a different names and descriptions given to them, such as 先々の先、�
 
 In kendo it is of paramount importance to suppress the opponent's movement at the moment it begins. It may be said that the competition to take sen decides the match. There are said to be three sen:
 
-1. 先々の先 when facing an opponent, having keen insight to quickly recognize their start, attack immediately, forestalling opponents move. This act of attacking faster than opponent's sen is the most important in kendo. This is the initiative of the preemptive strike 出ばな業.
+1. 先々の先 when facing an opponent, having keen insight to quickly recognize their start, attack immediately, forestalling opponents move. This act of attacking faster than opponent's sen is the most important in kendo. This is the initiative of the preemptive strike 出ばな技.
 2. 先の先 when the opponent starts an attack, win by striking him before their attack is complete.
 3. 後の先 when the opponent see 隙「すき」 \(weakness\) and initiates an attack, win by striking down or parrying attack, and counter attack when opponent is discourage.
 
@@ -48,24 +48,24 @@ There are moments that are said to occur unfailingly during the course of combat
 
 1. Avoid their strengths, strike where and when they are weakest.
    * Strike openings when they appear, but do not be tricked by feints of weakness.
-   * Control opponent, take an advantageous 間合い, and strike them when they are immobile or move backwards. \(一本打ちの業「いっぽんうちのわざ」、飛び込みの業「とびこみのわざ」\)
+   * Control opponent, take an advantageous 間合い, and strike them when they are immobile or move backwards. \(一本打ちの技「いっぽんうちのわざ」、飛び込みの技「とびこみのわざ」\)
 2. Harass them and strike.
    * Aggressively probe opponent's 構え and strike at resultant movements.
    * Attack relentlessly and strike at openings. \(二三段の技「にさんだんのわざ」\)
 3. Strike them when they move to attack.
-   * Discern your opponent has decided to attack, as their 気 is about to take form, and strike them first. \(出ばなの業「でばなのわざ」\).
+   * Discern your opponent has decided to attack, as their 気 is about to take form, and strike them first. \(出ばなの技「でばなのわざ」\).
 4. Strike them at the moment of his attack.
    * Feint weakness, and invite them to attack
-   * Strike at the unbalanced part of their attack. \(抜き業「にきわざ」、擦り上げの業「すりあげのわざ」\)
-   * Wait until they think of success, then counter and strike. \(擦り上げの業「すりあげのわざ」, 返し技「かえしわざ」\)
+   * Strike at the unbalanced part of their attack. \(抜き技「にきわざ」、擦り上げの技「すりあげのわざ」\)
+   * Wait until they think of success, then counter and strike. \(擦り上げの技「すりあげのわざ」, 返し技「かえしわざ」\)
 5. Strike them when they are confused.
    * Strike when your opponent when they are beset with doubts and unable to decide on action.
-   * Confuse them and strike. \(担ぎ業「かつぎわざ」\)
+   * Confuse them and strike. \(担ぎ技「かつぎわざ」\)
 6. Strike them when they stop.
    * Strike opponent when their attacks comes to an end.
-   * Strike when psychological, physical and technical impetus of them as ended. \(撃ち落とし業「うちおとしわざ」\)
+   * Strike when psychological, physical and technical impetus of them as ended. \(撃ち落とし技「うちおとしわざ」\)
 
-This is the idea of taking the initiative \(sen\) by use of 攻め to find the opportunity \(機会「きかい」\) to perform technique \(業\).
+This is the idea of taking the initiative \(sen\) by use of 攻め to find the opportunity \(機会「きかい」\) to perform technique \(技\).
 
 ## 基本攻め技術「きほんせめぎじゅつ」
 
@@ -122,8 +122,8 @@ I have used the term "攻め to" for these exercises. This refers to the focus o
 * 攻め to 突き - then strike Men or 小手 depending on response
 * 攻め to Men - then strike 小手 or 胴 according to response.
 * 攻め to 小手, then strike Men.
-* Opponent retreats: use 追い込み面「おいこみめん」\(chasing up opponent\) or 連続業「ぜんろくわざ」\(such as 小手-men\)
-* Opponent advanced to strike: use 出ばな or 払い業「はらいわざ」
+* Opponent retreats: use 追い込み面「おいこみめん」\(chasing up opponent\) or 連続技「ぜんろくわざ」\(such as 小手-men\)
+* Opponent advanced to strike: use 出ばな or 払い技「はらいわざ」
 
 ## 剣体一致「けんたいいっち」
 

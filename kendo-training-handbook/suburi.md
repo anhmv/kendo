@@ -107,9 +107,9 @@ Other terms: 切りつけ「きりつけ」is a cut, and 切り下ろし「き�
 
 When performing 切りつけ（切り下ろし）you must also include:
 
-* 手の内「てのうち」 - this is the overall use of the hands when striking. It includes the way of tightening/loosening of the grip, and the adjusting of the balance between the two hands. 
+* 手の打ち「てのうち」 - this is the overall use of the hands when striking. It includes the way of tightening/loosening of the grip, and the adjusting of the balance between the two hands. 
 * 茶巾絞り「ちゃきんしぼり」- the way to grip the 竹刀 with both hands, in posture, or when striking. The term originates from the fact that the way the 竹刀 is gripped when striking resembles the method used to wring out a towel in the tea ceremony. One grips tightly with the little, ring, and middle fingers and loosely with the thumb and forefinger.
-* さえ - when striking, the correct coordination of the right and left hand. with instantaneous 手の内, and sharp "whip like" wrist action give the strike the sharpness known as "さえ".
+* さえ - when striking, the correct coordination of the right and left hand. with instantaneous 手の打ち, and sharp "whip like" wrist action give the strike the sharpness known as "さえ".
 
 ### **"Cut with the left hand, not the right"**
 
@@ -144,7 +144,7 @@ The shout must be loud and strong - not from your mouth/vocal cords, but from yo
 ### **1. Stationary 正面打ち**
 
 * 振り被り「ふりかぶり」: large swing up until left fist is above forehead.
-* 切りつけ：正面打ち: left fist is front of chest; right arm extended and almost parallel to floor, both hands \(手の内\) snap and squeeze slightly inward in \(茶巾絞り「ちゃきんしぼり」\), express sharp loud 気合い「きあい」- "MEN!"
+* 切りつけ：正面打ち: left fist is front of chest; right arm extended and almost parallel to floor, both hands \(手の打ち\) snap and squeeze slightly inward in \(茶巾絞り「ちゃきんしぼり」\), express sharp loud 気合い「きあい」- "MEN!"
 * After this, add 送り足「おくりあし」
 
 ### **2. 送り足ー正面打ち**
@@ -190,7 +190,7 @@ The above basics can be expanded to include other 素振り「すぶり」, such
 
 Also, as well as practicing alone with 竹刀, they can be practiced:
 
-* In pairs, cutting to a 竹刀 held out in both extended arms at your head level. This is beneficial in teaching feeling of not striking too hard, learning 手の内 and さえ as well as practicing 礼儀 of working together.
+* In pairs, cutting to a 竹刀 held out in both extended arms at your head level. This is beneficial in teaching feeling of not striking too hard, learning 手の打ち and さえ as well as practicing 礼儀 of working together.
 * Using 木刀 instead of 竹刀 can be beneficial in the understanding of 刃筋「はすじ」.
 * Practicing 素振り「すぶり」 forward and backwards up and down the 道場「どうじょう」 length on one breath to help breathe control and 足捌き.
 * Using 開き足「ひらきあし」 or 踏み込み足「ふみこみあし」to learn 足捌き.
