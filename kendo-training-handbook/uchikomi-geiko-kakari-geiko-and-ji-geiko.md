@@ -34,7 +34,7 @@ Procedures:
 
   **NB**: Undesirable habits: excess upper body strength after striking, follow through diagonally, breaking 鎌え after each strike, \(i.e. pulling hands down or pushing back over head\), insufficient or excessive follow through without 残心.
 
-### 打ち込み 稽古「げいこ」 methods:
+### 打ち込み 稽古方「げいこ」
 
 * Against a 元立ち, practice continuous 踏み込み「ふみこみ」 practice: 正面打ち、小手打ち胴打ち.
 * Add 連続技「ぜんろく」: 小手面, 小手胴, 小手面胴.
