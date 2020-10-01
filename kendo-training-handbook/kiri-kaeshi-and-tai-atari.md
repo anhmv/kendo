@@ -23,7 +23,7 @@ If 切り返し is not done properly it will not have the desired results. It is
 
 ### 切り返し practice
 
-#### 掛かり手「かかりて」
+#### 係り手「かかりて」
 
 * From 刀間合い give loud 気合い, 攻め「せめ」 to body and perform a large 正面 strike.
 * Move forward quickly and 体当たり with good posture. \(Breath allowed\)
@@ -41,11 +41,11 @@ If 切り返し is not done properly it will not have the desired results. It is
 * Receive 体当たり
 * Move backward from the left foot and receive alternate 左面 and 右面 strikes, controlling the 間合い using 歩み足「あゆみあし」 footwork. \(Normally 4 back and 5 forward.\)
 * Repeat above sequence.
-* Then on receiving final 正面, move to your right and let 掛かり手「かかりて」 move passed. Turn and check 残心. The pairs then usually reverse the roles and repeat exercise.\)
+* Then on receiving final 正面, move to your right and let 係り手「かかりて」 move passed. Turn and check 残心. The pairs then usually reverse the roles and repeat exercise.\)
 
 The 元立ち role is very important as they control the 間合い for the exercise.
 
-According to 掛かり手「かかりて」's ability, they must alter the speed and intensity of the practice.
+According to 係り手「かかりて」's ability, they must alter the speed and intensity of the practice.
 
 1. Allow beginners to strike your 面 by either keeping open 構え or by hold 竹刀 vertically close, and in center of your 面.
 2. Block left / right strikes by hold 竹刀 vertically \(or slightly angled inwards\) and moving it to the left and right side, while keeping left wrist at waist level
@@ -53,7 +53,7 @@ According to 掛かり手「かかりて」's ability, they must alter the speed
 4. Use 手の打ち when blocking to stop your own 面 being struck.
 5. Keeps constant rhythm moving backwards and forwards.
 
-A good 元立ち is required for correct 切り返し. Always watch 掛かり手「かかりて」's movements and be able to point out any mistakes.
+A good 元立ち is required for correct 切り返し. Always watch 係り手「かかりて」's movements and be able to point out any mistakes.
 
 ### Some of the benefits of doing 切り返し
 
@@ -87,7 +87,7 @@ Always practice 切り返し. Practice it at the start of 稽古「けいこ」 
 * Alternate 左右面 and 胴 strikes.
 * 打ち込み「うちこみ」切り返し - perform striking techniques such as 面, 小手面 etc 3 or 5 times, after which the set of 9 - 左右面 cuts, followed by another set of 打ち込み, and another set of 9 左右面 cuts before finishing on 面 or another 3-5 cuts.
 
-The standard format for BKA Grading requires 掛かり手「かかりて」 to execute 体当たり. However, not all senior Sensei say it is necessary. At the start of training, it may be easier for 元立ち just to move backward, as this will not disturb the posture or balance of 掛かり手「かかりて」, and will avoid them pulling hands down after cutting.
+The standard format for BKA Grading requires 係り手「かかりて」 to execute 体当たり. However, not all senior Sensei say it is necessary. At the start of training, it may be easier for 元立ち just to move backward, as this will not disturb the posture or balance of 係り手「かかりて」, and will avoid them pulling hands down after cutting.
 
 ## 体当たり
 

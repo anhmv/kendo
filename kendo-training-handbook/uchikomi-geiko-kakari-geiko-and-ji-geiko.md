@@ -15,8 +15,11 @@
 
 Procedures:
 
-* With 元立ち and 掛かり手「かかりて」 in 中段 at 一底一途の間合い「いっそこいっとのまあい」or a little further - 機先「きさき」 just touching, express 気合い \("Yah!"\).
-* 掛かり手「かかりて」 performs 攻め - step slightly forward from right foot \(攻め足\)
+* With 元立ち and 係り手「かかりて」 in 中段 at 一底一途の間合い「いっそこいっとのまあい」or a little further - 機先「きさ
+
+* き」 just touching, express 気合い \("Yah!"\).
+
+* 係り手「かかりて」 performs 攻め - step slightly forward from right foot \(攻め足\)
 
   **NB**: Undesirable habits: insufficient 気合い, improper 間合い.
 
@@ -24,12 +27,15 @@ Procedures:
   * If 剣先 moves down or to the sides, strike 面 or 突き. 
   * 剣先 moves up, strike 小手.
   * If 元立ち 竹刀 is thrust forward \(and up\), strike Do.
+  
 * Step forward and strike with 踏み込み「ふみこみ」: one large forward step sharply to the floor, and left foot immediately follows up, moving forward with 送り足- 3 to 4 steps.
+
 * 元立ち use 開き足「ひらきあし」 to move away after the strike, with 突き, retreat slightly with 送り足.
 
   **NB**: Undesirable habits: inadequate 踏み込み「ふみこみ」 gait, right foot raised too high, left foot does not follow quickly or kicks up, pause between 振り被り「ふりかぶり」 and 打突, improper 送り足, hips bent and body unstable.
 
 * 打突: same as in 基本: equal strength in both hands, release strength from hands immediately after strike, relax shoulders \(especially for 振り被り「ふりかぶり」\) and contain power in the lower abdomen \(成果丹田「せいかたんでん」\)
+
 * Follow through with 送り足 until distance is again at 一底一途の間合い「いっそくいっとのまあい」 or 刀間合い, then come to 中段 and show 残心.
 
   **NB**: Undesirable habits: excess upper body strength after striking, follow through diagonally, breaking 鎌え after each strike, \(i.e. pulling hands down or pushing back over head\), insufficient or excessive follow through without 残心.

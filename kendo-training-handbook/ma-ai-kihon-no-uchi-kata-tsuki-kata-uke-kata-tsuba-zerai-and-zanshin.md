@@ -19,9 +19,9 @@ We can learn, practice and improve our cutting with 素振り, but we need an op
 
 We should practice striking with 木刀 to just above the target, and striking the target with 竹刀 - either to the Bogu or 竹刀 held close to actual target position, so not to effect cutting distances.
 
-Practicing in pairs, the term かかりて is used for the one striking \(practicing technique\) and 元立ち「もとだち」 used for the receiver of the strike or technique. Both must maintain alertness during practice as both roles are vital.
+Practicing in pairs, the term 係り手 is used for the one striking \(practicing technique\) and 元立ち「もとだち」 used for the receiver of the strike or technique. Both must maintain alertness during practice as both roles are vital.
 
-かかりて must always maintain posture and pressure to be ready to cut immediately any opportunity to strike. The height of the 剣先「けんせん」 in 構えwill vary with the size of one's opponent, as will your 打ちま「うちま」. When in 構え adjust the 剣先「けんせん」 level by moving the left fist position rather than bending the wrist. When cutting your right hand should finish around your opponents shoulder level.
+係り手 must always maintain posture and pressure to be ready to cut immediately any opportunity to strike. The height of the 剣先「けんせん」 in 構えwill vary with the size of one's opponent, as will your 打ちま「うちま」. When in 構え adjust the 剣先「けんせん」 level by moving the left fist position rather than bending the wrist. When cutting your right hand should finish around your opponents shoulder level.
 
 元立ち「もとだち」 must help maintain correct 間合い「まあい」 and provide correct opportunities to be struck.
 
@@ -80,7 +80,7 @@ First one must master 礼儀 - 構え- 足捌き and 素振り. Then you must le
 _**NB**: Several ways of continuing after cutting which are useful to practice are:_
 
 1. _Continue just 1 step forward and stop at 鍔迫り合い「つばぜりあい」\(see later\) - takes 2 steps back._
-2. _Continue straight forward 3-4 steps while 元立ち「もとだち」 retreats - かかりて keeping 竹刀 close to men target. Assume 中段 and reverse roles._
+2. _Continue straight forward 3-4 steps while 元立ち「もとだち」 retreats - 係り手 keeping 竹刀 close to men target. Assume 中段 and reverse roles._
 
 #### Step 4: 攻め➖踏み込み足正面打ち - 遠間「とおま」 \(two step action\)
 
@@ -93,8 +93,8 @@ _**NB**: Several ways of continuing after cutting which are useful to practice a
 
 _**NB**: Several different ways of 元立ち「もとだち」 offering target can be practiced:_
 
-1. _Open immediately after かかりて makes pressure \(攻め\)_
-2. _Keep relaxed 構え, and かかりて will "drive" in 攻め to control center line and make opportunity to strike \(気攻め\)_
+1. _Open immediately after 係り手 makes pressure \(攻め\)_
+2. _Keep relaxed 構え, and 係り手 will "drive" in 攻め to control center line and make opportunity to strike \(気攻め\)_
 3. _Wait 2-3 seconds before opening 構え - to teach sensing opportunity._
 
 ### _Undesirable habits_
@@ -164,7 +164,7 @@ _Normally the 元立ち should make a clear opening that is easy to strike. Howe
 * Bring left foot up behind right immediately \(引きつけ）
 * Use quick successive 送り足「おくりあし」to proceed straight forward 3 to 4 fast steps for 残心.
 
-**NB**: Begin by cutting straight ahead, and passing opponent on your right side. 元立ち can turn to their right to offer large 胴 area, and allow かかりて to pass. 残心 after passing turn right.
+**NB**: Begin by cutting straight ahead, and passing opponent on your right side. 元立ち can turn to their right to offer large 胴 area, and allow 係り手 to pass. 残心 after passing turn right.
 
 Later,
 
@@ -196,7 +196,7 @@ Later,
 * 竹刀 is thrust in an angle because of uneven strengths in both arms or hands.
 * Hands too high.
 * Hips are twisted.
-* かかりて strikes the floor with 剣先 after 突き.
+* 係り手 strikes the floor with 剣先 after 突き.
 
 ## 受け方「うけかた」\(Basic blocking techniques\)
 
@@ -302,7 +302,7 @@ You must show and train this idea of 残心 during all practices. it is a vital 
 
 Some ideas of improving 残心, and instil the actions required are:
 
-* 元立ち to turn and following かかりて as they past. Check that they look, turn correctly, and 構え is in balance to response and attack.
-* Try 面ー残心ー面, where, after striking and making distance, かかりて turns and cuts 面 immediately \(元立ち must be in correct place\).
+* 元立ち to turn and following 係り手 as they past. Check that they look, turn correctly, and 構え is in balance to response and attack.
+* Try 面ー残心ー面, where, after striking and making distance, 係り手 turns and cuts 面 immediately \(元立ち must be in correct place\).
 * During 打ち込み「うちこみ」、掛かり「かかり」、次稽古「じげいこ」- follow up after attacks, and try to strike opponent as they turn - this is one of the key opportunities to attack.
 

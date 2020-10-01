@@ -140,9 +140,9 @@ There any many ways of breaking the 構え from 鍔迫り合い, I will discuss 
 You can practice this 技 in many different ways:
 
 * From 鍔迫り合い, compete to find opening and strike. 元立ち should follow up to help develop speed of your footwork and 残心.
-* Strike opponent, then both performs 体当たり, and 掛かり手 will strike with 引き技
-* Strike opponent. 元立ち will "block" strike - both perform 体当たり, and 掛かり手 will strike with 引き技
-* Strike opponent. 元立ち will "block" strike and move aside, and 掛かり手 turns as they pass and will strike again with 引き技
+* Strike opponent, then both performs 体当たり, and 係り手 will strike with 引き技
+* Strike opponent. 元立ち will "block" strike - both perform 体当たり, and 係り手 will strike with 引き技
+* Strike opponent. 元立ち will "block" strike and move aside, and 係り手 turns as they pass and will strike again with 引き技
 * 元立ち strike \(面\) - you block attack using correct 受け方, and immediately use 引き技 to strike them.
 
 #### 出ばな技
