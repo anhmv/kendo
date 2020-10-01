@@ -42,7 +42,9 @@ Procedures:
 * Combine the 技 in a prearranged order - 約束稽古「やくそくげいこ」. Such as 面, 小手面, 小手胴, 面引き 面, 面引き 小手, 面引き do, 面.
 * Following the ideas of the 木刀に夜剣道基本技稽古方, try: 面, 小手, do, 小手面, 払い面, 面体当たり引き面.
 
-## 掛かり稽古「かかりげいこ」
+{% embed url="https://www.youtube.com/watch?v=LYsJKej64TA" %}
+
+## かかり稽古
 
 Procedure:
 
@@ -53,11 +55,15 @@ Procedure:
 
 掛かり稽古「かありげいこ」 may be practiced by the pair simultaneously \(祖語の掛かり稽古「そごのかかりげいこ」.\)
 
-## 次稽古「じげいこ」
+{% embed url="https://www.youtube.com/watch?v=60BA3B4siw4" %}
+
+## 地稽古「じげいこ」
 
 This is the general method of doing 稽古 in which we can practice implementing all the 基本 and 技 we have learnt during the other practices. Here we learn to find opportunity, polish our techniques, and discipline our minds and bodies. We will learn our own strengths and weaknesses, which we can try to overcome.
 
 Do not let it become your focus just to beat your opponent, and try to strike him more time than he strikes you. You should aim to practice the 技 you have learnt. Learn to use 攻め and with strong spirit, using fluid actions in good posture, try to learn when and how you can make perfect strikes.
+
+{% embed url="https://www.youtube.com/watch?v=6mpWvxxJnwc" %}
 
 ### 回稽古「まわりげいこ」
 
