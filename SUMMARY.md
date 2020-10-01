@@ -2,9 +2,10 @@
 
 * [Kendo Practice Resources](README.md)
 
-## Kendo Training Handbook
+## 剣道トレーニングハンドブック <a id="kendo-training-handbook"></a>
 
-* [剣道トレーニングハンドブック](kendo-training-handbook/introduction.md)
+* [初めて](kendo-training-handbook/introduction.md)
+* [何は剣道](kendo-training-handbook/ha.md)
 * [礼儀作法](kendo-training-handbook/reigi-saho.md)
 * [構え、構え方、納め方](kendo-training-handbook/kamae-kamae-kata-and-osame-kata.md)
 * [足捌き](kendo-training-handbook/ashi-sabaki.md)
